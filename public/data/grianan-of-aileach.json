@@ -1,0 +1,237 @@
+{
+  "id": "grianan-of-aileach",
+  "slug": "grianan-of-aileach",
+  "name": "Grianán of Aileach - Ancient Stone Fort",
+  "tagline": "A magnificent stone fort commanding spectacular views from Greenan Mountain",
+  "type": "hillfort",
+  "category": "iron-age-medieval-fort",
+  "categories": ["hillfort", "stone-fort", "ringfort", "iron-age", "medieval", "royal-site", "defensive-structure", "kings-of-ailech"],
+  "historicalPeriod": "iron-age-medieval",
+  "era": "6th-12th century CE",
+  "yearBuilt": "6th-7th century CE (current structure)",
+  "significance": "Royal seat of the Kingdom of Ailech and one of the royal sites of Gaelic Ireland",
+  "foundedBy": "Northern Uí Néill dynasty (Cenél nÉogain branch), possibly Áed Oirdnide",
+
+  "description": {
+    "short": "Standing on the summit of Greenan Mountain, the great stone fort known as the Grianán of Aileach commands spectacular views across Inishowen between Loughs Foyle and Swilly.",
+    "full": "Standing on the summit of Greenan Mountain at 244 metres high, the great stone fort known as the Grianán of Aileach commands spectacular views across Inishowen between Loughs Foyle and Swilly, west towards Letterkenny and east towards Derry. This magnificent hillfort was the ancient royal seat of the Cenél nÉogain, a branch of the powerful Northern Uí Néill dynasty, one of the most influential families in early medieval Ireland. The stone ringfort, probably built in the 6th or 7th century CE, has been identified as the seat of the Kingdom of Ailech and one of the royal sites of Gaelic Ireland. The massive circular dry-stone wall stands about 5 metres high and 4.5 metres thick, enclosing an interior of 23.5 metres in diameter. Inside, three terraces are linked by stone steps, and two mysterious passages run within the walls. The fort is surrounded by three concentric earthen ramparts that follow the natural contours of the hilltop, creating a trivallate hillfort of exceptional significance.",
+    "history": "It has been suggested that the fort was originally constructed sometime before AD 800 by the ambitious Áed Oirdnide, king of Cenél nÉogain, whose kingdom was initially confined to the Inishowen Peninsula. From this commanding hilltop, he could view both his Inishowen homeland and gaze across his newly won territories. The Grianán of Aileach served as a powerful political statement and the stronghold of royal authority for the Cenél nÉogain as they expanded throughout Ulster. The fort was inhabited by the Northern Uí Néill dynasty from approximately 789 to 1050 CE. In 1101 AD, Muirchertach Ua Briain, king of Munster, led a six-week military campaign into Ulster. Though he failed to become High King, the Annals of the Four Masters record that he ordered his army to carry away stones from the rampart, effectively decommissioning the fortress. According to legend, this was in retaliation for an outrageous event in 1088, when the Cenél nÉogain forced defeated Munster warriors to carry hazel timber all the way from Kincora to Ulster to roof a hall at the Grianán. The site fell into ruin until extensive restoration was carried out by Walter Bernard between 1874-1878, using the remains of Staigue Fort in County Kerry as an architectural model.",
+    "architecture": "The main structure is a circular stone cashel (ringfort) with a massive dry-stone wall measuring 4.5 metres thick and 5 metres high. The interior measures 23.6 metres north to south and 23.2 metres east to west. A lintel-covered entrance passage extends through the wall from the east, measuring 4.65 metres long, 1.12 metres wide, and 1.86 metres high. The interior rises in three terraces accessible by stone stairways on either side of the entrance. Within the wall are two mysterious passages - one from the south and another from the northeast - that run towards the gateway but stop short. The south passage is 20.4 metres long with a small recess, while the northeast passage includes a T-junction and a seat-stone. The fort is encircled by three concentric earthen and stone ramparts that create terraced defences around the hilltop. A tumulus (possibly Neolithic) and St. Patrick's Well are located outside the main structure. The restoration work of the 1870s rebuilt much of the collapsed stonework, marking undisturbed portions with tar and supplementing with additional stones from the area.",
+    "culturalSignificance": "One of the royal sites of Gaelic Ireland and the seat of the Kingdom of Ailech. The fort represents the power and influence of the Northern Uí Néill dynasty who ruled from this commanding position for over 250 years. The Metrical Dindshenchas, an early Irish text revealing the origins of place names, refers to it as 'Aileach Frigrenn, green-sward of the world's royal kings, fortress to which led roads horse-trodden, through five ramparts.' The site is deeply embedded in Irish mythology, with legends connecting it to the Tuatha Dé Danann and the god Dagda, who supposedly built it as a burial place for his son Aed. The site was also used as a Mass rock during the anti-Catholic religious persecution that began under Henry VIII and ended with Catholic Emancipation in 1829. Today it stands as a protected National Monument and powerful symbol of ancient Irish kingship."
+  },
+
+  "location": {
+    "address": {
+      "street": "Greenan Mountain",
+      "town": "Carrowreagh, Burt",
+      "county": "Donegal",
+      "region": "Inishowen Peninsula, Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": ""
+    },
+    "coordinates": {
+      "latitude": 55.0238399,
+      "longitude": -7.4276983
+    },
+    "directions": {
+      "general": "Located on Greenan Mountain in Burt, Inishowen Peninsula. The fort is 11.25km northwest of Derry City. Car park at summit provides easy access.",
+      "byCar": "Follow signs to Grianan of Aileach from Burt village. Car park managed by Donegal County Council is located at the summit. The fort is a 2-minute walk from the car park.",
+      "byBus": "Limited public transport. Nearest bus services to Burt village, then 4km uphill walk to summit.",
+      "parking": "Free car park at summit (managed by Donegal County Council). No overnight parking permitted."
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://heritageireland.ie/unguided-sites/grianan-of-aileach/",
+    "bookingUrl": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/griananofaileach/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round - Unguided Site",
+      "seasonal": [
+        {
+          "period": "Year-round",
+          "days": "Daily",
+          "hours": "08:00 - 18:00 (daylight hours)",
+          "notes": "Access available during daylight hours. Site is unguided and unmanned."
+        }
+      ],
+      "closedDates": [],
+      "specialEvents": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Free admission. This is an unguided national monument with free public access."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "30-60 minutes",
+        "included": ["Stone fort", "Terraces and passages", "Panoramic views", "St Patrick's Well"],
+        "notes": "Unguided site - visitors explore independently. Information panels on site."
+      }
+    ],
+    "averageVisitDuration": "45 minutes - 1 hour",
+    "busyPeriods": ["Summer months", "Weekends", "Good weather days"],
+    "adviceForVisitors": "WARNING: This is an unguided site and a level of care and caution should be maintained during all stages of your visit. The Office of Public Works (OPW) will not be held responsible for any damages, injuries, or losses that occur. Appropriate footwear recommended. The site can be windy - dress appropriately. No toilet facilities on site. Car park barrier may be closed outside business hours."
+  },
+
+  "features": {
+    "highlights": [
+      "Massive stone ringfort (5m high, 4.5m thick walls)",
+      "Three internal terraces linked by stone steps",
+      "Two mysterious wall passages within the structure",
+      "Spectacular 360-degree panoramic views",
+      "Views across three counties (Donegal, Derry, Tyrone)",
+      "Three concentric earthen ramparts (trivallate hillfort)",
+      "St. Patrick's Well on the hillside",
+      "Ancient tumulus (possibly Neolithic)",
+      "Royal seat of the Kingdom of Ailech",
+      "Commanding hilltop position (244m elevation)",
+      "Views to Lough Foyle, Lough Swilly, and Inishowen"
+    ],
+    "facilities": ["Car park", "Information panels"],
+    "accessibility": {
+      "wheelchairAccessible": "Limited",
+      "notes": "Unguided site with uneven ground, stone steps, and terraced interior. Not suitable for wheelchairs. Appropriate footwear required. Can be windy on exposed hilltop.",
+      "restrictions": ["No toilet facilities", "Uneven surfaces", "Stone steps", "Exposed hilltop", "No barriers on terraces", "Assistance dogs only"]
+    },
+    "uniqueSellingPoints": [
+      "Royal seat of the powerful Northern Uí Néill dynasty",
+      "One of the royal sites of Gaelic Ireland",
+      "Spectacular 360-degree panoramic views across three counties",
+      "Trivallate hillfort (three concentric ramparts) - rare in Ireland",
+      "Massive stone walls 5m high and 4.5m thick",
+      "Mysterious internal wall passages of unknown purpose",
+      "Connected to Irish mythology (Tuatha Dé Danann, Dagda)",
+      "Seat of the Kingdom of Ailech for over 250 years",
+      "Mentioned in ancient Irish texts (Metrical Dindshenchas)",
+      "Destroyed by King of Munster in 1101 and rebuilt in 1870s",
+      "Free admission with easy access from car park",
+      "Views to Lough Foyle, Lough Swilly, and across Inishowen"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2024/02/An-Grianan-Gareth-Wray-Photography-dec-2028-exp.png",
+      "alt": "Sunrise at Grianán of Aileach stone fort on Greenan Mountain",
+      "caption": "Sunrise at Grianán of Aileach - Credit: Gareth Wray Photography"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/02/Grianan-of-Aileach-Tom-Archer.png",
+        "alt": "Aerial view of Grianán of Aileach with surrounding landscape and mountains",
+        "caption": "Landscape view around Grianán of Aileach - Credit: Tom Archer"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/02/Grianan-of-Aileach_Web-Size-Tom-Archer.png",
+        "alt": "Aerial landscape surrounding Grianán of Aileach showing fields and river",
+        "caption": "Aerial landscape surrounding Grianán of Aileach - Credit: Tom Archer"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/02/Northern-Headlands-An-Grianan-of-Aileach-Gardiner-Mitchell.png",
+        "alt": "Heather fields at the stone ringfort with blue sky backdrop",
+        "caption": "Heather fields at Grianán of Aileach - Credit: Gardiner Mitchell"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/02/An-Grianan-of-Aileach-Gardiner-Mitchell.png",
+        "alt": "Interior centre of Grianán showing grassy enclosure and stone walls",
+        "caption": "Interior centre of Grianán - Credit: Gardiner Mitchell"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/02/An-Grianan-of-Aileach-Web-Size-Gardiner-Mitchell.png",
+        "alt": "Two people exiting the stone fort entrance with cloudy sky above",
+        "caption": "Entrance to Grianán of Aileach - Credit: Gardiner Mitchell"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Newmills Corn and Flax Mills",
+      "distance": "26.5 km",
+      "type": "industrial-heritage"
+    },
+    {
+      "name": "Glebe Gallery and Garden - Derek Hill House",
+      "distance": "30.4 km",
+      "type": "art-gallery"
+    },
+    {
+      "name": "Doe Castle",
+      "distance": "30.4 km",
+      "type": "castle"
+    },
+    {
+      "name": "Donegal Castle",
+      "distance": "59.9 km",
+      "type": "castle"
+    },
+    {
+      "name": "Derry City (Londonderry)",
+      "distance": "11.25 km",
+      "type": "historic-city"
+    }
+  ],
+
+  "tags": ["hillfort", "stone-fort", "ringfort", "iron-age", "medieval", "royal-site", "kings-of-ailech", "northern-ui-neill", "cenel-neogain", "donegal", "inishowen", "defensive-structure", "trivallate", "panoramic-views", "national-monument", "gaelic-ireland", "tuatha-de-danann", "dagda", "unguided-site"],
+  "suitableFor": ["history-enthusiasts", "archaeology-buffs", "hikers", "photographers", "families", "mythology-lovers", "panoramic-view-seekers", "heritage-travelers"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland (fort) / Donegal County Council (car park)",
+  "rating": 4.7,
+  "reviewCount": 2500,
+  "featured": true,
+
+  "optionalFields": {
+    "nationalMonument": true,
+    "unguidedSite": true,
+    "freeAdmission": true,
+    "mythologyConnection": "Connected to Tuatha Dé Danann mythology - said to be built by the god Dagda as burial place for his son Aed",
+    "literaryReferences": [
+      "Metrical Dindshenchas (early Irish text)",
+      "Annals of the Four Masters",
+      "The Tripartite Life of Patrick"
+    ],
+    "royalSite": true,
+    "dynastyAssociation": "Northern Uí Néill - Cenél nÉogain branch",
+    "notableKings": [
+      "Áed Oirdnide (possible builder, victor at Battle of Cloíteach 789)",
+      "Niall Glúndub (High King, died 919)",
+      "Domnall Mac Lochlainn (King during 1101 destruction)"
+    ],
+    "destructionEvent": "1101 - Destroyed by Muirchertach Ua Briain, King of Munster",
+    "restorationHistory": "1874-1878 - Extensive restoration by Walter Bernard using Staigue Fort as architectural model",
+    "geologicalFeature": "Greenan Mountain - 244 metres elevation",
+    "viewpoints": [
+      "Lough Foyle",
+      "Lough Swilly",
+      "Inishowen Peninsula",
+      "County Donegal",
+      "County Londonderry",
+      "County Tyrone",
+      "Letterkenny",
+      "Derry City"
+    ],
+    "safetyWarnings": [
+      "Unguided site - visitors explore at own risk",
+      "No barriers on terraces or walls",
+      "Can be very windy on exposed hilltop",
+      "Uneven ground and stone steps",
+      "No toilet facilities",
+      "Car park may close outside daylight hours"
+    ]
+  }
+}

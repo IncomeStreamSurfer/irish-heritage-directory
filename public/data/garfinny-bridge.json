@@ -1,0 +1,215 @@
+{
+  "id": "garfinny-bridge",
+  "slug": "garfinny-bridge",
+  "name": "Garfinny Bridge",
+  "tagline": "The only bridge in Ireland declared a National Monument",
+  "type": "medieval-bridge",
+  "category": "engineering-heritage",
+  "categories": ["bridge", "medieval", "engineering", "national-monument", "drystone-architecture", "heritage"],
+  "historicalPeriod": "medieval",
+  "era": "14th-15th century",
+  "yearBuilt": "1400s",
+  "significance": "Ireland's oldest surviving bridge and the only bridge declared a National Monument by the Irish Government",
+  "foundedBy": "Unknown medieval builders",
+
+  "description": {
+    "short": "Garfinny Bridge is a medieval bridge which crosses the Garfinny River, approximately 2.5km north-east of Dingle town. Built in the 14th or 15th century, it is reputed to be the oldest bridge in Ireland and the only bridge declared a National Monument.",
+    "full": "Garfinny Bridge is a remarkable medieval stone bridge that spans the Garfinny River (Abhainn na Gairfeanaí) in County Kerry, approximately 2.5 kilometres north-east of Dingle town. Constructed during the 14th or 15th century, this extraordinary engineering achievement is reputed to be the oldest surviving bridge in Ireland and holds the unique distinction of being the only bridge in the country to be declared a National Monument by the Irish Government. The bridge's elegant single arch was constructed using radial stones held together through an ancient corbelling technique, rising to a height of 3 metres above the river water level. The structure measures 16 metres in length and 2.5 metres in width, with its road surface originally paved using drystone slabs. Two low walls on either side of the bridge were also constructed using traditional dry stone building techniques, showcasing the exceptional craftsmanship of medieval Irish stonemasons. According to local tradition, the bridge played a significant role in Irish history when an English army of 800 men, under the command of Baron Arthur Grey, the Lord Deputy of Ireland, crossed it en route to attack the garrison at Dún an Óir promontory fort in November 1580 during the Second Desmond Rebellion. The bridge remained in daily use until the 19th century when it began to deteriorate under increasing traffic volume and was eventually replaced by a more modern bridge constructed a short distance upstream. Today, Garfinny Bridge stands as a testament to medieval engineering skill and Ireland's rich architectural heritage, preserved under state guardianship as a cherished National Monument.",
+    "history": "Garfinny Bridge was constructed in the 14th or 15th century, making it potentially the oldest surviving bridge in Ireland. The bridge served as a vital crossing point over the Garfinny River for centuries, connecting communities in the Dingle Peninsula. Its most famous historical moment came in November 1580 during the Second Desmond Rebellion, when Baron Arthur Grey, Lord Deputy of Ireland, led an English army of 800 men across the bridge on their way to attack the Italian and Spanish garrison at Dún an Óir (Fort of Gold) on the tip of the peninsula. This military action resulted in the infamous Siege of Smerwick, where the foreign forces supporting the Irish rebellion were massacred. The bridge continued to serve the local community for centuries, remaining in daily use until the 19th century when increasing traffic volumes began to take their toll on the medieval structure. Rather than being demolished, the bridge was preserved and a new modern bridge was constructed nearby. In recognition of its exceptional historical and architectural significance, Garfinny Bridge became the first and only bridge in Ireland to be declared a National Monument, now protected under state guardianship by the Office of Public Works.",
+    "architecture": "Garfinny Bridge is an outstanding example of medieval Irish bridge construction, showcasing sophisticated engineering techniques that have allowed it to survive for over 600 years. The bridge features a single semi-circular arch constructed using carefully cut radial stones, assembled through an ancient corbelling technique that distributes weight evenly without the use of mortar. This drystone construction method demonstrates the exceptional skill of medieval Irish craftsmen. The bridge rises 3 metres above the water level of the Garfinny River, with the structure measuring 16 metres in total length and 2.5 metres in width. The road surface was originally paved with drystone slabs, creating a durable crossing suitable for foot traffic, horses, and carts. Two low parapet walls, also constructed using dry stone techniques, run along either side of the bridge to guide travelers and prevent accidents. The use of locally quarried stone and traditional building methods means the bridge harmonizes beautifully with the surrounding Kerry landscape. The elegant curve of the arch and the careful placement of each stone showcase both functional engineering and aesthetic beauty, making Garfinny Bridge a masterpiece of medieval infrastructure that continues to inspire admiration today.",
+    "culturalSignificance": "Garfinny Bridge holds immense cultural and historical significance as Ireland's oldest surviving bridge and the only bridge in the country to be designated a National Monument. It represents the pinnacle of medieval Irish engineering and demonstrates the sophisticated infrastructure that existed in rural Ireland during the Middle Ages. The bridge is a tangible link to Ireland's past, having witnessed centuries of Irish history from medieval commerce to military conflict during the Desmond Rebellions. Its connection to the 1580 Siege of Smerwick adds a layer of historical drama to the structure, reminding visitors of Ireland's turbulent relationship with English rule. The bridge's survival through centuries of use is a testament to the skill and knowledge of medieval Irish stonemasons, whose corbelling techniques created structures of remarkable durability. As a National Monument under state guardianship, Garfinny Bridge is protected for future generations, serving as an educational resource and a source of pride for the local community. The bridge has become an important heritage attraction on the Dingle Peninsula, drawing visitors interested in medieval architecture, engineering history, and Ireland's rich cultural heritage. Its designation as a National Monument underscores the Irish Government's commitment to preserving exceptional examples of the country's built heritage."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "An Ghairfeanaigh",
+      "county": "Kerry",
+      "region": "Wild Atlantic Way - Dingle Peninsula",
+      "country": "Ireland",
+      "postcode": "V92 N275"
+    },
+    "coordinates": {
+      "latitude": 52.1500791,
+      "longitude": -10.2269153
+    },
+    "directions": {
+      "general": "Located approximately 2.5km north-east of Dingle town on a minor rural road crossing the Garfinny River",
+      "byCar": "From Dingle town, head north-east on the R559 towards Lispole. The bridge is signposted and accessible via a minor road off the main route. Parking is limited to roadside.",
+      "byBus": "No direct bus service. Take bus to Dingle town and then taxi or bicycle to the bridge (2.5km).",
+      "parking": "Limited roadside parking only. Exercise caution when parking on narrow country roads."
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://heritageireland.ie/unguided-sites/garfinny-bridge/",
+    "bookingUrl": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "twitter": "https://twitter.com/heritageireopw",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round - Unguided Site",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "Accessible 24/7",
+          "notes": "Unguided outdoor monument - no visitor centre or facilities"
+        }
+      ],
+      "closedDates": [],
+      "specialEvents": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "senior": 0,
+      "child": 0,
+      "student": 0,
+      "family": 0,
+      "notes": "Free admission - National Monument accessible to public"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "15-30 minutes",
+        "included": ["Bridge viewing", "Photography opportunities", "Rural countryside setting"],
+        "notes": "Unguided site - no interpretation panels or facilities on-site"
+      }
+    ],
+    "averageVisitDuration": "15-30 minutes",
+    "busyPeriods": ["Summer months", "Good weather days"],
+    "adviceForVisitors": "This is an unguided National Monument site. A level of care and caution should be maintained during all stages of your visit. The Office of Public Works (OPW) will not be held responsible for any damages, injuries, or losses that occur. The bridge is no longer in use for vehicle traffic. Respect the monument and do not climb on the structure. Limited parking available on narrow country roads - exercise caution. Best combined with other attractions in Dingle town and the Dingle Peninsula."
+  },
+
+  "features": {
+    "highlights": [
+      "Only bridge in Ireland declared a National Monument",
+      "Reputed to be Ireland's oldest surviving bridge",
+      "14th or 15th century construction",
+      "Single semi-circular arch using corbelling technique",
+      "Drystone construction without mortar",
+      "Historical connection to 1580 Second Desmond Rebellion",
+      "Baron Arthur Grey's army crossed here in 1580",
+      "Medieval engineering masterpiece",
+      "Perfectly preserved medieval architecture",
+      "Scenic rural Kerry location"
+    ],
+    "facilities": [],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "Unguided rural site with no facilities. Access is via narrow country roads with limited parking. The bridge is viewable from the roadside but the site is not developed for accessibility.",
+      "restrictions": ["No climbing on the bridge structure", "No facilities on-site", "Limited parking", "Narrow rural access roads", "Unguided site - visitor safety is own responsibility"]
+    },
+    "uniqueSellingPoints": [
+      "Only bridge in Ireland with National Monument status",
+      "Potentially Ireland's oldest surviving bridge (14th-15th century)",
+      "Exceptional medieval drystone engineering",
+      "Historical connection to Second Desmond Rebellion (1580)",
+      "Baron Arthur Grey's army crossed here before Siege of Smerwick",
+      "16 metres long, 3 metres high, 2.5 metres wide",
+      "Corbelling technique used - no mortar in construction",
+      "In daily use for over 400 years (14th-19th century)",
+      "Protected under National Monuments Acts 1930-2014",
+      "Perfect example of medieval Irish craftsmanship"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2025/02/170927-Kerry-Visit-Grellan-FMC-265.jpg",
+      "alt": "Garfinny Bridge with the river flowing under its small medieval arch",
+      "caption": "Garfinny Bridge - The only bridge in Ireland declared a National Monument. Credit: OPW"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/02/170927-Kerry-Visit-Grellan-FMC-257.jpg",
+        "alt": "Side view of the cobbled stone bridge",
+        "caption": "View across Garfinny Bridge showing medieval drystone construction. Credit: OPW"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/02/170927-Kerry-Visit-Grellan-FMC-258.jpg",
+        "alt": "View of the cobbled bridge with the river rushing underneath",
+        "caption": "The Garfinny River flowing beneath the 14th-15th century bridge. Credit: OPW"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Dingle Town",
+      "distance": "2.5 km",
+      "type": "heritage-town"
+    },
+    {
+      "name": "Ionad an Bhlascaoid - The Blasket Centre",
+      "distance": "16.2 km",
+      "type": "visitor-centre"
+    },
+    {
+      "name": "Slea Head Drive",
+      "distance": "8 km",
+      "type": "scenic-drive"
+    },
+    {
+      "name": "Gallarus Oratory",
+      "distance": "12 km",
+      "type": "early-christian-church"
+    },
+    {
+      "name": "Ardfert Cathedral",
+      "distance": "36.2 km",
+      "type": "cathedral"
+    },
+    {
+      "name": "Daniel O'Connell House - Derrynane House",
+      "distance": "43.6 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Sceilg Mhichíl UNESCO World Heritage Property",
+      "distance": "46.3 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Ross Castle",
+      "distance": "49.0 km",
+      "type": "castle"
+    },
+    {
+      "name": "Listowel Castle",
+      "distance": "60.0 km",
+      "type": "castle"
+    }
+  ],
+
+  "tags": ["bridge", "medieval", "engineering", "national-monument", "drystone", "kerry", "dingle", "corbelling", "desmond-rebellion", "1580", "baron-arthur-grey", "siege-of-smerwick", "garfinny-river", "oldest-bridge", "medieval-architecture", "heritage", "wild-atlantic-way"],
+  "suitableFor": ["history-enthusiasts", "architecture-lovers", "photographers", "heritage-tourists", "engineering-buffs", "medieval-history-fans", "walkers", "cyclists"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.5,
+  "reviewCount": 450,
+  "featured": true,
+  "nationalMonument": true,
+  "protectedStatus": "National Monument under the National Monuments Acts 1930 to 2014",
+  "safetyWarnings": [
+    "Unguided site - visitor safety is your own responsibility",
+    "Do not climb on the bridge structure",
+    "Narrow rural access roads",
+    "Limited parking - exercise caution on country roads",
+    "No facilities on-site",
+    "Bridge is no longer suitable for vehicle traffic"
+  ]
+}

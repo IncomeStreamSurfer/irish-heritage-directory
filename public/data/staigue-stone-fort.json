@@ -1,0 +1,261 @@
+{
+  "id": "staigue-stone-fort",
+  "slug": "staigue-stone-fort",
+  "name": "Staigue Stone Fort",
+  "tagline": "One of Ireland's largest and best-preserved Iron Age stone forts",
+  "type": "prehistoric-fort",
+  "category": "iron-age-stone-fort",
+  "categories": ["stone-fort", "iron-age", "cashel", "prehistoric", "ring-fort", "defensive-structure", "wild-atlantic-way"],
+  "historicalPeriod": "iron-age",
+  "era": "300-400 BCE",
+  "yearBuilt": "300 BCE",
+  "significance": "One of the largest intact Iron Age stone forts in Ireland, remarkable example of dry-stone construction",
+  "foundedBy": "Iron Age community, possibly a local chieftain",
+
+  "description": {
+    "short": "Staigue Stone Fort is one of the largest intact Iron Age stone forts in Ireland, dating from between 300 and 400 BCE. Built without mortar in a spectacular mountainous amphitheatre, this imposing fortress showcases remarkable ancient engineering.",
+    "full": "Staigue Stone Fort stands as one of Ireland's most magnificent prehistoric monuments. Located in a spectacular mountainous amphitheatre near Castlecove on the Ring of Kerry, this imposing Iron Age fortress dates from between 300 and 400 BCE. The fort is built entirely of dry-stone construction—stacked with remarkable precision without the use of mortar. Its massive walls reach up to 5.5 metres high and 4 metres thick, enclosing a perfectly circular interior space approximately 27 metres in diameter. Visitors enter through a two-metre high south-facing passage door that leads through the tremendously thick wall. Inside, ten flights of steps arranged in an X configuration are built into the interior walls on two tiers, allowing defenders to keep watch from elevated positions. The fort is surrounded by an earthen ditch or fosse, approximately 8 meters wide and over 2 metres deep. Archaeological evidence suggests the fortification may have been built to protect valuable Iron Age assets such as cattle and to demonstrate the power and status of a local chieftain. The area was rich in copper, hinting that metalwork may have played a role in the fort's significance.",
+    "history": "Staigue Stone Fort was constructed during the late Iron Age, circa 300-400 BCE, making it one of the oldest stone forts in Ireland. The fort's name may derive from the Irish word 'staighre' (pronounced sty-rah), meaning stairs—referring to its distinctive stairway features. Built by an Iron Age community, possibly under the direction of a powerful local chieftain, the fort showcased sophisticated defensive architecture and engineering knowledge. While the fort has never been formally excavated, its construction demonstrates remarkable skill in dry-stone masonry and strategic planning. Two cells burrowed into the interior wall were once thought to be habitations for workers or storage chambers. The surrounding ditch suggests the site had defensive purposes, though scholars also speculate it may have served ceremonial or assembly functions. The fort remained in use for centuries, even serving as a cattle pound in the 19th century. First documented in 1821 by landowner F.C. Bland, who conducted measurements and drawings, Staigue has inspired visitors for over 200 years with its imposing presence and mysterious origins.",
+    "architecture": "Staigue Fort is a masterpiece of Iron Age dry-stone construction. The circular rampart wall stands to a maximum height of 5.7 metres on the north side, with walls averaging 4 metres in thickness at the base. The structure is built using the dry-stone technique—thousands of stones carefully stacked without mortar, yet standing strong for over 2,000 years. The south-facing entrance passage is 2 metres high and features double lintels for additional structural support. The interior diameter measures approximately 27 metres. One of the fort's most striking architectural features is the arrangement of internal stairs—ten flights of steps on two tiers, set in an X-pattern configuration. These inset stone steps lead to terraces built into the inner wall face, allowing access to elevated viewing and defensive positions. Two mural chambers (small rooms) are built into the thickness of the walls—one to the left of the entrance and one opposite it. These may have served as storage spaces or shelters. The fort is surrounded by an external ditch (fosse) approximately 8 meters wide and 2 metres deep, adding an additional defensive element. Historic records from 1825 mention projecting coping stones on the northern section, though only two remain in situ today.",
+    "culturalSignificance": "Staigue Stone Fort represents the pinnacle of Iron Age engineering and defensive architecture in Ireland. It stands as testament to the organizational capability and resources of prehistoric Irish societies—the construction would have required significant manpower, planning, and communal effort. The fort demonstrates sophisticated understanding of structural engineering, with its perfectly circular design and stable dry-stone construction surviving over 2,300 years without mortar. As one of the largest cashels (stone ring forts) in Ireland, Staigue likely served as a residence for a high-status chieftain or leader, symbolizing power and territorial control. Its dramatic setting in a mountain valley overlooking routes to the sea suggests strategic importance for controlling movement and resources. The fort belongs to a tradition of stone fort building on Ireland's western seaboard, with similarities to other Kerry cashels like Cahergal and Leacanabuaile, though Staigue surpasses them in scale and preservation. It represents the pre-Christian Iron Age period when Ireland's landscape was shaped by tribal societies and cattle-based economies. The site continues to inspire awe in visitors, as noted by F.C. Bland in 1825: 'When he enters it, he is struck with astonishment; and his imagination almost instantly transports him to distant ages lost in remote antiquity.'"
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Castlecove",
+      "locality": "Staigue",
+      "county": "Kerry",
+      "region": "Wild Atlantic Way, Ring of Kerry",
+      "country": "Ireland",
+      "postcode": "V93 XY89"
+    },
+    "coordinates": {
+      "latitude": 51.8050524,
+      "longitude": -10.0154791
+    },
+    "directions": {
+      "general": "Located approximately 18km west of Sneem and 5km off the main Ring of Kerry route (N70). Turn inland at Castlecove village and follow the narrow road up into the valley for approximately 4km.",
+      "byCar": "From Sneem, take N70 west toward Waterville. Turn right at Castlecove toward Staigue Fort (signposted). Follow narrow single-track road with passing places for 4km through stunning valley scenery. Drive carefully—road has numerous blind spots and sharp corners.",
+      "parking": "Small car park at entrance (capacity approximately 20 cars), maintained by Kerry County Council. Short walking trail from car park to fort entrance (approximately 100 metres)."
+    }
+  },
+
+  "contact": {
+    "phone": "Not applicable - unguided site",
+    "email": "Not applicable",
+    "website": "https://heritageireland.ie/unguided-sites/staigue-stone-fort/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "January - December",
+          "days": "Daily",
+          "hours": "Daylight hours",
+          "notes": "Access available during all daylight hours year-round. No gates or barriers."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Free admission. Honesty box available at entrance for voluntary donations (suggested €1-2 per person) to help with maintenance. All donations appreciated and go toward site upkeep."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "20-45 minutes",
+        "included": ["Fort exploration", "Walk on interior terraces", "View from elevated positions", "Valley views"],
+        "notes": "This is an unguided national monument. Visitors are free to explore at their own pace. Interpretive signage on site provides historical context."
+      }
+    ],
+    "averageVisitDuration": "20-45 minutes",
+    "busyPeriods": ["Summer months (June-August)", "Weekends during Ring of Kerry tour season", "Mid-morning to early afternoon"],
+    "adviceForVisitors": "Drive with extreme caution on the narrow access road—numerous blind corners and passing places required. Wear appropriate footwear as ground can be uneven. The interior is covered with grass. Climbing on walls is discouraged for safety and conservation, though steps to interior terraces are accessible. Bring cash for honesty box donation. Public toilets available in car park area (maintained by Kerry County Council). Visit early morning or late afternoon to avoid tour bus crowds and experience the site in atmospheric lighting. Photography is excellent, especially in morning or evening light. Respect the fragility of this ancient monument—it has survived 2,300 years. The site is exposed to weather—bring rain gear and sun protection as needed."
+  },
+
+  "features": {
+    "highlights": [
+      "Massive dry-stone walls up to 5.5 metres high and 4 metres thick",
+      "Perfectly circular interior approximately 27 metres in diameter",
+      "Ten flights of internal stairs in distinctive X-pattern arrangement",
+      "Double-lintel entrance passage through south wall",
+      "Two mural chambers built into wall thickness",
+      "Surrounding earthen ditch (fosse)",
+      "Over 2,300 years old with no mortar construction",
+      "Spectacular mountain valley setting",
+      "Panoramic views of surrounding landscape and distant sea",
+      "One of Ireland's largest and best-preserved stone forts"
+    ],
+    "facilities": [
+      "Car park (Kerry County Council)",
+      "Public toilets",
+      "Walking trail to fort (100m)",
+      "Interpretive information panel",
+      "Honesty box for donations",
+      "Informal seating areas on surrounding hillside"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "NOT suitable for wheelchairs or limited mobility. Access requires 100-metre walk from car park over uneven ground. Interior has grass-covered uneven surface. Steps to elevated terraces involve climbing original stone stairs.",
+      "restrictions": [
+        "Uneven surfaces throughout",
+        "Uneven walkways",
+        "Grass-covered interior",
+        "Original stone steps",
+        "No wheelchair access",
+        "Appropriate footwear required",
+        "Take care near walls and steps"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "One of largest intact Iron Age stone forts in Ireland",
+      "Over 2,300 years old—dating to 300-400 BCE",
+      "Remarkable dry-stone construction without mortar",
+      "Walls up to 5.5m high and 4m thick still standing",
+      "Distinctive X-pattern stairway arrangement",
+      "Spectacular remote mountain valley location",
+      "Ring of Kerry hidden gem—off the beaten path",
+      "Never formally excavated—mysteries remain",
+      "Inspired awe in visitors for over 200 years",
+      "Free access with honesty box system"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2024/03/StaigueFort-KenWilliams.jpg",
+      "alt": "Aerial view of Staigue Stone Fort nestled in mountain valley",
+      "caption": "Staigue Stone Fort protected by the valley - Credit: Ken Williams"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/03/180724_Staigue_Fort_003-credit-NMS-scaled.jpg",
+        "alt": "Staigue Stone Fort surrounded by grass",
+        "caption": "Staigue Stone Fort in its spectacular setting - Credit: National Monuments Service"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/03/180724_Staigue_Fort_015-credit-NMS-scaled.jpg",
+        "alt": "Walking path approaching Staigue Fort",
+        "caption": "Approach walkway to Staigue Fort - Credit: National Monuments Service"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/03/180724_Staigue_Fort_010-credit-NMS-scaled.jpg",
+        "alt": "Interior of Staigue Fort with circular stone walls",
+        "caption": "Interior view of Staigue Fort showing circular ramparts and valley backdrop - Credit: National Monuments Service"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/03/180724_Staigue_Fort_014-credit-NMS-scaled.jpg",
+        "alt": "View through entrance passage into Staigue Fort",
+        "caption": "Entrance passage through the massive stone walls - Credit: National Monuments Service"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Derrynane House - Daniel O'Connell's Home",
+      "distance": "9.2 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Skellig Ring Scenic Drive",
+      "distance": "12 km",
+      "type": "scenic-route"
+    },
+    {
+      "name": "Derrynane Beach",
+      "distance": "10 km",
+      "type": "beach"
+    },
+    {
+      "name": "Sneem Village",
+      "distance": "18 km",
+      "type": "heritage-village"
+    },
+    {
+      "name": "Ilnacullin - Garinish Island",
+      "distance": "33.4 km",
+      "type": "garden"
+    },
+    {
+      "name": "Skellig Michael UNESCO World Heritage Site",
+      "distance": "35.2 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Ross Castle",
+      "distance": "42.3 km",
+      "type": "castle"
+    },
+    {
+      "name": "Cahergal Stone Fort",
+      "distance": "28 km",
+      "type": "stone-fort"
+    }
+  ],
+
+  "tags": [
+    "stone-fort",
+    "iron-age",
+    "prehistoric",
+    "cashel",
+    "ring-fort",
+    "kerry",
+    "ring-of-kerry",
+    "wild-atlantic-way",
+    "defensive-structure",
+    "dry-stone-construction",
+    "ancient-engineering",
+    "archaeological-site",
+    "castlecove",
+    "iveragh-peninsula",
+    "unguided-site",
+    "free-admission",
+    "national-monument"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "archaeology-buffs",
+    "photographers",
+    "families",
+    "ring-of-kerry-travelers",
+    "nature-lovers",
+    "adventure-seekers",
+    "solo-travelers",
+    "fit-adults"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland (National Monument in State Guardianship)",
+  "rating": 4.5,
+  "reviewCount": 1467,
+  "featured": true,
+  "nationalMonument": true,
+  "unguidedSite": true,
+  "safetyWarnings": [
+    "Narrow access road with blind corners—drive with extreme caution",
+    "Single-track road requires use of passing places",
+    "Uneven surfaces throughout fort interior",
+    "Original stone steps can be slippery when wet",
+    "Exposed to all weather conditions—can be windy",
+    "No barriers on elevated terraces—take care",
+    "Site is remote—limited mobile phone reception"
+  ],
+  "bestTimeToVisit": "Early morning or late afternoon for best light and fewer crowds. Spring (April-May) and autumn (September-October) offer pleasant weather with fewer tour buses. Summer is busiest but offers longest daylight hours.",
+  "photographyTips": "Best photography in early morning or late evening light. Wide-angle lens ideal for capturing full circular structure. Climb interior steps for elevated perspectives. Dramatic lighting possible with cloudy skies. Valley setting provides excellent landscape context shots.",
+  "historicalContext": "Iron Age Ireland (300 BCE - 400 CE) was characterized by tribal societies, cattle-based economies, and the construction of impressive stone fortifications. Staigue represents the power and organizational capability of Iron Age chieftains who could marshal resources to build monuments that would stand for millennia. The fort predates Christianity's arrival in Ireland and offers a window into prehistoric Irish society.",
+  "conservationStatus": "National Monument protected under the National Monuments Acts 1930 to 2014. Site has been stabilized and maintained by OPW, though never formally excavated. Some restoration work conducted in 19th and 20th centuries. Ongoing conservation efforts focus on preventing further deterioration while maintaining public access."
+}

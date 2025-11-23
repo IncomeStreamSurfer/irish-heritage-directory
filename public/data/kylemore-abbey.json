@@ -1,0 +1,299 @@
+{
+  "id": "kylemore-abbey",
+  "slug": "kylemore-abbey",
+  "name": "Kylemore Abbey & Victorian Walled Garden",
+  "tagline": "A Benedictine monastery and Victorian castle in the heart of Connemara",
+  "type": "abbey",
+  "category": "benedictine-monastery",
+  "categories": ["abbey", "monastery", "victorian-castle", "benedictine", "walled-garden", "connemara", "heritage-site"],
+  "historicalPeriod": "victorian-modern",
+  "era": "1867-present",
+  "yearBuilt": "1867",
+  "significance": "Ireland's oldest Irish Benedictine Abbey and one of Connemara's most iconic visitor attractions",
+  "foundedBy": "Mitchell Henry (castle built 1867), Benedictine Nuns (abbey established 1920)",
+
+  "description": {
+    "short": "Nestled in the heart of Connemara on the Wild Atlantic Way, Kylemore Abbey is a Benedictine monastery set in a magnificent Victorian castle on a 1,000-acre mountainside estate.",
+    "full": "Kylemore Abbey is a haven of history, beauty and serenity set in 1,000 acres of mountainside in Connemara, County Galway. Home to a Benedictine order of Nuns for the past 100 years, Kylemore welcomes visitors from all over the world to embrace the magic of this magnificent estate. Built as a romantic gift by Mitchell Henry for his beloved wife Margaret in 1867, the stunning Victorian castle became home to the Irish Benedictine Nuns in 1920. The community of nuns has a remarkable history stretching back almost 400 years, originally founded in Ypres, Belgium in 1665. After their abbey was destroyed in World War One, they found refuge at Kylemore in December 1920. Today, visitors can explore the beautifully restored period rooms in the Abbey, the spectacular 6-acre Victorian Walled Garden with its restored glasshouses, the enchanting neo-Gothic Church, the Mausoleum, and miles of woodland and lakeshore walks through the stunning Connemara landscape.",
+    "history": "Kylemore Castle was built between 1867-1871 by Mitchell Henry, a wealthy English doctor and politician, as a romantic gift for his wife Margaret. The castle was designed to be a marvel of Victorian engineering with 33 bedrooms, four bathrooms, and featuring innovations like electricity and early heating systems. After Mitchell's death, the estate was sold to the Duke and Duchess of Manchester in 1903, who made it suitable for lavish entertainments. In 1920, the Irish Benedictine Nuns purchased Kylemore following the destruction of their abbey in Ypres, Belgium during World War One. The community traces its origins to 1665 in Ypres, later moving to Dublin in 1688 at the request of King James II before returning to Ypres following his defeat at the Battle of the Boyne. The nuns established an international boarding school at Kylemore which operated from 1923 to 2010. Today, Kylemore Abbey is owned by The Kylemore Trust, a non-profit organization led by the Benedictine Nuns.",
+    "architecture": "The Victorian castle is a masterpiece of 19th-century architecture featuring castellated towers, Gothic Revival elements, and Tudor-style details. The complex includes 33 bedrooms, beautifully restored reception rooms including the library and dining room, and Victorian-era innovations. The neo-Gothic Church, built as a memorial to Margaret Henry, is an architectural jewel featuring intricate stonework, marble pillars, and stunning stained glass windows. The 6-acre Victorian Walled Garden includes 21 glasshouses (now restored), a head gardener's house, and formal Victorian garden layouts with flower beds, vegetable gardens, and exotic plant collections.",
+    "culturalSignificance": "Kylemore Abbey is the oldest of the Irish Benedictine Abbeys and represents a unique blend of Victorian heritage and living monastic tradition. It stands as a testament to Victorian romanticism, religious devotion, and the resilience of a monastic community that has survived persecution, war, and exile. The abbey continues as an active Benedictine monastery while serving as one of Ireland's most beloved tourist attractions, welcoming thousands of visitors and pilgrims annually. It represents a place of welcome and spirituality in the wild landscape of Connemara."
+  },
+
+  "location": {
+    "address": {
+      "street": "Kylemore",
+      "town": "Connemara",
+      "county": "Galway",
+      "region": "Wild Atlantic Way, Connemara",
+      "country": "Ireland",
+      "postcode": "H91 VR90"
+    },
+    "coordinates": {
+      "latitude": 53.561749,
+      "longitude": -9.889245
+    },
+    "directions": {
+      "general": "Located on the N59 between Clifden and Westport in Connemara, County Galway",
+      "byCar": "From Galway: 80km (1hr 15min). From Clifden: 20km (25min) on N59 towards Westport. From Westport: 50km (50min) on N59 towards Clifden. Ample parking available at the Abbey.",
+      "byBus": "Bus Eireann and Citylink operate regional services to Kylemore and Letterfrack Village. Private tour operators including Lally Tours, Galway Tour Company, and Wild Atlantic Way Day Tours offer Connemara day tours with stops at Kylemore.",
+      "byTrain": "Nearest railway stations: Galway City and Westport. Connect via bus services.",
+      "parking": "Free car parking available on site"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 95 52001",
+    "email": "info@kylemoreabbey.com",
+    "website": "https://www.kylemoreabbey.com/",
+    "bookingUrl": "https://kylemore.retailint-tickets.com/Home",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/KylemoreAbbeyandGarden",
+      "twitter": "https://twitter.com/Kylemore",
+      "instagram": "https://www.instagram.com/kylemoreabbey/",
+      "youtube": "https://www.youtube.com/user/kylemoreabbeygardens"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "7 days a week",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ],
+      "closedDates": ["November 19th", "December 24th, 25th, 26th"],
+      "specialNotes": "Victorian Walled Garden open 10:00-16:30. Kylemore Kitchen Cafe open 10:00-16:30. Garden Teahouse open 11:00-16:00."
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 16.00,
+      "senior": 14.00,
+      "child": 10.00,
+      "student": 10.00,
+      "family": 45.00,
+      "notes": "Ticket includes Abbey, Victorian Walled Garden with shuttle bus, neo-Gothic Church, Mausoleum, woodland walks, and entry to performances when scheduled. Annual tickets available. Online booking recommended."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "2-4 hours",
+        "included": ["Abbey restored rooms", "Victorian Walled Garden", "neo-Gothic Church", "Mausoleum", "Woodland and lakeshore walks", "Shuttle bus to gardens"]
+      },
+      {
+        "type": "Guided History Talks",
+        "duration": "45 minutes",
+        "included": ["Daily history talks by Abbey Guides"],
+        "notes": "Included with admission ticket"
+      },
+      {
+        "type": "Guided Garden Tours",
+        "duration": "60 minutes",
+        "availability": "June, July, August",
+        "notes": "See events calendar for schedule"
+      }
+    ],
+    "averageVisitDuration": "2-4 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Holiday periods", "Peak tourist season"],
+    "adviceForVisitors": "Book tickets online in advance recommended. The estate is large - allow 2-4 hours minimum. Wear appropriate footwear for walking trails. Shuttle bus runs to Victorian Walled Garden. Download brochures in multiple languages from website. Dogs welcome on leads in outdoor areas. Weather can change quickly in Connemara - bring layers."
+  },
+
+  "features": {
+    "highlights": [
+      "Magnificent Victorian castle with restored period rooms",
+      "6-acre Victorian Walled Garden with 21 restored glasshouses",
+      "Enchanting neo-Gothic Church (miniature cathedral)",
+      "Mausoleum of Mitchell and Margaret Henry",
+      "Active Benedictine monastery (over 100 years at Kylemore)",
+      "1,000-acre estate with woodland and lakeshore walks",
+      "Stunning mountain and lake scenery",
+      "Home to Benedictine community with 400-year history",
+      "Wild Atlantic Way location in Connemara",
+      "Award-winning visitor experience"
+    ],
+    "facilities": [
+      "Visitor Centre",
+      "Kylemore Kitchen Cafe",
+      "Garden Teahouse",
+      "Kylemore Abbey Craft & Design Gift Shop",
+      "Shuttle bus to Victorian Walled Garden",
+      "Free car parking",
+      "Coach parking",
+      "Toilets",
+      "Wheelchair accessible toilets",
+      "Bicycle parking and hire nearby",
+      "WiFi",
+      "Picnic areas",
+      "Woodland walking trails",
+      "Virtual tours available",
+      "Multilingual brochures"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "Ground floor of Abbey is accessible. Victorian Walled Garden partially accessible via shuttle bus. neo-Gothic Church accessible. Some walking trails have uneven terrain. Contact in advance for specific accessibility requirements.",
+      "restrictions": ["Dogs on lead in outdoor areas only", "No dogs in Abbey building or gardens", "Uneven terrain on some walks", "Upper floors of Abbey not accessible"]
+    },
+    "uniqueSellingPoints": [
+      "Ireland's oldest Irish Benedictine Abbey",
+      "One of Connemara's most iconic attractions",
+      "Living monastery with active Benedictine community",
+      "Spectacular mountain and lakeside setting",
+      "Victorian romantic castle with tragic love story",
+      "400-year Benedictine history from Ypres to Kylemore",
+      "6-acre restored Victorian Walled Garden",
+      "Intricate neo-Gothic Church (miniature cathedral)",
+      "1,000 acres of wild Connemara landscape",
+      "Wild Atlantic Way location",
+      "Award-winning visitor experience and sustainability practices",
+      "Handmade products by Benedictine Nuns available"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/PanelImages/panelimagessmall19/Abbey-Reflection.jpg",
+      "alt": "Kylemore Abbey castle reflected perfectly in lake with mountains behind",
+      "caption": "Kylemore Abbey - A Benedictine monastery in Victorian castle nestled in Connemara mountains"
+    },
+    "gallery": [
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/FullLengthImages/Large/KA_opening_091_1.jpg",
+        "alt": "Kylemore Abbey castle looking out on lake with autumn forestry",
+        "caption": "Kylemore Abbey in autumn - spectacular lakeside location"
+      },
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/PanelImages/panelimagessmall19/Victorian-Walled-Garden.jpg",
+        "alt": "Large Victorian walled garden with designed flower beds, plants and glasshouses",
+        "caption": "6-acre Victorian Walled Garden with restored glasshouses"
+      },
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/PanelImages/panelimagessmall19/Gothic-Church-by-candlelight_1.jpg",
+        "alt": "Gothic Church illuminated by candlelight",
+        "caption": "The neo-Gothic Church - an architectural jewel"
+      },
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/FullLengthImages/Large/Community_Photo_-_5-4-25a.jpg",
+        "alt": "Convent of Benedictine nuns in front of large circular door",
+        "caption": "The Benedictine community at Kylemore Abbey"
+      },
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/headerimagessecondary43/secondarylargeimage26/AutumnScenes_040_-_Copy_2.jpg",
+        "alt": "Grey stone gothic church with autumnal tree beside it",
+        "caption": "neo-Gothic Church in autumn setting"
+      },
+      {
+        "url": "https://static.arocdn.com/Sites/50/kylemoreabbey/uploads/images/Gallery/General/GardensAug2019_095_1.jpg",
+        "alt": "Large green garden with trees, bushes and flowers with mountains in background",
+        "caption": "Victorian Walled Garden with Connemara mountains backdrop"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Connemara National Park",
+      "distance": "3 km",
+      "type": "national-park"
+    },
+    {
+      "name": "Letterfrack Village",
+      "distance": "3 km",
+      "type": "village"
+    },
+    {
+      "name": "Killary Harbour",
+      "distance": "15 km",
+      "type": "fjord"
+    },
+    {
+      "name": "Clifden Town",
+      "distance": "20 km",
+      "type": "town"
+    },
+    {
+      "name": "Leenane Village",
+      "distance": "25 km",
+      "type": "village"
+    },
+    {
+      "name": "Galway City",
+      "distance": "80 km",
+      "type": "city"
+    }
+  ],
+
+  "tags": [
+    "abbey",
+    "monastery",
+    "benedictine",
+    "victorian-castle",
+    "walled-garden",
+    "connemara",
+    "galway",
+    "wild-atlantic-way",
+    "heritage-site",
+    "victorian-era",
+    "neo-gothic-church",
+    "monastic-life",
+    "mitchell-henry",
+    "benedictine-nuns",
+    "ypres-connection",
+    "romantic-castle",
+    "woodland-walks",
+    "lakeside",
+    "mountain-scenery",
+    "gardens",
+    "living-monastery"
+  ],
+  "suitableFor": [
+    "families",
+    "couples",
+    "history-enthusiasts",
+    "architecture-lovers",
+    "garden-enthusiasts",
+    "photographers",
+    "pilgrims",
+    "spiritual-seekers",
+    "nature-lovers",
+    "hikers",
+    "international-visitors",
+    "coach-tours",
+    "school-groups"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "The Kylemore Trust - Non-profit organization led by Benedictine Nuns",
+  "rating": 4.8,
+  "reviewCount": 18000,
+  "featured": true,
+
+  "optionalFields": {
+    "wildAtlanticWay": true,
+    "sustainabilityCertified": true,
+    "activeMonastery": true,
+    "retailShop": true,
+    "handmadeProducts": "Chocolates, pottery, and crafts made by Benedictine Nuns available in gift shop and online",
+    "specialEvents": [
+      "Music recitals in neo-Gothic Church",
+      "History talks",
+      "Poetry readings",
+      "Garden tours (June-August)",
+      "Heritage Week events",
+      "Seasonal events"
+    ],
+    "dogsAllowed": "Yes, on leads in outdoor areas only (not in buildings or gardens)",
+    "virtualTours": true,
+    "educationalResources": "Family and school resources, nature resources, music resources available on website",
+    "retreatAvailable": "Benedictine community offers hospitality and retreats - contact monastery directly",
+    "charitableOrganization": "Registered Charity no. 20071394, CHY (Revenue) No.18550"
+  }
+}

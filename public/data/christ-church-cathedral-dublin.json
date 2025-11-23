@@ -1,0 +1,328 @@
+{
+  "id": "christ-church-cathedral-dublin",
+  "slug": "christ-church-cathedral-dublin",
+  "name": "Christ Church Cathedral Dublin",
+  "tagline": "One thousand years at the heart of Dublin",
+  "type": "cathedral",
+  "category": "medieval-cathedral",
+  "categories": ["cathedral", "church", "medieval", "norman", "gothic", "romanesque", "viking", "ecclesiastical", "anglican"],
+  "historicalPeriod": "medieval-victorian",
+  "era": "11th-19th century",
+  "yearBuilt": "c. 1030",
+  "significance": "Ireland's elder medieval cathedral and the seat of the Archbishop of Dublin",
+  "foundedBy": "Sitric Silkbeard (Viking King of Dublin) and Bishop Dúnán",
+
+  "description": {
+    "short": "Christ Church Cathedral has stood at the heart of Dublin for almost 1,000 years as one of Ireland's most historic and sacred places.",
+    "full": "Christ Church Cathedral, formally known as the Cathedral of the Holy Trinity, is the elder of Dublin's two medieval cathedrals and has been the spiritual heart of the city for nearly 1,000 years. Originally founded around 1030 as a Viking church by King Sitric Silkbeard, it was rebuilt in stone in the 1180s under the Norman magnate Strongbow and considerably enlarged in the early 13th century using Somerset stones and craftsmen. The cathedral features a remarkable blend of Romanesque and Gothic architecture, with its massive crypt being the oldest working structure in Dublin. Throughout its history, the cathedral has witnessed coronations, royal visits, and played a central role in Irish ecclesiastical and political life. The building underwent extensive Victorian restoration in the 1870s under architect George Edmund Street, funded by whiskey distiller Henry Roe, giving it much of its present appearance. Today, Christ Church is a working Anglican cathedral, renowned for its magnificent architecture, world-famous bells, exceptional choir, and important collection of medieval artifacts housed in the ancient crypt.",
+    "history": "The cathedral's story begins around 1030 when Sitric Silkbeard, the Hiberno-Norse king of Dublin, founded the original Viking church following his pilgrimage to Rome. The first bishop was Dúnán, and the cathedral initially answered to Canterbury rather than the Irish Church. In 1163, Archbishop Laurence O'Toole (later St. Laurence O'Toole) converted it to a priory of Augustinian Canons Regular, and the Priory of the Holy Trinity became one of the wealthiest religious houses in Ireland. The Norman Strongbow attended the cathedral and funded its reconstruction in stone during the 1180s. Henry II attended Christmas service here in 1171, and in 1487, Lambert Simnel was crowned as 'King Edward VI' in a failed bid to depose Henry VII. The Reformation brought major changes when Henry VIII dissolved the priory in 1539, transforming it into a Protestant cathedral with a dean and chapter. A partial collapse in 1562 brought down the south wall and stone roof, with emergency repairs lasting until the 1870s. The Victorian restoration by George Edmund Street (1871-1878), funded by distiller Henry Roe with £230,000 (€35m today), saved the cathedral and gave it its current neo-Gothic appearance.",
+    "architecture": "Christ Church Cathedral showcases an extraordinary blend of architectural styles spanning nearly a millennium. The original Norman Romanesque south transept elevation dates from the early Norman period, while the 1230s nave displays the English western school of Gothic architecture, built with oolite stone from Somerset's Dundry quarries. The cathedral features a soaring nave with vaulted ceilings (rebuilt after the 1562 collapse), medieval tiled floors with intricate patterns including foxes dressed as pilgrims, magnificent stained glass windows, and the distinctive leaning north wall that has tilted outward by 46cm since the roof collapse. The massive 12th-century crypt is the largest in Britain and Ireland and Dublin's oldest working structure. Victorian additions include the distinctive tower, flying buttresses, and the covered footbridge (Synod Hall Bridge) connecting to the former Synod Hall. The belfry houses 19 bells ranging from a quarter ton to 2.5 tons, with the oldest dating to 1738. The cathedral's architectural treasures include Strongbow's tomb, the Chapel of St. Laurence O'Toole (containing his preserved heart), and elaborate stone carvings throughout.",
+    "culturalSignificance": "As the elder of Dublin's two medieval cathedrals and seat of the Archbishop of Dublin, Christ Church holds immense cultural and historical importance. It is the only cathedral in Ireland to have maintained continuous worship for nearly 1,000 years. The building witnessed pivotal moments in Irish history, from Norman conquest to Reformation, and houses priceless artifacts including a rare copy of the Magna Carta, King William III's gold communion plate from 1690, and the famous mummified cat and rat found in the organ pipes. The cathedral's renowned choir has maintained a tradition of excellence since 1493, and in 1742 sang at the world premiere of Handel's Messiah. The cathedral represents the meeting point of Viking, Norman, and Irish heritage, standing as a testament to Dublin's complex history. Its world-famous bells and the Christ Church Cathedral Society of Change Ringers (established 1670) continue an ancient tradition. The cathedral remains a vital center of Anglican worship, music, education, and hospitality at the heart of modern Dublin."
+  },
+
+  "location": {
+    "address": {
+      "street": "Christchurch Place",
+      "town": "Wood Quay, Dublin 8",
+      "county": "Dublin",
+      "region": "Dublin City Centre",
+      "country": "Ireland",
+      "postcode": "D08 TF98"
+    },
+    "coordinates": {
+      "latitude": 53.34306,
+      "longitude": -6.27139
+    },
+    "directions": {
+      "general": "Located in the heart of Dublin city centre, next to Wood Quay at the end of Lord Edward Street",
+      "byCar": "Limited street parking nearby. Public car parks available within walking distance",
+      "byBus": "Multiple Dublin Bus routes serve the area. Closest stops on Lord Edward Street and Wood Quay",
+      "byTram": "Luas Red Line to Four Courts (10 min walk) or Jervis (15 min walk)",
+      "byTrain": "Connolly Station (20 min walk) or Heuston Station (20 min walk)",
+      "parking": "Public parking available at nearby Christ Church car park and other city centre car parks"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 1 677 8099",
+    "email": "welcome@christchurch.ie",
+    "website": "https://christchurchcathedral.ie/",
+    "bookingUrl": "https://christchurchcathedral.ticketsolve.com/ticketbooth/shows/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/cccdub/",
+      "twitter": "https://twitter.com/cccdub/",
+      "instagram": "https://www.instagram.com/christchurchdublin/",
+      "linkedin": "https://www.linkedin.com/company/christ-church-dublin/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Monday-Saturday",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:15",
+          "notes": "Last admission 45 minutes before closing"
+        },
+        {
+          "period": "Year Round",
+          "days": "Sunday",
+          "hours": "12:30 - 15:00",
+          "lastAdmission": "14:15",
+          "notes": "Limited Sunday hours due to worship services"
+        }
+      ],
+      "closedDates": ["Christmas Day", "St. Stephen's Day (26 December)"],
+      "specialEvents": ["Daily worship services", "Choral Evensong", "Christmas concerts", "Special liturgical celebrations"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 11.50,
+      "senior": 9.50,
+      "student": 9.50,
+      "child": 3.50,
+      "family": 26.00,
+      "toddler": 0.00,
+      "notes": "Reduced rates available online only. Children under 4 free. Free admission for disabled visitors and accompanying carers. Combination tickets available with nearby Dublinia Viking Museum."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided Tour with Audio Guide",
+        "duration": "60-90 minutes",
+        "included": ["Cathedral nave and transepts", "Medieval crypt with Treasures exhibition", "Audio guide (multiple languages)", "Medieval tiled floors", "Strongbow's tomb", "St. Laurence O'Toole's heart chapel"]
+      },
+      {
+        "type": "Guided Tour",
+        "duration": "60 minutes",
+        "included": ["Expert guide", "Cathedral history and architecture", "Crypt access", "Treasures exhibition", "Stories and legends"],
+        "notes": "Must be booked in advance"
+      },
+      {
+        "type": "Belfry Tour",
+        "duration": "45 minutes",
+        "included": ["86-step climb to belfry", "Bell-ringing demonstration", "Opportunity to ring a bell yourself", "Panoramic views"],
+        "notes": "Not suitable for children under 12, reduced mobility, claustrophobia, or fear of heights. Sensible footwear required."
+      }
+    ],
+    "averageVisitDuration": "1-1.5 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays", "Christmas season"],
+    "adviceForVisitors": "Book tickets online in advance for reduced rates. Photography allowed for personal use but not during services. The cathedral is an active place of worship - check service times before visiting. Audio guides available in multiple languages via smartphone. Medieval building with uneven floors and steps - appropriate footwear recommended. The crypt houses fascinating artifacts including the mummified cat and rat, rare Magna Carta copy, and royal plate. Allow extra time to explore the extensive crypt exhibition."
+  },
+
+  "features": {
+    "highlights": [
+      "12th-century crypt - largest in Britain and Ireland",
+      "Strongbow's tomb (Norman Earl of Pembroke)",
+      "Heart of St. Laurence O'Toole in shrine",
+      "Medieval tiled floors with intricate patterns",
+      "Famous mummified cat and rat",
+      "Rare 1216 copy of Magna Carta",
+      "King William III's gold communion plate (1690)",
+      "Magnificent stained glass windows",
+      "World-famous bells (19 bells for change-ringing)",
+      "Victorian Gothic nave and architecture",
+      "Leaning north wall (46cm tilt since 1562)",
+      "Covered footbridge to former Synod Hall",
+      "Treasures of Christ Church exhibition",
+      "Medieval manuscripts and artifacts",
+      "Romanesque south transept"
+    ],
+    "facilities": [
+      "Audio guides (multiple languages)",
+      "Gift shop and bookstore",
+      "Treasures exhibition in crypt",
+      "Accessible toilets",
+      "Free WiFi",
+      "School and group tours",
+      "Cathedral choir performances",
+      "Venue hire for events",
+      "Café nearby",
+      "Family dress-up area in crypt",
+      "Interactive exhibits",
+      "Labyrinth for meditation",
+      "Bicycle parking"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "As a medieval building, there are accessibility limitations. The main cathedral is accessible but the crypt requires navigating stairs. Accessible toilet facilities available. Contact in advance for special assistance arrangements.",
+      "restrictions": [
+        "Uneven medieval floors and thresholds",
+        "Steps to crypt (no lift access)",
+        "Narrow aisles in some areas",
+        "Belfry tour not wheelchair accessible (86 steps)",
+        "No large bags in belfry",
+        "Photography not permitted during services"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "Dublin's oldest working building (12th-century crypt)",
+      "Nearly 1,000 years of continuous worship",
+      "Founded as Viking church by King Sitric Silkbeard",
+      "Site of Lambert Simnel's 'coronation' (1487)",
+      "Henry II attended Christmas service (1171)",
+      "World record for full-circle bell ringing",
+      "Home to preserved heart of St. Laurence O'Toole",
+      "Handel's Messiah choir sang here (1742 premiere)",
+      "Victorian restoration saved from ruin (1871-1878)",
+      "Medieval tiled floors with unique fox pilgrims design",
+      "Leaning north wall - visible architectural history",
+      "Dublin's only cathedral with Viking origins",
+      "Largest medieval crypt in Britain and Ireland",
+      "Famous mummified cat and rat display",
+      "Rare 1216 Magna Carta copy on display"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://christchurchcathedral.ie/wp-content/uploads/2022/08/Stained-glass-West-window-2.jpg",
+      "alt": "Christ Church Cathedral Dublin exterior with Victorian Gothic architecture",
+      "caption": "Christ Church Cathedral has stood at the heart of Dublin for nearly 1,000 years"
+    },
+    "gallery": [
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2021/07/Christ-Church-Cathedral-Nave-from-West-Door-1024x682.jpg",
+        "alt": "The magnificent nave of Christ Church Cathedral with vaulted ceilings",
+        "caption": "The soaring Gothic nave with Victorian restoration"
+      },
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2023/01/Christ-Church-Cathedral_April_Graded_48-scaled.jpg",
+        "alt": "Medieval tiled floor with intricate patterns at Christ Church Cathedral",
+        "caption": "Original medieval tiled floors with unique designs including foxes dressed as pilgrims"
+      },
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2023/01/Christ-Church-Cathedral_April_Graded_42-1-scaled.jpg",
+        "alt": "The 12th-century crypt at Christ Church Cathedral",
+        "caption": "The largest medieval crypt in Britain and Ireland - Dublin's oldest working structure"
+      },
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2023/01/Christ-Church-Cathedral_April_Graded_29-1-scaled.jpg",
+        "alt": "Stained glass windows at Christ Church Cathedral Dublin",
+        "caption": "Magnificent Victorian stained glass windows illuminating the cathedral"
+      },
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2021/10/Visitors-Christ-Church-cathedral-1024x682.jpg",
+        "alt": "Visitors exploring Christ Church Cathedral",
+        "caption": "Visitors welcome year-round to explore nearly 1,000 years of history"
+      },
+      {
+        "url": "https://christchurchcathedral.ie/wp-content/uploads/2023/01/Christ-Church-Cathedral_April_Graded_197-scaled.jpg",
+        "alt": "Treasures of Christ Church exhibition in the medieval crypt",
+        "caption": "The Treasures exhibition featuring rare manuscripts, royal plate, and medieval artifacts"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Dublinia Viking Museum",
+      "distance": "Adjacent (connected by bridge)",
+      "type": "museum"
+    },
+    {
+      "name": "Dublin Castle",
+      "distance": "0.5 km",
+      "type": "castle"
+    },
+    {
+      "name": "St Patrick's Cathedral",
+      "distance": "0.7 km",
+      "type": "cathedral"
+    },
+    {
+      "name": "Trinity College Dublin",
+      "distance": "1.2 km",
+      "type": "university"
+    },
+    {
+      "name": "Temple Bar",
+      "distance": "0.8 km",
+      "type": "cultural-quarter"
+    },
+    {
+      "name": "Chester Beatty Library",
+      "distance": "0.6 km",
+      "type": "museum"
+    }
+  ],
+
+  "tags": [
+    "cathedral",
+    "church",
+    "medieval",
+    "norman",
+    "viking",
+    "gothic",
+    "romanesque",
+    "victorian",
+    "dublin",
+    "strongbow",
+    "st-laurence-otoole",
+    "crypt",
+    "bells",
+    "choir",
+    "ecclesiastical",
+    "anglican",
+    "church-of-ireland",
+    "architecture",
+    "henry-ii",
+    "reformation",
+    "sitric-silkbeard",
+    "treasures",
+    "magna-carta",
+    "stained-glass"
+  ],
+
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "religious-pilgrims",
+    "families",
+    "school-groups",
+    "photographers",
+    "choir-music-lovers",
+    "medieval-history-buffs",
+    "viking-history-enthusiasts",
+    "art-lovers",
+    "international-visitors",
+    "spiritual-seekers"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Church of Ireland - Christ Church Cathedral Chapter",
+  "rating": 4.7,
+  "reviewCount": 18000,
+  "featured": true,
+
+  "optionalFields": {
+    "activeWorship": true,
+    "choirSchool": true,
+    "choirSchoolFounded": 1493,
+    "worldRecordBells": true,
+    "bellRingingExperience": true,
+    "venueHire": true,
+    "concertsAndEvents": true,
+    "livestreamServices": true,
+    "educationalPrograms": true,
+    "labyrinthAvailable": true,
+    "specialCollections": [
+      "Rare 1216 Magna Carta copy",
+      "King William III gold plate (1690)",
+      "Medieval manuscripts",
+      "Early Christian artifacts",
+      "Mummified cat and rat",
+      "Heart of St. Laurence O'Toole",
+      "Strongbow's tomb and effigy",
+      "Tabernacle from James II era (1689)"
+    ]
+  }
+}

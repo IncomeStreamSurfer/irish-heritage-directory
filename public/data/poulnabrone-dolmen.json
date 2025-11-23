@@ -1,0 +1,216 @@
+{
+  "id": "poulnabrone-dolmen",
+  "slug": "poulnabrone-dolmen",
+  "name": "Poulnabrone Dolmen",
+  "tagline": "Ireland's iconic 5,800-year-old portal tomb in the heart of the Burren",
+  "type": "portal-tomb",
+  "category": "megalithic-monument",
+  "categories": ["neolithic", "portal-tomb", "dolmen", "megalithic", "burial-site", "prehistoric", "archaeology", "the-burren"],
+  "historicalPeriod": "neolithic",
+  "era": "3800 BC - 3200 BC",
+  "yearBuilt": "3800 BC",
+  "significance": "The oldest dated megalithic monument in Ireland and one of the most iconic archaeological sites in the country",
+  "foundedBy": "Neolithic farming communities",
+
+  "description": {
+    "short": "Perched dramatically on the limestone pavement of the Burren, Poulnabrone Dolmen is Ireland's most photographed megalithic monument, dating back 5,800 years to the early Neolithic period.",
+    "full": "Poulnabrone Dolmen is a large portal tomb located on the high limestone plateau of the Burren in County Clare, Ireland. Dating to between 3800 and 3200 BC, it is the oldest dated megalithic monument in Ireland and the second most visited location in the Burren after the Cliffs of Moher. The monument consists of three standing portal stones supporting a massive sloping capstone, creating a chamber that served as a collective burial site for over 600 years. Situated on one of the Burren's most desolate and highest points, the dolmen comprises limestone flagstones extracted from the surrounding karst landscape. When excavated in 1986 and 1988 by archaeologist Ann Lynch, the remains of around 33 people were discovered, along with stone and bone artifacts including a decorated neck pendant, providing remarkable insights into Neolithic life in Ireland. The name Poulnabrone comes from the Irish 'Poll na Brón', meaning 'Hole of the Quernstone'.",
+    "history": "Poulnabrone Dolmen was constructed by Neolithic farmers around 3800 BC and remained in continuous use as a burial site for approximately 600 years until 3200 BC. The tomb was built on unique karst landscape formed from limestone laid down around 350 million years ago. What remains today is only the stone skeleton of the original monument - it would originally have been covered with soil and the flagstone capped by a cairn. Excavations in 1986 and 1988 revealed the remains of 33 individuals, including men, women, and children, whose bones showed signs of hard physical labor and challenging lives. One hip bone contained an arrowhead, indicating conflict. Most adults died before age 30, with only one surviving past 40. The bodies were left elsewhere to decompose before their bones were transferred to the tomb. Radiocarbon dating of the remains indicates intermittent burials over the 600-year period. Remarkably, a Bronze Age infant (1750-1420 BC) was also buried just outside the entrance, showing the site continued to hold spiritual significance long after its original use.",
+    "architecture": "Poulnabrone is classified as a portal tomb featuring two large portal stones standing on either side of an entrance, capped with a massive sloping capstone. The trapezoidal capstone measures 3.9 meters in length, 2-3 meters wide, and 0.3 meters thick, weighing several tons. It is supported by two pairs of stones on the north and south sides. The capstone and pillars form a chamber 2.8 meters long that tapers eastwards. Unusually for an Irish dolmen but typical of County Clare examples, the capstone slopes upward towards the west. The tomb was built directly on limestone pavement, surrounded by a low mound of rocks approximately 10 meters in diameter that supported the upright stones. The uprights are not wedged into deep fissures but supported only by the weight of the capstone. A threshold stone lies transverse on an east-west crevice in front of the portal stones. A second stone at the rear was likely a second capstone that collapsed at some unknown time. The limestone flagstones used to build the monument were extracted from the surrounding limestone pavement.",
+    "culturalSignificance": "Poulnabrone Dolmen represents one of Ireland's most important Neolithic monuments and is the oldest dated megalithic structure in the country. It provides crucial archaeological evidence of Neolithic life, death, and ritual practices in Ireland dating back nearly 6,000 years. The discovery of 33 burials with grave goods demonstrates sophisticated social organization and spiritual beliefs. The monument may have served multiple purposes: as a territorial marker visible from all around, a collective burial site for successive generations of a specific community, and a center for ritual into the Bronze Age. The decorated bone pendant discovered during excavation shows the creativity and craftsmanship of Neolithic Irish people. Today it stands as Ireland's most photographed ancient monument and a symbol of the country's prehistoric heritage, featured prominently in Tourism Ireland campaigns worldwide."
+  },
+
+  "location": {
+    "address": {
+      "street": "R480 Road",
+      "town": "Kilcorney Parish",
+      "county": "Clare",
+      "region": "The Burren, Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": ""
+    },
+    "coordinates": {
+      "latitude": 53.0486903,
+      "longitude": -9.1400214
+    },
+    "directions": {
+      "general": "Located on the R480 road, 8 km south of Ballyvaughan and 8 km north of Kilnaboy in the heart of the Burren",
+      "byCar": "From Ballyvaughan: Take R480 south for 8km. From the south: Take R480 north from Kilnaboy. Well-signposted from main roads. Car park directly beside the monument.",
+      "byBus": "Limited public transport. Best accessed by car or organized tour from Galway or Doolin.",
+      "parking": "Free car park opened in 2007 to accommodate approximately 200,000 annual visitors. Direct access from car park. 250-meter walk from car park to dolmen over uneven limestone pavement."
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://www.ireland.com/en-us/things-to-do/attractions/poulnabrone-dolmen/",
+    "bookingUrl": "",
+    "socialMedia": {}
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "24 hours - outdoor monument with no gates",
+          "notes": "Free access at all times. No barriers or fences."
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Free to visit. No admission fee. Outdoor monument accessible 24/7."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided Visit",
+        "duration": "15-30 minutes",
+        "included": ["Free access to monument", "Information panels", "Karst landscape viewing"],
+        "notes": "No guided tours on site but many tour companies from Galway and Doolin include Poulnabrone as part of Burren tours"
+      }
+    ],
+    "averageVisitDuration": "20-30 minutes",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Midday (11am-2pm)", "Tour bus arrivals"],
+    "adviceForVisitors": "Visit early morning or late afternoon for best light and fewer crowds. The limestone pavement is uneven - wear sturdy footwear. The 250-meter walk from car park involves rough, natural rock surfaces - not suitable for wheelchairs. Respect the monument - do not climb on the stones. The site is weather-exposed - bring appropriate clothing. Best photographed in morning light from the east. Popular with tour buses - expect crowds midday in summer. Nearby toilets are not available - plan accordingly."
+  },
+
+  "features": {
+    "highlights": [
+      "5,800-year-old portal tomb - Ireland's oldest dated megalithic monument",
+      "Massive 3.9-meter limestone capstone",
+      "Spectacular karst landscape setting on limestone pavement",
+      "Archaeological site where 33 Neolithic burials were discovered",
+      "Ireland's most photographed ancient monument",
+      "Portal stones marking the tomb's entrance",
+      "Unique Burren geological features surrounding the site",
+      "Free 24/7 access",
+      "Sunset and sunrise photography opportunities"
+    ],
+    "facilities": ["Free car park", "Information panels", "Level walking path from car park (250m)", "Photography area"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "Not wheelchair accessible. The 250-meter walk from car park is over rough, uneven limestone pavement with natural rock surfaces. Very difficult for those with limited mobility. No paved pathways. Uneven ground throughout.",
+      "restrictions": ["Uneven limestone pavement", "Rough natural rock surfaces", "No wheelchair access", "Do not climb on monument", "Respect archaeological site"]
+    },
+    "uniqueSellingPoints": [
+      "Ireland's oldest dated megalithic monument (3800 BC)",
+      "Ireland's most iconic and photographed dolmen",
+      "Best-known of approximately 172 dolmens in Ireland",
+      "Featured prominently in Tourism Ireland campaigns worldwide",
+      "33 Neolithic burials discovered with artifacts",
+      "Set on spectacular Burren karst landscape",
+      "Free access 24/7 - no admission fee",
+      "Part of UNESCO Global Geopark (Burren and Cliffs of Moher Geopark)",
+      "Continuous use as burial site for 600 years (3800-3200 BC)",
+      "Archaeological evidence of Neolithic life including decorated pendant"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Paulnabrone.jpg",
+      "alt": "Poulnabrone Dolmen portal tomb on limestone pavement in the Burren, County Clare",
+      "caption": "Poulnabrone Dolmen - Ireland's most iconic megalithic monument dating to 3800 BC"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Poulnabrone_Tomb_and_surrounding_land_-_geograph.org.uk_-_491420.jpg",
+        "alt": "Poulnabrone Dolmen with surrounding karst limestone pavement",
+        "caption": "The dolmen set on the dramatic Burren limestone pavement with characteristic grikes and clints"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Paulnabrone_tombs_dolmens_burren_rocks.jpg",
+        "alt": "South view of Poulnabrone Dolmen showing portal stone",
+        "caption": "View from the south side showing the eastern portal stone and sloping capstone"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Poulnabrone_Dolmen_1.jpg",
+        "alt": "Close-up view of Poulnabrone Dolmen structure",
+        "caption": "Detailed view of the massive capstone supported by standing portal stones"
+      },
+      {
+        "url": "https://images.ireland.com/thumbs/Images/Poulnabrone/standard-desktop.jpg",
+        "alt": "Poulnabrone Dolmen at sunset with golden light",
+        "caption": "Sunset at Poulnabrone Dolmen - one of Ireland's most photographed monuments"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Cliffs of Moher",
+      "distance": "20 km",
+      "type": "natural-landmark"
+    },
+    {
+      "name": "Aillwee Caves",
+      "distance": "6 km",
+      "type": "cave-system"
+    },
+    {
+      "name": "Burren National Park",
+      "distance": "12 km",
+      "type": "national-park"
+    },
+    {
+      "name": "Doolin Village",
+      "distance": "15 km",
+      "type": "village"
+    },
+    {
+      "name": "Ballyvaughan Village",
+      "distance": "8 km",
+      "type": "village"
+    },
+    {
+      "name": "Caherconnell Stone Fort",
+      "distance": "3 km",
+      "type": "prehistoric-fort"
+    },
+    {
+      "name": "Fanore Beach",
+      "distance": "18 km",
+      "type": "beach"
+    }
+  ],
+
+  "tags": ["neolithic", "dolmen", "portal-tomb", "megalithic", "burren", "county-clare", "prehistoric", "burial-site", "archaeology", "wild-atlantic-way", "karst-landscape", "free-attraction", "ancient-monument", "3800-bc", "limestone", "heritage", "clare", "ballyvaughan"],
+  "suitableFor": ["history-enthusiasts", "archaeology-buffs", "photographers", "families", "geology-enthusiasts", "hikers", "cultural-tourists", "international-visitors", "educational-groups"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "heritageCardAccepted": false,
+  "managedBy": "National Monuments Service - Clare County Council",
+  "rating": 4.7,
+  "reviewCount": 8500,
+  "featured": true,
+
+  "optionalFields": {
+    "nationalMonument": true,
+    "nationalMonumentNumber": 632,
+    "geopark": "Burren and Cliffs of Moher UNESCO Global Geopark",
+    "excavationDates": ["1986", "1988"],
+    "excavatedBy": "Ann Lynch (National Monuments Service)",
+    "burialCount": 33,
+    "artifactsDiscovered": ["Decorated bone pendant", "Stone axe", "Quartz crystals", "Pottery fragments", "Bone jewelry"],
+    "weatherWarnings": [
+      "Exposed hilltop location - can be very windy",
+      "No shelter from rain or sun",
+      "Limestone pavement slippery when wet",
+      "Strong footwear essential in all weather"
+    ],
+    "photographyNotes": "Best photographed in early morning light from the east, or at sunset. Very popular with photographers. Midday light can be harsh. Wide-angle lens recommended to capture monument and landscape together.",
+    "geologicalFeatures": "Outstanding example of glacio-karst landscape with limestone pavement, clints, grikes, and dissolution features formed over 16,000 years since last ice age.",
+    "wildlifeAndFlora": "Burren landscape features rare Arctic-Alpine and Mediterranean flora growing in the grikes. Look for Irish hares, stoats, and numerous bird species including ravens and kestrels.",
+    "conservation": "Conservation work undertaken in 1986 and 1988 included raising the capstone to relieve pressure on damaged portal stone and full excavation of the chamber. The site was taken into state guardianship in 1986.",
+    "culturalImpact": "Poulnabrone has become an international symbol of Ireland's ancient past, featured extensively in Tourism Ireland marketing campaigns and recognized worldwide as representing Irish heritage."
+  }
+}

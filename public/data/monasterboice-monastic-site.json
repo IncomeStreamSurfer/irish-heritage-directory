@@ -1,0 +1,232 @@
+{
+  "id": "monasterboice",
+  "slug": "monasterboice-monastic-site",
+  "name": "Monasterboice Monastic Site",
+  "tagline": "Home to Ireland's finest high crosses",
+  "type": "monastic-site",
+  "category": "early-christian",
+  "categories": ["monastery", "early-christian", "high-crosses", "round-tower", "ecclesiastical", "medieval", "graveslabs"],
+  "historicalPeriod": "early-christian-medieval",
+  "era": "6th-10th century",
+  "yearBuilt": "6th century (circa 500s AD)",
+  "significance": "Home to Ireland's finest high crosses and one of the most important early Christian monastic settlements",
+  "foundedBy": "St. Buithe (St. Boetius)",
+
+  "description": {
+    "short": "Founded by St. Buithe in the 6th century, Monasterboice is home to Ireland's finest high cross - Muiredach's Cross - as well as a perfectly preserved round tower and ancient monastic ruins.",
+    "full": "The monastic settlement of Monasterboice was founded by St. Boetius (St. Buithe), an early Irish saint, in the 6th century. Located in County Louth, just north of Drogheda, it was an important centre of religion and learning until the founding of nearby Mellifont Abbey in 1142. The site is most famous for its spectacular 10th century high crosses, particularly Muiredach's Cross, which is regarded as the finest high cross in all of Ireland. The 5.5-metre tall cross features intricate biblical carvings of both the Old and New Testaments. The site also boasts a remarkably well-preserved round tower standing 30.5 metres high, two medieval churches, and over 700 early Christian graveslabs. The high crosses at Monasterboice are considered Ireland's greatest contribution to European sculpture.",
+    "history": "Founded in the late 5th or early 6th century by Saint Buithe, who died around 521, Monasterboice flourished as a major center of religion and learning throughout the early medieval period. The monastery's golden age was during the 9th and 10th centuries when the magnificent high crosses were erected. Muiredach's Cross was commissioned by Muiredach mac Domhnaill, abbot of Monasterboice who died in 923. The monastery was raided and plundered by Vikings in 968 AD. In 1097, a devastating fire burned in the round tower, destroying books and many treasures held within. By 1142, with the establishment of the Cistercian Mellifont Abbey nearby, Monasterboice's importance as a religious center gradually dwindled, though it remained in use as a parish church through the medieval period.",
+    "architecture": "The site contains remarkable examples of early Irish Christian architecture. The round tower, one of the tallest in Ireland at 30.5m (even missing its conical cap), was built of greywacke slabs and blocks with some sandstone, serving as a defensive structure and storage for the monastery's treasures. Two medieval churches stand on the site: the north church and the south church (which was the parish church in medieval times). The crown jewels are the three high crosses. Muiredach's Cross (South Cross) stands 5.5m tall and features 124 carved figures depicting biblical scenes. The West Cross (Tall Cross) is the tallest high cross in Ireland at 6.5m and contains extensive biblical carvings. A smaller North Cross also stands on the site. All structures are built from local stone and demonstrate sophisticated craftsmanship.",
+    "culturalSignificance": "Monasterboice represents one of the finest collections of early medieval Christian art and architecture in Ireland. The high crosses, particularly Muiredach's Cross, are internationally recognized as masterpieces of early medieval European sculpture. They served educational, liturgical, and ceremonial functions, with their biblical imagery used to teach scripture to an illiterate population. The crosses at Monasterboice have been described as Ireland's greatest contribution to European sculpture. The site has been proposed as a potential UNESCO World Heritage Site. The name Monasterboice (Mainistir Bhuithe) means 'monastery of Buithe', preserving the memory of its 6th-century founder."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Monasterboice",
+      "county": "Louth",
+      "region": "Ireland's Ancient East - Boyne Valley",
+      "country": "Ireland",
+      "postcode": "A92"
+    },
+    "coordinates": {
+      "latitude": 53.7778702,
+      "longitude": -6.4181801
+    },
+    "directions": {
+      "general": "Just west of and clearly visible from the M1 motorway, just north of Drogheda",
+      "byCar": "5km from Tullyallen, 8km from Drogheda. Public car park available directly across from the site",
+      "parking": "Free parking available. Sited across a minor road from the carpark"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 41 9872843",
+    "email": "",
+    "website": "https://heritageireland.ie/unguided-sites/monasterboice-monastic-site/",
+    "bookingUrl": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "twitter": "https://twitter.com/heritageireopw",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "Daylight hours",
+          "notes": "Unguided site - open access at all times"
+        }
+      ],
+      "closedDates": [],
+      "specialEvents": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "senior": 0,
+      "child": 0,
+      "student": 0,
+      "family": 0,
+      "group": 0,
+      "notes": "Free admission - no entrance fee"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "30-60 minutes",
+        "included": ["High crosses", "Round tower exterior", "Church ruins", "Graveyard", "Interpretive panels"],
+        "notes": "Unguided site - free to explore at your own pace"
+      }
+    ],
+    "averageVisitDuration": "30-60 minutes",
+    "busyPeriods": ["Summer months", "Weekends", "Good weather days"],
+    "adviceForVisitors": "This is an unguided National Monument in the care of the Office of Public Works. A level of care and caution should be maintained during all stages of your visit. Level but gravel-covered paths around the well-kept site. Appropriate footwear recommended. The round tower cannot be entered. The site is an active graveyard - please be respectful. Free interpretive panels provide historical information."
+  },
+
+  "features": {
+    "highlights": [
+      "Muiredach's Cross - Ireland's finest high cross (5.5m tall, 10th century)",
+      "West Cross (Tall Cross) - Ireland's tallest high cross at 6.5m",
+      "North Cross with geometric patterns",
+      "Round tower - one of tallest in Ireland at 30.5m",
+      "Two medieval churches (north and south)",
+      "Over 700 early Christian graveslabs",
+      "Intricate biblical carvings on crosses",
+      "Hand of God carving - local tradition for prayers",
+      "Cats at play carved on base of Muiredach's Cross"
+    ],
+    "facilities": ["Free parking", "Interpretive panels", "Gravel pathways", "Well-maintained grounds"],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "Level but gravel-covered paths around the site. Access from car park across minor road. Uneven surfaces in graveyard area.",
+      "restrictions": ["Gravel paths", "Active graveyard - be respectful", "Round tower not accessible to interior", "Uneven ground in some areas"]
+    },
+    "uniqueSellingPoints": [
+      "Home to Ireland's finest high cross - Muiredach's Cross",
+      "Tallest high cross in Ireland - West Cross at 6.5m",
+      "One of the finest collections of early medieval sculpture in Europe",
+      "124 carved biblical figures on Muiredach's Cross",
+      "Proposed UNESCO World Heritage Site",
+      "Free admission year-round",
+      "One of Ireland's tallest round towers at 30.5m",
+      "Founded by St. Buithe in 6th century",
+      "Cross of Muiredach similar to Cross of Scriptures at Clonmacnoise - possibly by same master mason",
+      "Hand of God carving with local prayer tradition"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2024/12/070417-Monasterboice-035.jpg",
+      "alt": "Aerial view of Monasterboice monastic settlement showing round tower, churches and high crosses",
+      "caption": "Monasterboice Monastic Settlement - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/12/070417-Monasterboice-054.jpg",
+        "alt": "Aerial view of the enclosed monastic settlement within a large field",
+        "caption": "Monasterboice Monastic Site - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/12/20211201_111702-scaled-e1733418928804.jpg",
+        "alt": "Monasterboice round tower surrounded by graves against blue sky",
+        "caption": "Monasterboice Round Tower - Credit: OPW"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/12/20211201_112342-1-1-scaled.jpg",
+        "alt": "View of the round tower through bare-branched trees",
+        "caption": "View through the trees - Credit: OPW"
+      },
+      {
+        "url": "https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/IMG_4802-1120x1680.jpg",
+        "alt": "Muiredach's High Cross with intricate biblical carvings",
+        "caption": "Muiredach's High Cross - Ireland's finest high cross"
+      },
+      {
+        "url": "https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/Carvings%20on%20Celtic%20High%20Cross%2C%20Monasterboice%2C%20Co_master-1120x749.jpg",
+        "alt": "Close-up of intricate biblical carvings on Celtic high cross",
+        "caption": "Detailed biblical carvings on the high crosses"
+      },
+      {
+        "url": "https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/Monasterboice%2C%20Co%20Louth-1120x749.jpg",
+        "alt": "Monasterboice high cross and round tower in County Louth",
+        "caption": "The high crosses and round tower at Monasterboice"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Old Mellifont Cistercian Abbey",
+      "distance": "5.0 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Battle of the Boyne Visitor Centre",
+      "distance": "6.1 km",
+      "type": "historical-battlefield"
+    },
+    {
+      "name": "Brú na Bóinne: Newgrange, Knowth and Dowth",
+      "distance": "9.6 km",
+      "type": "neolithic-monument"
+    },
+    {
+      "name": "Hill of Tara",
+      "distance": "25.5 km",
+      "type": "prehistoric-monument"
+    },
+    {
+      "name": "Carlingford Castle",
+      "distance": "33.2 km",
+      "type": "castle"
+    },
+    {
+      "name": "Trim Castle",
+      "distance": "34.9 km",
+      "type": "castle"
+    }
+  ],
+
+  "tags": ["monastery", "early-christian", "high-crosses", "muiredach-cross", "round-tower", "medieval", "st-buithe", "biblical-carvings", "ecclesiastical", "viking-raids", "louth", "boyne-valley", "graveslabs", "10th-century", "sculpture", "unguided-site", "free-admission"],
+  "suitableFor": ["history-enthusiasts", "architecture-lovers", "art-lovers", "photographers", "families", "pilgrims", "archaeology-buffs", "sculpture-enthusiasts", "christian-heritage-seekers"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.8,
+  "reviewCount": 5000,
+  "featured": true,
+
+  "optionalFields": {
+    "proposedUnescoWorldHeritage": true,
+    "unguidedSite": true,
+    "activeGraveyard": true,
+    "safetyWarnings": [
+      "This is an unguided National Monument - visitors should maintain care and caution",
+      "Active graveyard - please be respectful of burials and mourners",
+      "Gravel paths and uneven surfaces - appropriate footwear recommended",
+      "Round tower cannot be entered",
+      "OPW not responsible for damages, injuries, or losses that occur"
+    ],
+    "localTraditions": [
+      "Stand under the Hand of God carving on the South Cross - local belief says God will answer your prayers",
+      "During the Great Famine, emigrants took chips of stone from the crosses to carry with them as reminders of their Irish roots"
+    ],
+    "architecturalNotes": [
+      "Muiredach's Cross and Cross of Scriptures at Clonmacnoise show remarkable similarity - likely carved by same master mason",
+      "Round tower passage doorway now almost at ground level due to layers of earth laid down over time",
+      "Cross heads originally painted but no traces survive today",
+      "West Cross head excellently preserved - may have been stored indoors for a period"
+    ]
+  }
+}

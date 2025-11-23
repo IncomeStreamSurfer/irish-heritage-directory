@@ -1,0 +1,342 @@
+{
+  "id": "skellig-michael",
+  "slug": "skellig-michael",
+  "name": "Sceilg Mhichil - Skellig Michael",
+  "tagline": "One of western Europe's most magnificent ancient monastic sites",
+  "type": "monastic-island",
+  "category": "early-christian-monastery",
+  "categories": ["monastery", "early-christian", "island", "unesco-world-heritage", "beehive-huts", "pilgrimage-site", "seabird-sanctuary"],
+  "historicalPeriod": "early-christian-medieval",
+  "era": "6th-12th century",
+  "yearBuilt": "6th century (circa 588 AD)",
+  "significance": "UNESCO World Heritage Site - One of the most spectacularly situated early medieval island monastic sites in the world",
+  "foundedBy": "Attributed to St. Fionan (though historically uncertain)",
+
+  "description": {
+    "short": "Skellig Michael is a dramatic pyramidal rock island rising 218m from the Atlantic Ocean, 12km off the Kerry coast. It houses one of the world's most spectacular early Christian monastic settlements, perched precariously on narrow terraces high above the sea.",
+    "full": "Skellig Michael, or Sceilg Mhichil in Irish (meaning 'Michael's Rock'), is a UNESCO World Heritage Site located 11.6 kilometres west of the Iveragh Peninsula in County Kerry. This twin-peaked crag rises dramatically from the Atlantic Ocean, with its highest point reaching 218 metres above sea level. The island is home to one of the most remarkably preserved early Christian monastic settlements in the world, founded between the 6th and 8th centuries by monks seeking the ultimate spiritual isolation. The monastery, perched on a sloping shelf 170-180 metres above the waves, consists of six beehive huts (clochans), two oratories, a medieval church, carved crosses, and a cemetery - all connected by 618 ancient stone steps that wind up the steep cliff face. These ascetic monks lived in extreme conditions for over 600 years, enduring Viking raids and harsh Atlantic weather while maintaining their spiritual devotion. The island is also one of Ireland's most important seabird breeding sites, home to puffins, gannets, razorbills, and many other species. In recent years, Skellig Michael gained worldwide fame as a filming location for Star Wars: The Force Awakens and The Last Jedi, where it represented the planet Ahch-To.",
+    "history": "The monastery on Skellig Michael was founded sometime between the 6th and 8th centuries, though local tradition credits St. Fionan with its establishment in the 6th century. The first definite historical reference dates to the late 8th century, recording the death of 'Suibhini of Skelig'. The monastery endured two devastating Viking raids in 823 and 838 AD, when the abbot Eitgal was kidnapped and died of starvation. Despite these attacks, the community persisted and the site was formally dedicated to Saint Michael the Archangel between 950-1050 AD. The monastery thrived as a center of spiritual devotion, housing typically no more than 12 monks and an abbot at any one time. By the late 12th or early 13th century, changing weather conditions, the threat of Viking raids, and reforms to the Irish Church structure led the monks to abandon the island and relocate to Ballinskelligs Abbey on the mainland. After abandonment, Skellig Michael became an important pilgrimage destination, attracting penitents undertaking dangerous climbs to the hermitage on the South Peak. The island remained in ecclesiastical hands until 1578 when it was dissolved during the Reformation. In the 1820s, the government purchased the island to build lighthouses. The Office of Public Works assumed guardianship of the monastic remains in 1880, and UNESCO designated it a World Heritage Site in 1996.",
+    "architecture": "The monastic architecture on Skellig Michael represents the pinnacle of early Irish dry-stone corbelled construction. The six beehive huts (clochans) are circular from the exterior but surprisingly rectangular inside, built entirely without mortar using carefully placed stones that overlap to create weathertight structures. The largest hut stands 5 metres high with walls 1.8 metres thick at the base. Two boat-shaped oratories (small churches) follow the classic Irish style seen at Gallarus, with one featuring a white quartz cross above the door. St. Michael's Church, built in the 10th century, is the only mortared structure on the site and was originally rectangular with a timber roof. The entire complex sits on artificially levelled terraces carved from the rock face, enclosed by drystone retaining walls. Three ancient stone stairways, totaling 618 steps on the main southern route, ascend from different landing points - allowing monks to access the island regardless of sea conditions. An even more remote hermitage sits precariously on the South Peak, accessible only by an extremely dangerous climb that was used by medieval pilgrims. The construction demonstrates extraordinary engineering skill, as these structures have withstood 1,400 years of Atlantic storms on an exposed cliff face.",
+    "culturalSignificance": "Skellig Michael represents one of the most extreme examples of early Christian monasticism anywhere in the world. It embodies the Celtic Christian ideal of 'peregrinatio pro Dei amore' (pilgrimage for the love of God) - seeking spiritual purification through self-exile to the remotest possible location. UNESCO describes it as illustrating 'the extremes of a Christian monasticism characterizing much of North Africa, the Near East and Europe.' The island's spiritual significance continued long after the monks departed, becoming one of Ireland's most important pilgrimage destinations through the medieval period and beyond. George Bernard Shaw called it 'an incredible, impossible, mad place...part of our dream world.' The monastery has influenced Irish identity and spirituality for over a millennium. In modern times, its appearance in the Star Wars films has brought global attention to Ireland's early Christian heritage, though this has raised conservation concerns about increased tourism pressure on the fragile site. As both a spiritual landmark and natural wonder, Skellig Michael represents the intersection of human faith, architectural ingenuity, and environmental extremes."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Portmagee (departure point)",
+      "island": "Skellig Michael",
+      "county": "Kerry",
+      "region": "Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "V23 XV32"
+    },
+    "coordinates": {
+      "latitude": 51.770954,
+      "longitude": -10.541899
+    },
+    "directions": {
+      "general": "Skellig Michael is 11.6 km west of the Iveragh Peninsula. Access is ONLY via authorized boat operators from Portmagee or Ballinskelligs. Do not attempt to reach the island by private boat - landing permits are strictly controlled.",
+      "byBoat": "All visits must be arranged through one of 15 licensed boat operators departing from Portmagee marina. Boat journey takes approximately 45 minutes each way. Landing is weather dependent and limited to mid-May through September.",
+      "byCar": "Drive to Portmagee village on the Skellig Ring (off the Ring of Kerry, N70). GPS coordinates for Portmagee marina: 51.885894, -10.365326. Allow extra time - roads are narrow with slow traffic.",
+      "parking": "Parking available at Portmagee marina for boat passengers",
+      "importantNote": "You CANNOT visit Skellig Michael without booking a boat tour. Landing is restricted to 180 visitors per day maximum. Book months in advance, especially for summer season."
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://heritageireland.ie/visit/places-to-visit/skellig-michael/",
+    "bookingUrl": "",
+    "boatOperatorsNote": "Visitors must book directly with one of 15 OPW-licensed boat operators - see Heritage Ireland website for current list",
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": ""
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Seasonal - Weather Dependent",
+      "seasonal": [
+        {
+          "period": "Mid-May to End of September",
+          "hours": "Variable - depends on weather, tides, and boat schedules",
+          "notes": "Typical departure times: 8:00 AM - 12:30 PM. Time on island: 2.5 hours. Return to mainland by approximately 5:30 PM latest."
+        },
+        {
+          "period": "October to Mid-May",
+          "status": "CLOSED",
+          "notes": "Island is completely inaccessible - no landings permitted. Weather conditions too dangerous."
+        }
+      ],
+      "closedDates": ["October through mid-May", "Any day when weather conditions are unsafe"],
+      "specialEvents": ["OPW heritage guides on duty during visitor season"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "islandEntry": "Free (Office of Public Works site)",
+      "boatFee": 130.00,
+      "boatFeeNotes": "Boat fare approximately €130 per person (varies by operator). This is SEPARATE from island admission. Payment goes directly to boat operators.",
+      "childPolicy": "Children under 12 years NOT PERMITTED. Some operators set minimum age at 14 years.",
+      "bookingFee": "Additional booking fees may apply depending on operator"
+    },
+    "tourOptions": [
+      {
+        "type": "Landing Tour with Boat Transfer",
+        "duration": "Full day - approximately 6-8 hours total including boat journey",
+        "timeOnIsland": "2.5 hours",
+        "boatJourney": "45 minutes each way",
+        "included": ["Boat transfer", "Landing on island", "Time to climb 618 steps to monastery", "Self-guided exploration", "OPW heritage guide information on island", "Views of Little Skellig gannet colony en route"]
+      },
+      {
+        "type": "Eco Cruise (Non-Landing)",
+        "duration": "2-3 hours",
+        "included": ["Cruise around both Skellig islands", "View monastery from sea", "Close-up of Little Skellig gannet colony", "Seabird and seal viewing", "No landing, no steps to climb"],
+        "suitability": "Better for those who cannot manage 618 steps, children under 12, or if landing tour is fully booked"
+      }
+    ],
+    "averageVisitDuration": "Full day experience (6-8 hours total including travel)",
+    "busyPeriods": ["June, July, August", "Weekends", "Any good weather day - tours sell out months in advance"],
+    "adviceForVisitors": "CRITICAL SAFETY INFORMATION: This is an extremely challenging and potentially dangerous visit. You must climb 618 uneven, ancient stone steps with no handrails, ascending over 180 metres. Steps are slippery when wet (it rains frequently). There have been fatal accidents. Not suitable for anyone with mobility issues, fear of heights, claustrophobia, or heart conditions. Strong fitness level required. Wear hiking boots with excellent grip - NO sandals, flip-flops, or smooth-soled shoes. Bring waterproof clothing, warm layers, food, and water (no facilities on island). Sea crossing can be very rough - bring seasickness medication. Tours are frequently cancelled due to weather - even on the day of departure. Book months in advance. Check in online 24 hours before. Be flexible with dates as cancellations are common."
+  },
+
+  "features": {
+    "highlights": [
+      "UNESCO World Heritage Site status",
+      "Six remarkably preserved beehive huts (clochans) over 1,400 years old",
+      "618 ancient stone steps carved by monks",
+      "Two boat-shaped oratories (small churches)",
+      "St. Michael's Church ruins (10th century)",
+      "Spectacular clifftop monastery 170m above the Atlantic",
+      "Hermitage on South Peak (extreme pilgrimage site)",
+      "Breathtaking 360-degree ocean views",
+      "Second-largest gannet colony in the world (Little Skellig)",
+      "Puffins, razorbills, and diverse seabird colonies",
+      "Star Wars filming location (The Force Awakens, The Last Jedi)",
+      "Christ's Saddle natural valley between twin peaks",
+      "Early Christian carved crosses and grave slabs",
+      "Monks' Garden terraces",
+      "19th-century lighthouse buildings"
+    ],
+    "facilities": [
+      "OPW heritage guides on duty during season",
+      "Interpretive information on-site",
+      "Basic toilet facility (beehive structure)",
+      "Boat landing pier",
+      "Stone stairways"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "Skellig Michael is NOT accessible for wheelchair users or anyone with limited mobility. The visit requires climbing 618 steep, uneven stone steps with no handrails, ascending over 180 metres on exposed cliffsides. Two visitors fell to their deaths in 2009. Safety review concluded handrails cannot be installed due to conservation requirements. This is one of the most physically demanding heritage sites in Ireland.",
+      "restrictions": [
+        "Children under 12 years NOT PERMITTED on landing tours",
+        "Minimum age 14 on some boats",
+        "Strong fitness level essential",
+        "Not suitable for fear of heights or vertigo",
+        "Not suitable for mobility issues",
+        "Appropriate hiking footwear MANDATORY",
+        "No animals allowed on island",
+        "Stay on designated pathways only",
+        "Do not touch or climb on ancient structures",
+        "No drones permitted",
+        "Unaccompanied minors not permitted"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "One of the most spectacularly situated monastic sites in the world",
+      "UNESCO World Heritage Site - one of only 2 in the Republic of Ireland",
+      "Represents the extreme of early Christian monasticism",
+      "Exceptionally well-preserved 1,400-year-old beehive huts",
+      "Featured prominently in Star Wars Episode VII and VIII",
+      "Only accessible 4-5 months per year due to extreme conditions",
+      "Limited to 180 visitors maximum per day",
+      "One of Ireland's most important seabird sanctuaries",
+      "Monks lived here for over 600 years in complete isolation",
+      "Survived Viking raids in 823 and 838 AD",
+      "Engineering marvel - dry stone construction withstanding Atlantic storms for 14 centuries",
+      "Spiritual pilgrimage site for over 1,500 years",
+      "Named after Archangel Michael - patron saint of high places",
+      "George Bernard Shaw called it 'the most fantastic and impossible rock in the world'"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Skellig-Michael-Aerial-View-1.jpg",
+      "alt": "Aerial view of Skellig Michael island rising dramatically from the Atlantic Ocean",
+      "caption": "Skellig Michael - A pyramidal rock island 12km off the Kerry coast"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Skellig-Michael-Aerial-View-Beehive-Huts-2.jpg",
+        "alt": "Aerial view of the ancient beehive huts on Skellig Michael",
+        "caption": "The remarkably preserved beehive huts (clochans) of the monastic settlement"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Skellig-2.jpg",
+        "alt": "Close-up of a beehive hut on Skellig Michael",
+        "caption": "A 1,400-year-old beehive hut built entirely of dry stone"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Skellig-3.jpg",
+        "alt": "Atlantic puffin on Skellig Michael",
+        "caption": "Puffins breed on Skellig Michael from April to August"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Skellig-4.jpg",
+        "alt": "Dramatic view of Skellig Michael monastery perched on cliff",
+        "caption": "The monastery sits 170 metres above the Atlantic on narrow terraces"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0757_0001-750-750-20170904170930.jpg",
+        "alt": "Ancient stone steps climbing up Skellig Michael",
+        "caption": "The 618 stone steps ascending to the monastery - carved by monks over 1,000 years ago"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0757_0012-750-750-20170904170931.jpg",
+        "alt": "View from Skellig Michael showing the dramatic cliff face",
+        "caption": "Skellig Michael's dramatic Atlantic cliffs - one of western Europe's most spectacular heritage sites"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Little Skellig",
+      "distance": "1.6 km",
+      "type": "seabird-sanctuary",
+      "description": "Second-largest gannet colony in the world with over 23,000 breeding pairs"
+    },
+    {
+      "name": "Valentia Island",
+      "distance": "12 km",
+      "type": "island",
+      "description": "Historic island connected by bridge, with Valentia Observatory and Tetrapod Trackway"
+    },
+    {
+      "name": "Derrynane House",
+      "distance": "27.2 km",
+      "type": "historic-house",
+      "description": "Childhood home of Daniel O'Connell, the Liberator"
+    },
+    {
+      "name": "The Blasket Centre",
+      "distance": "39.8 km",
+      "type": "interpretive-centre",
+      "description": "Story of the remarkable Blasket Island community"
+    },
+    {
+      "name": "Ring of Kerry",
+      "distance": "12 km",
+      "type": "scenic-route",
+      "description": "One of Ireland's most famous scenic driving routes"
+    },
+    {
+      "name": "Skellig Ring",
+      "distance": "5 km",
+      "type": "scenic-route",
+      "description": "Alternative scenic route with stunning coastal views and Irish language heritage"
+    }
+  ],
+
+  "tags": [
+    "skellig-michael",
+    "unesco-world-heritage",
+    "early-christian",
+    "monastery",
+    "island",
+    "kerry",
+    "wild-atlantic-way",
+    "beehive-huts",
+    "pilgrimage-site",
+    "viking-raids",
+    "st-michael",
+    "clochans",
+    "star-wars",
+    "seabirds",
+    "puffins",
+    "gannets",
+    "atlantic-ocean",
+    "extreme-heritage",
+    "medieval",
+    "dry-stone-construction",
+    "iveragh-peninsula",
+    "portmagee",
+    "spiritual-retreat",
+    "celtic-christianity"
+  ],
+
+  "suitableFor": [
+    "adventure-seekers",
+    "history-enthusiasts",
+    "archaeology-buffs",
+    "pilgrims",
+    "spiritual-seekers",
+    "photographers",
+    "nature-lovers",
+    "birdwatchers",
+    "fit-adults-only",
+    "star-wars-fans",
+    "unesco-world-heritage-enthusiasts"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": true,
+  "bookingEssential": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.9,
+  "reviewCount": 8500,
+  "featured": true,
+  "unescoWorldHeritage": true,
+  "unescoYear": 1996,
+  "unescoReference": 757,
+  "specialProtectionArea": true,
+  "natureReserve": true,
+
+  "safetyWarnings": [
+    "EXTREME DIFFICULTY - Two visitors died in falls in 2009",
+    "618 steep, uneven stone steps with NO HANDRAILS",
+    "Ascending 180+ metres on exposed cliffs",
+    "Steps extremely slippery when wet",
+    "Sheer drop-offs with no barriers or protection",
+    "Not suitable for fear of heights or vertigo",
+    "Strong fitness level absolutely essential",
+    "Children under 12 not permitted",
+    "Weather can change rapidly - bring warm, waterproof clothing",
+    "Sea crossing can be very rough - seasickness common",
+    "Tours cancelled frequently due to weather - no refunds from OPW",
+    "Landing from boat requires coordination with wave surge",
+    "No shelter on island except ancient stone structures",
+    "No food, water, or medical facilities available",
+    "Mobile phone coverage unreliable",
+    "Emergency evacuation extremely difficult",
+    "Stay on designated pathways at all times",
+    "Falling rocks hazard"
+  ],
+
+  "culturalNotes": {
+    "starWarsConnection": "Skellig Michael served as the filming location for Luke Skywalker's island hideaway (planet Ahch-To) in Star Wars: The Force Awakens (2015) and The Last Jedi (2017). The Jedi Temple steps and Rey's training scenes were filmed on the actual ancient monastic steps and terraces. This brought massive global attention to the site but also raised conservation concerns.",
+    "spiritualSignificance": "For over 1,500 years, Skellig Michael has been a place of profound spiritual significance. The monks who lived here from the 6th-12th centuries sought the ultimate expression of 'peregrinatio pro Dei amore' - pilgrimage for the love of God through self-exile to the edge of the known world.",
+    "vikingHistory": "The monastery endured two documented Viking raids in 823 and 838 AD. In the first raid, the abbot Eitgal was kidnapped and died of starvation in captivity. Local legend claims Viking Olaf Tryggvason was baptized here in 993 AD instead of raiding the monastery.",
+    "geologicalAge": "The island is composed of Old Red Sandstone formed 360-374 million years ago during the Devonian period, when Ireland was south of the equator. The twin peaks and Christ's Saddle were formed through erosion along a major fault line.",
+    "preservationChallenge": "The combination of 1,400 years of Atlantic weather, increased tourism (partly due to Star Wars), and the need to preserve authenticity makes conservation of Skellig Michael one of the most challenging heritage management tasks in Ireland."
+  },
+
+  "practicalTips": {
+    "bestTimeToVisit": "June and July typically have the most stable weather, but book 6-12 months in advance",
+    "whatToWear": "Hiking boots (MANDATORY), waterproof jacket and trousers, warm layers (fleece), hat, gloves",
+    "whatToBring": "Water (1-2 litres per person), packed lunch and snacks, sunscreen, seasickness medication, camera, small backpack",
+    "notAllowed": "Sandals, flip-flops, high heels, smooth-soled shoes, large bags, drones, pets, smoking",
+    "photography": "Photography permitted. Early morning light on approach to island is spectacular. Bring lens cloth as sea spray is constant.",
+    "bookingAdvice": "Book 6-12 months ahead for summer. Multiple operators increases chance of getting a space. Have backup dates as weather cancellations are very common (30-40% of scheduled trips).",
+    "accessibility": "This is NOT an accessible site. If you have ANY mobility concerns, heart conditions, breathing difficulties, or fear of heights, consider the eco cruise non-landing tour instead.",
+    "seasickness": "Very common. Take medication 30-60 minutes before departure. Avoid heavy breakfast. Stay on deck and focus on horizon. Bring plastic bags just in case.",
+    "timeManagement": "You have only 2.5 hours on island. Takes 45-60 minutes to climb to monastery. Allow time to explore, rest, descend safely, and take photos. Don't rush - safety first."
+  }
+}

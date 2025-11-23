@@ -1,0 +1,286 @@
+{
+  "id": "bunratty-castle",
+  "slug": "bunratty-castle",
+  "name": "Bunratty Castle & Folk Park",
+  "tagline": "The most complete and authentic castle in Ireland",
+  "type": "castle",
+  "category": "medieval-castle",
+  "categories": ["castle", "medieval", "norman", "folk-park", "tower-house", "living-history", "cultural-heritage"],
+  "historicalPeriod": "medieval",
+  "era": "15th century",
+  "yearBuilt": "1425",
+  "significance": "Ireland's most complete and authentic medieval castle with the finest collection of medieval furniture in the country",
+  "foundedBy": "Maccon MacNamara",
+
+  "description": {
+    "short": "The most complete and authentic castle in Ireland. Bunratty Castle stands majestically on the banks of the River Raite, featuring the finest collection of medieval furniture and tapestries in the country alongside a 26-acre folk park recreating 19th century Irish life.",
+    "full": "Bunratty Castle, located on the banks of the Qwenogarney River near Shannon, County Clare, is Ireland's most complete and authentic medieval fortress. The site has a rich history dating back to 970 when it was originally a Viking trading camp. The castle you see today was built in 1425 by Maccon MacNamara, though it incorporates remains of earlier structures including a castle built for Thomas de Clare in 1290. The castle served as the stronghold of the O'Brien dynasty, Earls of Thomond, and was extensively modified in the Tudor period by the 'Great Earl' Donough O'Brien, who added elaborate plasterwork and vaulted the corner towers. After centuries of neglect and near-demolition in the mid-20th century, Viscount Gort purchased the castle in 1953 and, with the help of archaeologist John Hunt, restored it to its former medieval splendour. Today, visitors can explore the fully-restored castle featuring authentic period furniture, 100 panels of stained glass, and experience the world-famous Medieval Banquet. The adjoining Folk Park, spanning 26 acres, recreates 19th century Irish village life with over 30 buildings, including authentic farmhouses, shops, and the Georgian Bunratty House.",
+    "history": "The site of Bunratty Castle has witnessed over 1,000 years of Irish history. Originally a Viking trading camp established in 970, it became the site of four successive castles. The first Norman castle was built for Robert de Muscegros in 1251 as an earth and wood structure. Thomas de Clare built another castle in 1290, which was refortified in 1353 for Thomas de Rokeby. The current castle was constructed by Maccon MacNamara in the early 15th century (circa 1425), incorporating elements of the earlier de Clare structure. In the early 16th century, the castle passed peacefully to the O'Brien family, who were ennobled as Earls of Thomond. The 'Great Earl' Donough O'Brien made Bunratty his headquarters from 1583 onwards and extensively renovated the building. During the Cromwellian period, the 6th Earl surrendered to parliamentary forces in 1646. The castle later passed to various Plantation families, with the Studdert family taking possession in 1725. The Studderts made significant modifications, adding a multi-storey house to the north face and converting part of the castle into a police barracks. By 1915, the castle was given to the Board of Works and fell into ruins. In 1953, Viscount Gort purchased the castle and undertook a major restoration project, removing later additions and returning it to its medieval glory. The castle opened to the public in the 1960s and has welcomed millions of visitors since.",
+    "architecture": "Bunratty Castle is a superb example of a 15th-century Irish tower house, rising to nearly 60 feet in height with four main floors and a great hall on the top floor. The castle features four massive corner towers that extend above the main structure, originally vaulted during the Tudor period by Donough O'Brien. The architecture demonstrates sophisticated medieval defensive design with thick stone walls, narrow windows for defense, and a commanding position overlooking the river. Inside, the Great Hall showcases elaborate Tudor-era plasterwork on walls and ceilings, added during the O'Brien occupation. The castle contains multiple chambers including the Earl's private apartments, chapel, and guard rooms. During the 1950s restoration, period-appropriate features were added including fireplaces, wood panelling, and 100 panels of stained and heraldic glass installed in the windows. The castle houses an exceptional collection of medieval and Renaissance furniture, tapestries, and artworks, largely curated by John Hunt, whose collection forms the basis of The Hunt Museum in Limerick. The Great Hall is the centerpiece, with its magnificent timber ceiling and can accommodate the famous Medieval Banquets.",
+    "culturalSignificance": "Bunratty Castle is Ireland's most visited castle and a cultural icon representing medieval Irish heritage. It is internationally renowned for its Medieval Banquets, established in 1963 by local visionary Dr. Brendan O'Regan as a way to encourage transatlantic passengers to visit the region. The banquets have been running for over 60 years and have hosted international dignitaries, celebrities, US Presidents and First Ladies. The castle contains Ireland's finest collection of medieval furniture and is considered a masterpiece of restoration, transforming a near-ruin into an authentic recreation of medieval life. The adjoining Folk Park preserves and presents 19th century Irish rural and village life, making Bunratty a comprehensive heritage destination that connects visitors with Ireland's medieval and Victorian past."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Bunratty",
+      "county": "Clare",
+      "region": "Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "V95 DY61"
+    },
+    "coordinates": {
+      "latitude": 52.7003556,
+      "longitude": -8.8122455
+    },
+    "directions": {
+      "general": "Located just off the N18 motorway between Limerick and Ennis, 8km from Limerick and 15km from Shannon Airport",
+      "byCar": "Take exit for Bunratty from N18 motorway. Castle is clearly visible and signposted. Free parking available year-round",
+      "byBus": "Bus Eireann Route 51 from Limerick to Ennis stops at Bunratty",
+      "byAir": "Shannon International Airport is only 8km away with daily scheduled services from North America, Europe and UK",
+      "parking": "Free on-site parking available"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 61 711222",
+    "email": "info@bunrattycastle.ie",
+    "website": "https://www.bunrattycastle.ie/",
+    "bookingUrl": "https://www.bunrattycastle.ie/book-tickets/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/bunrattycastlefolkpark/",
+      "instagram": "https://www.instagram.com/bunrattycastle.ie/",
+      "youtube": "https://www.youtube.com/channel/UCSzJ3gYD0Ubl7MddgnkbRWw"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "7 days per week",
+          "hours": "09:30 - 17:30",
+          "lastAdmission": "16:00 for castle (strictly enforced)",
+          "notes": "Folk Park open until 17:30, Castle closes at 16:00"
+        }
+      ],
+      "closedDates": ["Christmas period - check website for exact dates"],
+      "specialEvents": ["Medieval Banquets: Nightly at 17:30 and 20:30 (subject to availability)"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 18.00,
+      "senior": 16.00,
+      "child": 12.00,
+      "student": 16.00,
+      "family": 50.00,
+      "notes": "Prices vary seasonally. Medieval Banquet separate pricing (approximately EUR 70-80 per person). Check website for current pricing and special offers. Online booking recommended for discounts."
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided Castle & Folk Park",
+        "duration": "2-3 hours",
+        "included": ["Full castle access", "All Folk Park buildings", "Fairy trail", "Viking playground", "Walled gardens", "Farm animals"]
+      },
+      {
+        "type": "Medieval Banquet",
+        "duration": "2.5-3 hours",
+        "included": ["Four-course medieval feast", "Honey mead welcome drink", "Wine", "Live entertainment by Bunratty Castle Singers", "Music, song and dance in Great Hall"],
+        "notes": "Not suitable for children under 4 years. Nightly at 17:30 and 20:30"
+      },
+      {
+        "type": "Guided Tours",
+        "availability": "Available for groups",
+        "notes": "Educational tours available for schools and groups - contact for booking"
+      }
+    ],
+    "averageVisitDuration": "2-3 hours for castle and folk park, 3 hours for Medieval Banquet",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays", "Easter", "Christmas season"],
+    "adviceForVisitors": "Pre-booking tickets online is strongly recommended and often includes discounts. Arrive early in summer to avoid crowds. Wear comfortable walking shoes for Folk Park. Last admission to castle is strictly 16:00. Medieval Banquets book out quickly - reserve well in advance. Allow 2-3 hours minimum to experience both castle and folk park fully. Photography allowed except in castle banquet areas during events."
+  },
+
+  "features": {
+    "highlights": [
+      "Ireland's most complete and authentic medieval castle",
+      "Great Hall with elaborate Tudor plasterwork",
+      "Finest collection of medieval furniture in Ireland",
+      "100 panels of stained and heraldic glass",
+      "World-famous Medieval Banquet (running since 1963)",
+      "26-acre Folk Park with over 30 buildings",
+      "19th century village street with shops and pubs",
+      "Bunratty House - Georgian residence (1804)",
+      "Regency walled garden",
+      "Fairy trail and Viking playground",
+      "Farm animals and petting area",
+      "Medieval furniture collection curated by John Hunt",
+      "Earl of Thomond's private apartments",
+      "Four massive corner towers with stunning views"
+    ],
+    "facilities": [
+      "Free parking",
+      "Multiple restaurants and cafes (The Earl's Pantry, Bunratty Tea Rooms, The Corn Barn Restaurant)",
+      "Bunratty Craft and Design Store",
+      "Gift shop",
+      "Toilets and accessible toilets",
+      "Picnic areas",
+      "WiFi available",
+      "Education center for school groups",
+      "Event and wedding venue",
+      "Seasonal food stalls and craft demonstrations"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "Castle has multiple levels with narrow stone staircases - not wheelchair accessible. Folk Park grounds mostly accessible with some uneven paths. Wheelchair accessible toilets available. Accessible parking available.",
+      "restrictions": ["Castle not wheelchair accessible due to medieval stone staircases", "Some Folk Park buildings have steps", "Uneven ground in outdoor areas", "Service dogs welcome"]
+    },
+    "uniqueSellingPoints": [
+      "Most complete and authentic castle in Ireland",
+      "Home to Ireland's finest medieval furniture collection",
+      "World-famous Medieval Banquets (over 3 million guests since 1963)",
+      "Only 8km from Shannon International Airport",
+      "Combination of authentic medieval castle and living folk park",
+      "Restored by Viscount Gort and archaeologist John Hunt in 1950s",
+      "Hosted international dignitaries and US Presidents",
+      "26 acres of immersive historical experience",
+      "Features in thousands of Ireland tourism photographs",
+      "Original seat of the O'Brien dynasty, Earls of Thomond",
+      "Over 1,000 years of continuous history on site since Viking times"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.bunrattycastle.ie/getmedia/8c545593-3f07-48db-b5f2-fd960ee68d44/Village-St-BCFP.jpg.aspx",
+      "alt": "Bunratty Castle towering over the folk park village street",
+      "caption": "Bunratty Castle - Ireland's most complete medieval fortress"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/09/Bunratty-Castle-credit-Michelle-Crowley-exp.-05-nov-2031.jpg",
+        "alt": "Bunratty Castle through the trees",
+        "caption": "Bunratty Castle viewed through surrounding woodland - Credit: Michelle Crowley"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/09/Bunratty-Castle-credit-Chris-Hill-Photographic-exp.-29-Dec-2028.jpg",
+        "alt": "Interior medieval banquet hall with wooden table",
+        "caption": "Medieval banquet hall interior with period furnishings - Credit: Chris Hill Photographic"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/09/Bunratty-Castle-Clare-credit-Chris-Hill-Photographic-exp.-29-Dec-2028.jpg",
+        "alt": "Interior room with authentic medieval features",
+        "caption": "Authentic medieval chamber with period details - Credit: Chris Hill Photographic"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2025/09/Bunratty-Castle-credit-Chris-Hill-Photographic-exp.-29-dec-2028-1.jpg",
+        "alt": "Exterior view of castle from across bridge",
+        "caption": "Bunratty Castle exterior from the approach bridge - Credit: Chris Hill Photographic"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Shannon Airport",
+      "distance": "8 km",
+      "type": "airport"
+    },
+    {
+      "name": "Craggaunowen Castle",
+      "distance": "12 km",
+      "type": "castle"
+    },
+    {
+      "name": "Knappogue Castle",
+      "distance": "15 km",
+      "type": "castle"
+    },
+    {
+      "name": "Ennis Town",
+      "distance": "15 km",
+      "type": "town"
+    },
+    {
+      "name": "Ennis Friary",
+      "distance": "19.8 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Adare Village & Castle",
+      "distance": "15.1 km",
+      "type": "village"
+    },
+    {
+      "name": "Limerick City",
+      "distance": "13 km",
+      "type": "city"
+    },
+    {
+      "name": "Cliffs of Moher",
+      "distance": "45 km",
+      "type": "natural-attraction"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "medieval",
+    "tower-house",
+    "norman",
+    "folk-park",
+    "living-history",
+    "viking-heritage",
+    "o-brien-dynasty",
+    "earls-of-thomond",
+    "medieval-banquet",
+    "19th-century-village",
+    "georgian-house",
+    "medieval-furniture",
+    "wild-atlantic-way",
+    "clare",
+    "shannon",
+    "restored-castle",
+    "tudor-architecture",
+    "john-hunt-collection"
+  ],
+
+  "suitableFor": [
+    "families",
+    "history-enthusiasts",
+    "medieval-history-buffs",
+    "architecture-lovers",
+    "photographers",
+    "international-visitors",
+    "school-groups",
+    "couples",
+    "cultural-tourists",
+    "banquet-experience-seekers",
+    "children",
+    "multi-generational-groups"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "The Clare Collection - Clare County Council",
+  "rating": 4.6,
+  "reviewCount": 8500,
+  "featured": true,
+
+  "additionalInformation": {
+    "medievalBanquetHistory": "Established in 1963 by Dr. Brendan O'Regan to give transatlantic passengers a reason to visit the Shannon region. Now one of Ireland's longest-running and most prestigious dining experiences, having hosted over 3 million guests including US Presidents and international celebrities.",
+    "restorationStory": "The castle was in ruins and nearly demolished for stone in the mid-20th century. Viscount Gort, a medievalist, purchased it in 1953 for a nominal sum. With help from archaeologist John Hunt (founder of The Hunt Museum), they restored it to authentic medieval splendour, removing Victorian additions and installing period-appropriate furnishings and stained glass.",
+    "folkParkFeatures": "The 26-acre Folk Park recreates 19th century Irish rural and village life with over 30 authentic buildings including thatched cottages, farmhouses, a village street with shops and pubs, Bunratty House (1804 Georgian residence), a school, and various craft workshops with live demonstrations.",
+    "diningOptions": "Three on-site restaurants: The Earl's Pantry for casual dining, Bunratty Tea Rooms for traditional afternoon tea, and The Corn Barn Restaurant. The Medieval Banquet offers a unique four-course feast with entertainment.",
+    "specialEvents": "Regular special events throughout the year including Christmas celebrations, Easter events, Halloween activities, St. Patrick's Day festivities, Imbolc celebrations, and seasonal craft fairs.",
+    "educationalPrograms": "Comprehensive educational programs for primary and secondary schools, third-level institutions, and language schools. Teacher resources and guided tours available.",
+    "weddingVenue": "Available for weddings and corporate events with unique medieval castle setting.",
+    "membership": "Annual pass available for unlimited visits to castle and folk park.",
+    "sustainabilityInitiatives": "Part of Clare County Council's sustainability programs focused on heritage conservation and environmental responsibility."
+  }
+}

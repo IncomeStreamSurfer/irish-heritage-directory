@@ -1,0 +1,224 @@
+{
+  "id": "reginalds-tower",
+  "slug": "reginalds-tower",
+  "name": "Reginald's Tower",
+  "tagline": "Step inside Ireland's oldest civic building",
+  "type": "fortified-tower",
+  "category": "medieval-tower",
+  "categories": ["tower", "viking", "norman", "medieval", "defensive-structure", "museum", "civic-building"],
+  "historicalPeriod": "viking-norman-medieval",
+  "era": "13th-19th century",
+  "yearBuilt": "1200s",
+  "significance": "Ireland's oldest civic building and the only urban monument in Ireland to retain a Norse or Viking name",
+  "foundedBy": "Anglo-Normans (replacing earlier Viking wooden fort)",
+
+  "description": {
+    "short": "Once described as 'a massive hinge of stone connecting the two outstretched wings of the city', this tower has never fallen into ruin and has been in continuous use for over 800 years.",
+    "full": "Reginald's Tower stands as Ireland's oldest civic building, a testament to over 800 years of continuous use. Originally the site of a wooden Viking fort, the stone tower we see today was built by the Anglo-Normans who made it the strongest point of Waterford's medieval defensive walls. The tower has never fallen into ruin and has served countless purposes throughout its long history - from royal mint to military arsenal, from prison to civic building. Its circular stone structure, rising 54 feet above the quays of Waterford, has witnessed the entire sweep of Irish history from the Vikings through Norman conquest, English rule, and into modern times. Today it houses the Viking Collection of the Waterford Museum of Treasures, bringing the story full circle to its Norse origins.",
+    "history": "The site was originally occupied by a wooden Viking fort before the Anglo-Normans conquered Waterford and built the stone tower in the early 13th century (1200s). The tower's name derives from Raghnall (Reginald), a Gaelicised form of the Old Norse name Røgnvaldr, possibly referring to one of Waterford's Viking rulers. Under King John, it was utilised as a royal mint. Throughout subsequent centuries, it served various functions under many English monarchs, including storage for weapons, gunpowder, and cannons during Waterford's turbulent periods. In the 19th century it housed a prison, and the Chief Constable's family became the last residents of the tower. The building has been in continuous use for over 800 years, making it unique among Irish civic structures.",
+    "architecture": "Reginald's Tower is a circular fortified tower built of stone, standing 54 feet tall with a diameter of 42.5 feet. Its thick stone walls and strategic position made it the strongest point of Waterford's medieval defensive walls. The tower features original spiral staircases that wind upward through multiple floors. The Anglo-Norman construction replaced the earlier Viking wooden fortification while maintaining the defensive character of the site. Its circular design and robust masonry exemplify medieval military architecture.",
+    "culturalSignificance": "Reginald's Tower is Ireland's oldest civic building and holds the unique distinction of being the only urban monument in Ireland to retain a Norse or Viking name. It represents the layered history of Waterford - from Viking settlement through Norman conquest to modern times. The tower has witnessed royal visits, military conflicts, commercial trade, and civic governance. Its continuous occupation for over 800 years makes it an irreplaceable link to Ireland's medieval past and Viking heritage."
+  },
+
+  "location": {
+    "address": {
+      "street": "The Quay",
+      "town": "Waterford",
+      "county": "Waterford",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "X91 Y880"
+    },
+    "coordinates": {
+      "latitude": 52.260498,
+      "longitude": -7.105421
+    },
+    "directions": {
+      "general": "Located in the centre of Waterford City at the eastern end of the city quay, in the heart of the Viking Triangle",
+      "byCar": "Parking available in Waterford City Centre. The tower is easily accessible from all major routes into Waterford",
+      "byBus": "Public bus services available to Waterford City Centre. The tower is a short walk from bus stops",
+      "byTrain": "Waterford Railway Station is approximately 1.5 km from the tower, a 15-20 minute walk or short taxi ride",
+      "parking": "Public parking available in nearby city centre car parks"
+    }
+  },
+
+  "contact": {
+    "phone": "085 8013885 & 051 304 220",
+    "email": "reginaldstower@opw.ie",
+    "website": "https://heritageireland.ie/places-to-visit/reginalds-tower/",
+    "bookingUrl": "https://heritageireland.ie/places-to-visit/reginalds-tower/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/reginaldstower/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Early March - 06 November",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "lastAdmission": "16:45"
+        },
+        {
+          "period": "07 November - 04 December",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:15"
+        },
+        {
+          "period": "05 December - Early March",
+          "days": "Wednesday - Sunday",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:15"
+        }
+      ],
+      "closedDates": ["Closed Mondays and Tuesdays in winter period"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5.00,
+      "senior": 4.00,
+      "child": 3.00,
+      "student": 3.00,
+      "family": 13.00,
+      "group": 4.00,
+      "notes": "Group bookings and information available via email"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided Tour",
+        "duration": "45-60 minutes",
+        "included": ["Access to all floors", "Viking exhibition", "Audio-visual presentation", "Historical artefacts display"]
+      },
+      {
+        "type": "Guided Tours",
+        "duration": "Variable",
+        "availability": "Available",
+        "notes": "Contact venue for guided tour schedules"
+      }
+    ],
+    "averageVisitDuration": "45 minutes - 1 hour",
+    "busyPeriods": ["Summer months", "Weekends", "School holidays"],
+    "adviceForVisitors": "The tower features spiral staircases - appropriate footwear required. Hold handrails when ascending/descending. No toilet facilities on site. The tower is located in Waterford's Viking Triangle, perfect for combining with other heritage attractions."
+  },
+
+  "features": {
+    "highlights": [
+      "Ireland's oldest civic building",
+      "Over 800 years of continuous use",
+      "Original Viking and Norman history",
+      "Waterford Museum of Treasures - Viking Collection",
+      "Original medieval spiral staircases",
+      "19th century prison cell remains",
+      "Chief Constable's sword from last residents",
+      "Viking artefacts and exhibits",
+      "Audio-visual presentation on Viking Waterford",
+      "Panoramic views from upper floors",
+      "Part of Waterford's medieval city walls",
+      "Located in the Viking Triangle"
+    ],
+    "facilities": ["Audio-visual presentation", "Exhibition space", "Museum displays", "Guided tours", "Card payments accepted"],
+    "accessibility": {
+      "wheelchairAccessible": "Limited",
+      "notes": "The tower features spiral staircases which present accessibility challenges. Ground floor may be accessible but upper floors require stair climbing.",
+      "restrictions": ["Spiral staircase access only", "Hold handrail required", "Appropriate footwear necessary", "No toilet facilities", "Assistance dogs only"]
+    },
+    "uniqueSellingPoints": [
+      "Ireland's oldest civic building",
+      "Only Irish urban monument with Norse/Viking name",
+      "Never fallen into ruin - 800+ years continuous use",
+      "Housed royal mint under King John",
+      "Original Anglo-Norman defensive tower",
+      "Part of medieval city defensive walls",
+      "Houses Waterford's Viking heritage collection",
+      "Witnessed entire sweep of Irish history",
+      "Located at the heart of Waterford's Viking Triangle",
+      "Original medieval architecture preserved"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-Tower.jpg",
+      "alt": "Reginald's Tower standing watch over Waterford City Quay",
+      "caption": "Reginald's Tower - Ireland's oldest civic building on the Waterford quays"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-Tower-2.jpg",
+        "alt": "Reginald's Tower standing watch over the city",
+        "caption": "The tower stands sentinel at the eastern end of Waterford's quays"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-Tower-3.jpg",
+        "alt": "The entrance to Reginald's Tower",
+        "caption": "Medieval entrance to the historic tower"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-Tower-Interior-Exhibition.jpg",
+        "alt": "Viking exhibition inside Reginald's Tower",
+        "caption": "Waterford Museum of Treasures - Viking Collection exhibition"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-Tower-Interior-stairway.jpg",
+        "alt": "Original medieval spiral stairs inside the tower",
+        "caption": "Original spiral staircase winding through the tower"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Reginalds-credit-Waterford-Museum-of-Treasures-exp.-18-July-2029.jpg",
+        "alt": "Reginald's Tower highlights",
+        "caption": "Credit: Waterford Museum of Treasures"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Greyfriars/French Church",
+      "distance": "0.1 km",
+      "type": "monastery",
+      "description": "Ruins of a Franciscan Friary in the heart of the Viking Triangle"
+    },
+    {
+      "name": "Ballyhack Castle",
+      "distance": "9.5 km",
+      "type": "castle",
+      "description": "Medieval tower house with stunning views"
+    },
+    {
+      "name": "The John F. Kennedy Arboretum",
+      "distance": "13.5 km",
+      "type": "garden",
+      "description": "A garden of presidential proportions"
+    },
+    {
+      "name": "Waterford Crystal Visitor Centre",
+      "distance": "2.0 km",
+      "type": "museum",
+      "description": "World-famous crystal manufacturing and heritage"
+    },
+    {
+      "name": "Medieval Museum Waterford",
+      "distance": "0.2 km",
+      "type": "museum",
+      "description": "Part of the Museum of Treasures trilogy"
+    }
+  ],
+
+  "tags": ["tower", "viking", "norman", "anglo-norman", "medieval", "defensive-tower", "civic-building", "museum", "waterford", "viking-triangle", "mint", "prison", "fortification", "medieval-walls", "norse", "irish-history"],
+  "suitableFor": ["history-enthusiasts", "families", "viking-heritage-lovers", "architecture-buffs", "museum-visitors", "school-groups", "tourists", "photographers"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": false,
+  "heritageCardAccepted": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.6,
+  "reviewCount": 3500,
+  "featured": true
+}

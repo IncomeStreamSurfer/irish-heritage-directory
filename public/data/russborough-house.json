@@ -1,0 +1,346 @@
+{
+  "id": "russborough-house",
+  "slug": "russborough-house",
+  "name": "Russborough House and Parklands",
+  "tagline": "A Georgian Palladian masterpiece with world-class art collection",
+  "type": "historic-house",
+  "category": "palladian-mansion",
+  "categories": ["historic-house", "palladian-architecture", "art-museum", "georgian", "estate", "parklands"],
+  "historicalPeriod": "georgian",
+  "era": "18th century",
+  "yearBuilt": "1741-1755",
+  "significance": "One of Ireland's finest Palladian houses with world-renowned art collection",
+  "foundedBy": "Joseph Leeson, 1st Earl of Milltown",
+
+  "description": {
+    "short": "Nestled in the heart of County Wicklow, Russborough stands as a testament to Ireland's rich architectural heritage, featuring one of the longest house facades in Ireland and an extraordinary art collection.",
+    "full": "Russborough House is a quintessential example of Palladian architecture, commissioned by Joseph Leeson, 1st Earl of Milltown, in 1741 and designed by renowned architect Richard Cassels. Completed in 1755, the house's facade stretches over 700 feet, making it one of the longest in Ireland. The property showcases harmonious proportions and classical elements that define the Palladian style. Three distinguished families have called Russborough home: the Leeson family (Earls of Milltown) from 1752, the Daly family from 1931, and the Beit family from 1952. Each contributed to the house's remarkable legacy. Sir Alfred and Lady Clementine Beit brought their world-renowned art collection to Russborough, featuring masterpieces by Vermeer, Goya, Raeburn, and Murillo. In 1976, they established the Alfred Beit Foundation to preserve the house and collection for future generations, opening to the public in 1978.",
+    "history": "Built between 1741 and 1755 for Joseph Leeson, who would become the 1st Earl of Milltown, Russborough represented the pinnacle of Georgian aristocratic living. The Leeson family, who made their fortune in brewing and property, commissioned Richard Cassels to create a residence that would symbolize their prominence. Each generation of the Milltown family enhanced the estate, with the 6th Earl particularly noted for his progressive approach as a landlord. The last Countess of Milltown generously bequeathed the family's art collection to the National Gallery of Ireland. In 1931, Denis Daly OBE purchased the estate for £9,000, maintaining its historical integrity while modernizing for 20th-century comfort. The Beit family acquired Russborough in 1952, bringing their extraordinary art collection accumulated through wealth from South African diamond mining. Despite suffering four art heists over the years, the house and collection survived, with many works recovered and some donated to the National Gallery.",
+    "architecture": "Russborough is a prime example of Palladian architecture, inspired by Venetian architect Andrea Palladio. The design features a central block flanked by colonnades and pavilions, embodying perfect symmetry and classical proportions. The house stretches over 700 feet, making its facade one of the longest in Ireland. Inside, visitors discover opulent interiors with intricate stucco work by the renowned Lafranchini brothers, exemplifying the Rococo style. Each room showcases period furnishings, fine art, and decorative arts. The building materials are local granite, and the structure includes three floors of lavishly appointed rooms. The architectural harmony extends to the surrounding 200-acre parklands, initially laid out in formal style with terraced lawns and ornamental lakes, later incorporating naturalistic elements inspired by Capability Brown.",
+    "culturalSignificance": "Russborough represents one of Ireland's most significant architectural and cultural treasures. The house exemplifies the finest Georgian Palladian architecture in Ireland and contains one of the world's great private art collections. The Beit Collection features masterpieces including works by Vermeer, Goya, Gainsborough, and Rubens. The estate's cultural importance is recognized through its status as a charitable foundation dedicated to education, conservation, and public access. Russborough has survived dramatic art heists, economic changes, and historical upheavals, emerging as a symbol of preservation and cultural heritage. The house serves as an educational resource, hosting exhibitions, concerts, and cultural events while maintaining its role as a living monument to Irish aristocratic history and artistic patronage."
+  },
+
+  "location": {
+    "address": {
+      "street": "Russborough House",
+      "town": "Blessington",
+      "county": "Wicklow",
+      "region": "County Wicklow",
+      "country": "Ireland",
+      "postcode": "W91 W284"
+    },
+    "coordinates": {
+      "latitude": 53.1417,
+      "longitude": -6.5695
+    },
+    "directions": {
+      "general": "Located just off the N81, approximately 30 minutes from Dublin, near Blessington in County Wicklow",
+      "byCar": "From Dublin: Take the N81 southbound through Tallaght and continue past Blessington. Russborough is situated on the right-hand side, approximately 4km beyond Blessington. From the South: Travel north on the N81 towards Blessington. Russborough will be on your left before reaching the town.",
+      "byBus": "Dublin Bus operates the No. 65 service from Dublin to Ballymore Eustace, with a stop at Russborough. Limited service times - check Dublin Bus website for current timetable. Most services end at Blessington, requiring alternative transport for final 4.5km.",
+      "parking": "Ample on-site parking available. All day parking €4 (coins or contactless payment). Free for members. Limited EV charging available in nearby Blessington."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 45 865239",
+    "email": "info@russborough.ie",
+    "website": "https://www.russborough.ie/",
+    "bookingUrl": "https://ticketing.russborough.ie/Home",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/Russborough",
+      "twitter": "https://www.x.com/Russborough",
+      "instagram": "https://www.instagram.com/Russborough",
+      "youtube": "https://www.youtube.com/@russborough"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "House Tours",
+          "days": "Monday-Friday",
+          "hours": "12:00 - 15:00",
+          "notes": "Tours run on the hour"
+        },
+        {
+          "period": "House Tours",
+          "days": "Saturday & Sunday",
+          "hours": "10:00 - 16:00",
+          "notes": "Tours run on the hour"
+        },
+        {
+          "period": "Shop",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "notes": "Online shop available 24/7"
+        },
+        {
+          "period": "Cafe",
+          "days": "Monday-Friday",
+          "hours": "09:30 - 16:30",
+          "notes": "Hot food served until 16:00"
+        },
+        {
+          "period": "Cafe",
+          "days": "Saturday, Sunday & Bank Holidays",
+          "hours": "09:30 - 17:30",
+          "notes": "Hot food served until 16:00"
+        },
+        {
+          "period": "Parklands",
+          "days": "Daily",
+          "hours": "09:00 - 17:15"
+        },
+        {
+          "period": "Walled Garden",
+          "days": "Tuesday & Thursday",
+          "hours": "11:00 - 15:00"
+        },
+        {
+          "period": "Walled Garden",
+          "days": "Wednesday & Saturday",
+          "hours": "10:30 - 15:30"
+        }
+      ],
+      "closedDates": ["Check website for Christmas closures"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 14.50,
+      "senior": 12.00,
+      "student": 12.00,
+      "child": 6.00,
+      "childUnder5": 0.00,
+      "parkAdult": 6.50,
+      "parkSenior": 5.50,
+      "parkStudent": 5.50,
+      "parkChild": 4.00,
+      "mazeEntry": 3.50,
+      "seasonPassAdult": 50.00,
+      "seasonPass2Adults": 80.00,
+      "seasonPassFamily": 100.00,
+      "notes": "House ticket includes guided tour. Park ticket includes maze access, self-guided audio tour, and tree trail map."
+    },
+    "tourOptions": [
+      {
+        "type": "Guided House Tour",
+        "duration": "60 minutes",
+        "included": ["Expert guide", "Access to grand rooms", "Art collection viewing", "Murillo Prodigal Son exhibition"],
+        "notes": "Tours run on the hour. Highly praised by visitors for knowledgeable guides."
+      },
+      {
+        "type": "Self-Guided Parklands Tour",
+        "duration": "90-120 minutes",
+        "included": ["Audio guide", "Tree trail map", "200 acres of parklands", "Maze access", "Walks and trails"],
+        "notes": "Multiple walking trails of varying lengths available"
+      },
+      {
+        "type": "Beit Museum Exhibition",
+        "duration": "30-45 minutes",
+        "included": ["3D photography exhibition", "Family history displays", "Interactive exhibits"]
+      }
+    ],
+    "averageVisitDuration": "2-3 hours (house tour plus parklands)",
+    "busyPeriods": ["Summer months", "Weekends", "Bank holidays", "Special events"],
+    "adviceForVisitors": "Book house tours online in advance to guarantee entry. Allow time for both house tour and parklands exploration. Cafe serves excellent food - popular for lunch. The maze is challenging and fun for families. Wear comfortable shoes for parkland walks. Check website for special exhibitions and events. Free parking for members. Wheelchair accessible routes available."
+  },
+
+  "features": {
+    "highlights": [
+      "700-foot Palladian facade (longest in Ireland)",
+      "World-renowned Beit art collection",
+      "Murillo's Prodigal Son series exhibition",
+      "Lafranchini brothers' Rococo stucco work",
+      "200 acres of historic parklands",
+      "2,000-meter beech hedge maze",
+      "Walled garden and woodland walks",
+      "Birds of Prey Centre with falconry displays",
+      "Beit Museum with 3D photography exhibition",
+      "Georgian architecture and period furnishings",
+      "Serpentine lakes and ornamental features",
+      "Nature trails and biodiversity"
+    ],
+    "facilities": [
+      "Russborough Cafe with indoor and outdoor seating",
+      "Award-winning gift shop",
+      "Online shop",
+      "Parking (€4 all day)",
+      "Toilets and wheelchair accessible toilets",
+      "Baby changing facilities",
+      "Bicycle racks",
+      "Picnic areas in parklands",
+      "Playground for children",
+      "WiFi available",
+      "Coach parking",
+      "Event spaces for hire",
+      "Educational programs",
+      "Schoolhouse for Art workshops"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Yes",
+      "notes": "Wheelchair-accessible parking and routes available. Ground floor of house accessible. Some upper floors and parkland areas may have limited access due to historic layout. Wheelchairs available to borrow - book in advance. Cafe and shop fully accessible.",
+      "restrictions": ["Some historic rooms have steps", "Parkland terrain can be uneven", "Walled garden has gravel paths", "Dogs not permitted except assistance dogs"]
+    },
+    "uniqueSellingPoints": [
+      "One of Ireland's finest Palladian houses",
+      "World-class art collection including Vermeer, Goya, and Murillo",
+      "700-foot facade - longest house frontage in Ireland",
+      "Three distinguished families' legacy (Milltown, Daly, Beit)",
+      "Lafranchini brothers' exceptional stucco work",
+      "200 acres of landscaped parklands",
+      "Survived four art heists - dramatic history",
+      "Alfred Beit Foundation - charitable conservation",
+      "Murillo exhibition - rare Irish showing",
+      "30 minutes from Dublin",
+      "Birds of Prey Centre",
+      "Family-friendly with maze and nature trails",
+      "Award-winning cafe and shop",
+      "Year-round cultural events and exhibitions"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.russborough.ie/wp-content/uploads/2025/01/featured-raw-05-1400x1000.webp",
+      "alt": "Grand interior room at Russborough House with fine art and period furnishings",
+      "caption": "The opulent interiors of Russborough House showcase world-class art and Georgian craftsmanship"
+    },
+    "gallery": [
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/02/Untitled-design-2-1400x1000.jpg",
+        "alt": "Aerial view of Russborough House and parklands",
+        "caption": "Russborough House surrounded by 200 acres of historic parklands"
+      },
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/01/The-House-Its-History-RUSSBOROUGH-04-1400x1000.webp",
+        "alt": "The magnificent 700-foot facade of Russborough House",
+        "caption": "The Palladian facade at Russborough - one of the longest in Ireland"
+      },
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/02/Untitled-design-6-1400x1000.jpg",
+        "alt": "Lavish interior with ornate ceiling and fine artwork",
+        "caption": "Rococo stucco work by the Lafranchini brothers adorns the grand rooms"
+      },
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/02/aerial-view-of-maze-1400x1000.jpg",
+        "alt": "Aerial view of the beech hedge maze",
+        "caption": "The 2,000-meter beech hedge maze is a favorite with visitors"
+      },
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/02/vernet-paintings-and-window-treatments-1400x1000.jpg",
+        "alt": "Fine art paintings displayed in elegant room",
+        "caption": "World-renowned artworks from the Beit Collection"
+      },
+      {
+        "url": "https://www.russborough.ie/wp-content/uploads/2025/02/Untitled-design-8-1400x1000.jpg",
+        "alt": "Walled garden with historic pathway",
+        "caption": "The historic walled garden at Russborough"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Blessington Lakes",
+      "distance": "4 km",
+      "type": "reservoir"
+    },
+    {
+      "name": "Powerscourt Estate and Gardens",
+      "distance": "25 km",
+      "type": "historic-house"
+    },
+    {
+      "name": "Glendalough Monastic Site",
+      "distance": "30 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Wicklow Mountains National Park",
+      "distance": "20 km",
+      "type": "national-park"
+    },
+    {
+      "name": "Kilruddery House and Gardens",
+      "distance": "35 km",
+      "type": "historic-house"
+    }
+  ],
+
+  "tags": [
+    "historic-house",
+    "palladian-architecture",
+    "georgian",
+    "art-collection",
+    "beit-collection",
+    "estate",
+    "parklands",
+    "wicklow",
+    "richard-cassels",
+    "stately-home",
+    "mansion",
+    "cultural-heritage",
+    "lafranchini-brothers",
+    "rococo",
+    "gardens",
+    "maze",
+    "museum",
+    "art-museum",
+    "vermeer",
+    "goya",
+    "murillo"
+  ],
+  "suitableFor": [
+    "art-lovers",
+    "history-enthusiasts",
+    "architecture-buffs",
+    "families",
+    "photographers",
+    "garden-enthusiasts",
+    "culture-seekers",
+    "day-trippers-from-dublin",
+    "tour-groups",
+    "school-groups",
+    "walkers-hikers"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "The Alfred Beit Foundation",
+  "rating": 4.8,
+  "reviewCount": 3500,
+  "featured": true,
+
+  "additionalInformation": {
+    "charitableStatus": "Registered Charity No: CHY 5940",
+    "artCollection": {
+      "description": "World-renowned collection featuring Dutch, British, and Spanish masters",
+      "notableWorks": [
+        "Vermeer - Lady Writing a Letter with her Maid",
+        "Goya - Portrait of Doña Antonia Zárate",
+        "Murillo - The Prodigal Son series",
+        "Gainsborough - various portraits",
+        "Rubens - Venus, Mars and Cupid"
+      ],
+      "donations": "17 masterpieces donated to National Gallery of Ireland in 1987"
+    },
+    "historicEvents": {
+      "artHeists": "Suffered four major art thefts (1974, 1986, 2001, 2002) - most works recovered",
+      "foundation": "Alfred Beit Foundation established 1976, opened to public 1978"
+    },
+    "specialPrograms": {
+      "education": "School visits and educational programs available",
+      "workshops": "Schoolhouse for Art offers creative workshops",
+      "events": "Regular concerts, exhibitions, and cultural events",
+      "venueHire": "Available for weddings, corporate events, and special occasions"
+    },
+    "sustainability": "Ireland's first Sustainable Travel Ireland certified premier visitor attraction (working towards net zero by 2025)",
+    "biodiversity": "Active biodiversity protection supporting native flora and fauna"
+  }
+}

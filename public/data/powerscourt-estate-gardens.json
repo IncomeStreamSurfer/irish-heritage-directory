@@ -1,0 +1,264 @@
+{
+  "id": "powerscourt-estate-gardens",
+  "slug": "powerscourt-estate-gardens",
+  "name": "Powerscourt Estate and Gardens",
+  "tagline": "Third best garden in the world - National Geographic",
+  "type": "historic-garden",
+  "category": "formal-gardens",
+  "categories": ["garden", "estate", "mansion", "historic-house", "formal-gardens", "italian-garden", "japanese-garden", "walled-garden", "waterfall"],
+  "historicalPeriod": "18th-19th-century",
+  "era": "1731-1880",
+  "yearBuilt": "1731",
+  "significance": "One of the world's top gardens, ranked #3 by National Geographic",
+  "foundedBy": "Richard Wingfield, 1st Viscount Powerscourt",
+
+  "description": {
+    "short": "Set in the heart of the Wicklow Mountains, Powerscourt Estate features 47 acres of beautifully landscaped gardens, ranked as the third finest garden in the world by National Geographic.",
+    "full": "Powerscourt Estate and Gardens is one of Ireland's most spectacular visitor attractions, featuring 47 acres of meticulously curated gardens set against the dramatic backdrop of the Wicklow Mountains and the distinctive Great Sugar Loaf Mountain. Originally a 13th-century castle, the Palladian mansion house was redesigned by architect Richard Cassels between 1731 and 1741. The magnificent gardens were created over a 20-year period from 1860 to 1880 by the 7th Viscount Powerscourt, inspired by his visits to the great gardens of Europe including the Palace of Versailles, Schönbrunn Palace and Schwetzingen Castle. The estate includes stunning Italian terraces, a tranquil Japanese garden, walled gardens with spectacular seasonal displays, Tower Valley with exotic trees, and even a charming pets cemetery. Named by National Geographic as the third finest garden in the world, Powerscourt offers visitors a magical journey through formal gardens, sweeping terraces, striking statuary, ornamental lakes, and rambling woodland walks.",
+    "history": "The original 13th-century castle was owned by Anglo-Norman nobleman La Poer (anglicized to Power), whose strategic position controlled access to nearby rivers. In the 16th century, the estate came into the ownership of the Wingfield family. In 1731, Richard Wingfield, 1st Viscount Powerscourt, commissioned Richard Cassels to transform the medieval castle into a magnificent Palladian country house, completed in 1741. The gardens were developed by Mervyn Wingfield, 7th Viscount Powerscourt, who inherited the estate in 1844 at age 8. Upon reaching 21, he embarked on extensive renovations, creating the spectacular gardens over 20 years (1860-1880), inspired by European grand gardens. The house was devastated by fire in 1974 but was renovated in 1996. In 1961, the estate was sold to the Slazenger family, who continue to own it today.",
+    "architecture": "The three-storey Palladian mansion house features severe facade bookended by two circular domed towers, designed by German architect Richard Cassels. The house originally had at least 68 rooms, with an entrance hall 18 meters long and 12 meters wide. The Italian terraces, which took 12 years to build with over 100 men, were influenced by Villa Butera in Sicily. The gardens feature dramatic formal planting, sweeping terraces descending to Triton Lake, life-sized winged horses (family coat of arms made by Professor Hugo Hagen in 1869), a fountain based on Piazza Barberini in Rome, authentic Japanese garden with pagoda, walled gardens, the Pepperpot Tower (modeled after Lady Wingfield's pepper pot), and extensive statuary including Apollo Belvedere and Diana collected from European travels.",
+    "culturalSignificance": "Ranked #3 in the world's top gardens by National Geographic (2014) and nominated by Lonely Planet as one of the Top Ten Houses in the World (2011). The estate has been a filming location for numerous productions including Stanley Kubrick's Barry Lyndon, The Count of Monte Cristo, Excalibur, and Into the Badlands. Ireland's first premier visitor attraction certified by Sustainable Travel Ireland. The gardens represent the pinnacle of 19th-century landscape design and continue to attract nearly 500,000 visitors annually."
+  },
+
+  "location": {
+    "address": {
+      "street": "Powerscourt Estate",
+      "town": "Enniskerry",
+      "county": "Wicklow",
+      "region": "Wicklow Mountains",
+      "country": "Ireland",
+      "postcode": "A98 W0D0"
+    },
+    "coordinates": {
+      "latitude": 53.18472,
+      "longitude": -6.18694
+    },
+    "directions": {
+      "general": "Located just 30 minutes from Dublin City Centre in the picturesque village of Enniskerry",
+      "byCar": "Take N11 southbound (Wexford). At approximately 19km, take exit 7 for Bray south, Enniskerry, Powerscourt Gardens. Turn left at roundabout, over flyover and rejoin N11 heading north. Take first left for Enniskerry Village (Exit 6a). Continue to Enniskerry Village, take road to left of clock tower, continue up steep hill for 600m. Powerscourt entrance on right-hand side opposite church entrance.",
+      "byBus": "Bus 44 travels direct from Dublin city centre to Enniskerry village (approx 45 mins-1 hour). Bus 185 also serves Enniskerry. L15 bus connects Bray to Enniskerry. Buses run every hour. Estate is 20-minute walk from village (uphill).",
+      "byTrain": "Nearest DART station is Bray, County Wicklow, which connects to L15 bus service to Enniskerry",
+      "parking": "Ample parking for visitors. Coach parking available for up to 20 coaches."
+    }
+  },
+
+  "contact": {
+    "phone": "+353 (0) 1 204 6000",
+    "email": "info@powerscourt.net",
+    "website": "https://powerscourt.com/",
+    "bookingUrl": "https://powerscourt.retailint-tickets.com/Home",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/powerscourtestate",
+      "twitter": "https://twitter.com/thepowerscourt",
+      "instagram": "https://www.instagram.com/powerscourt_estate/",
+      "pinterest": "http://www.pinterest.com/thepowerscourt/",
+      "youtube": "https://www.youtube.com/watch?v=vZ5Z41lmcEY"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "16:30",
+          "notes": "Gardens - Last entry 30 minutes before close"
+        },
+        {
+          "period": "House",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "notes": "Avoca Terrace Café, shops and boutiques"
+        },
+        {
+          "period": "Waterfall (separate location)",
+          "hours": "10:30 - 16:00",
+          "lastAdmission": "15:30",
+          "notes": "6km from main estate"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 10.50,
+      "notes": "See website for current pricing. Annual memberships available. Waterfall is separate admission (€7.50 adult, €3.50 child).",
+      "parkingIncludesAdmission": false
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "2-3 hours",
+        "included": ["47 acres of gardens", "Italian Garden terraces", "Japanese Garden", "Walled Gardens", "Tower Valley", "Pets Cemetery", "Triton Lake", "Access to grounds"]
+      },
+      {
+        "type": "Audio Tour App",
+        "duration": "Flexible",
+        "included": ["Free downloadable app (iPhone and Android)", "Multilingual audio guides", "Narrated by estate owners"],
+        "notes": "Available in English, French, German, Italian, Spanish, Mandarin"
+      },
+      {
+        "type": "Day Tours from Dublin",
+        "availability": "Available through multiple tour operators",
+        "notes": "Hilltoptreks, VIP Tours, Irlanda en Espanol offer guided tours from Dublin including Powerscourt"
+      }
+    ],
+    "averageVisitDuration": "2-3 hours",
+    "busyPeriods": ["Summer months", "Weekends", "May-June (peak flower season)"],
+    "adviceForVisitors": "Book tickets online in advance. Allow 2-3 hours to fully explore the gardens. Best time to visit is May-June for flowers in full bloom. Wear comfortable shoes as terrain can be uneven. Waterfall is separate location 6km away - requires separate ticket and transport. Picnics not permitted in gardens but allowed at waterfall. Information guides available in 7 languages."
+  },
+
+  "features": {
+    "highlights": [
+      "Ranked #3 in world's top gardens by National Geographic",
+      "47 acres of beautifully landscaped gardens",
+      "Italian terraces with sweeping views of Great Sugar Loaf Mountain",
+      "Triton Lake with life-sized winged horse statues",
+      "Japanese Garden with authentic pagoda (over 100 years old)",
+      "Walled Gardens with spectacular seasonal displays",
+      "Tower Valley with Pepperpot Tower and exotic trees",
+      "Charming Pets Cemetery",
+      "European statuary including Apollo Belvedere and Diana",
+      "Powerscourt Waterfall - highest in Ireland at 121 meters",
+      "18th-century Palladian mansion house",
+      "Backdrop of Wicklow Mountains"
+    ],
+    "facilities": [
+      "Avoca Terrace Café (seats 160)",
+      "Gift shops and boutiques (Avoca, Neptune, Design Loft)",
+      "Ample car parking",
+      "Coach parking (up to 20 coaches)",
+      "Baby changing facilities",
+      "Wheelchair accessible toilets",
+      "Information guides in 7 languages",
+      "Free audio tour app",
+      "WiFi available",
+      "Tara's Palace Museum of Childhood",
+      "Powerscourt Distillery on estate",
+      "Powerscourt Golf Club (two championship courses)",
+      "Powerscourt Hotel (5-star)"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "Good access to gardens, shops and terrace café. Wheelchairs available to borrow (€20 refundable deposit) - book in advance on +353 (0)1 204 6000. Some areas of gardens may be inaccessible due to historic layout and heritage features. Disabled parking available. Drop-off point at front of house. Disabled route through gardens available. Lift to ballroom on first floor. Guide dogs welcome (dogs otherwise not permitted).",
+      "restrictions": ["First floor shops not wheelchair accessible (steps)", "Some garden areas have uneven terrain", "Historic features may limit access", "Dogs not permitted (except guide dogs)"]
+    },
+    "uniqueSellingPoints": [
+      "#3 ranked garden in the world by National Geographic",
+      "47 acres of world-class landscaped gardens",
+      "Inspired by Versailles, Schönbrunn and Schwetzingen",
+      "20 years of design and construction (1860-1880)",
+      "Stunning backdrop of Wicklow Mountains and Great Sugar Loaf",
+      "Irish terraces took 12 years with 100 workers to build",
+      "Life-sized winged horses by Professor Hugo Hagen (1869)",
+      "Ireland's first sustainable travel certified attraction",
+      "Filming location for Barry Lyndon, Count of Monte Cristo, Excalibur",
+      "500,000+ visitors annually",
+      "Complete estate experience - gardens, house, waterfall, distillery, golf, hotel",
+      "Just 30 minutes from Dublin"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-gardens-triton-lake.jpg",
+      "alt": "Powerscourt Gardens Italian terraces overlooking Triton Lake with Great Sugar Loaf Mountain in background",
+      "caption": "The Italian Garden terraces descending to Triton Lake with the Great Sugar Loaf Mountain backdrop"
+    },
+    "gallery": [
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-italian-garden-terraces.jpg",
+        "alt": "Aerial view of Powerscourt Italian Garden formal terraces",
+        "caption": "The magnificent Italian terraces - 12 years in the making with over 100 workers"
+      },
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-triton-lake-winged-horses.jpg",
+        "alt": "Triton Lake with life-sized winged horse statues",
+        "caption": "Life-sized winged horses guarding Triton Lake - made by Professor Hugo Hagen in Berlin, 1869"
+      },
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-japanese-garden.jpg",
+        "alt": "Japanese Garden at Powerscourt with pagoda",
+        "caption": "The authentic Japanese Garden with its distinctive pagoda - over 100 years old"
+      },
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-walled-garden-flowers.jpg",
+        "alt": "Walled Garden with colorful flower displays",
+        "caption": "The Walled Garden featuring spectacular seasonal blooms and the Bee Sanctuary"
+      },
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-house-facade.jpg",
+        "alt": "Powerscourt House Palladian facade",
+        "caption": "The elegant Palladian mansion house designed by Richard Cassels (1731-1741)"
+      },
+      {
+        "url": "https://powerscourt.com/wp-content/uploads/2023/02/powerscourt-waterfall.jpg",
+        "alt": "Powerscourt Waterfall cascading down hillside",
+        "caption": "Powerscourt Waterfall - Ireland's highest at 121 meters (397 feet)"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Glendalough Monastic Site",
+      "distance": "25 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Wicklow Mountains National Park",
+      "distance": "15 km",
+      "type": "national-park"
+    },
+    {
+      "name": "Bray Head Cliff Walk",
+      "distance": "12 km",
+      "type": "walking-trail"
+    },
+    {
+      "name": "Kilmacurragh Botanic Garden",
+      "distance": "18 km",
+      "type": "garden"
+    },
+    {
+      "name": "Russborough House",
+      "distance": "35 km",
+      "type": "historic-house"
+    }
+  ],
+
+  "tags": ["garden", "estate", "historic-house", "palladian", "italian-garden", "japanese-garden", "walled-garden", "waterfall", "wicklow", "enniskerry", "national-geographic", "formal-gardens", "statuary", "terrace", "triton-lake", "sugar-loaf-mountain", "filming-location", "sustainable-tourism"],
+  "suitableFor": ["families", "garden-enthusiasts", "photographers", "couples", "history-buffs", "architecture-lovers", "nature-lovers", "wedding-venues", "film-buffs", "international-visitors"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Slazenger Family (private ownership)",
+  "rating": 4.7,
+  "reviewCount": 18500,
+  "featured": true,
+
+  "optionalFields": {
+    "sustainableTravelCertified": true,
+    "filmingLocation": true,
+    "films": ["Barry Lyndon (1975)", "The Count of Monte Cristo (2002)", "Excalibur (1981)", "Into the Badlands (2017)", "Moll Flanders (1996)", "Battle at Big Rock (2019)"],
+    "specialEvents": ["Poetry in Bloom", "Celtic Woman performances", "Weddings and private events"],
+    "additionalAttractions": ["Powerscourt Distillery", "Powerscourt Golf Club (East and West courses)", "Powerscourt Hotel (5-star)", "Tara's Palace Museum of Childhood"],
+    "bestTimeToVisit": "May-June for peak flower displays, though beautiful year-round",
+    "historicFacts": [
+      "Original 13th-century castle owned by La Poer family",
+      "King George IV visited in August 1821",
+      "Gardens took 20 years to complete (1860-1880)",
+      "House destroyed by fire in 1974, renovated 1996",
+      "Pepperpot Tower designed after Lady Wingfield's pepper pot",
+      "Mile-long avenue of beech trees leads to house",
+      "Introduced Japanese Sika deer to Ireland (1858)"
+    ]
+  }
+}

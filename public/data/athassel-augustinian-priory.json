@@ -1,0 +1,271 @@
+{
+  "id": "athassel-augustinian-priory",
+  "slug": "athassel-augustinian-priory",
+  "name": "Athassel Augustinian Priory",
+  "tagline": "Ireland's largest medieval priory",
+  "type": "augustinian-priory",
+  "category": "medieval-monastery",
+  "categories": ["priory", "augustinian", "monastery", "medieval", "norman", "religious-site", "de-burgo"],
+  "historicalPeriod": "medieval",
+  "era": "12th-16th century",
+  "yearBuilt": "1192-1205",
+  "significance": "The largest medieval priory in Ireland, once supporting a thriving town of 2,000 people",
+  "foundedBy": "William de Burgo for the Canons Regular of St Augustine",
+
+  "description": {
+    "short": "The ruins of 12th century Athassel Priory, Ireland's largest medieval priory, are found in the village of Golden in County Tipperary.",
+    "full": "Set in a tranquil field beside the River Suir near the village of Golden, the ruins of Athassel Priory stand as a testament to Ireland's medieval monastic grandeur. Founded by William de Burgo between 1192 and 1205 for the Canons Regular of St Augustine and dedicated to St Edmund, this Augustinian monastery grew to become the largest medieval priory in Ireland. At its peak, Athassel was a wealthy and important religious center, supporting a thriving urban settlement of nearly 2,000 people outside its walls. The priory's prosperity made it a target for raids - it was sacked and burned in 1319 by Maurice FitzThomas FitzGerald, Earl of Desmond, and again a decade later by Brian Bán Ó Briain of Thomond. Following the dissolution of the monasteries in the 16th century, the ruins and lands were granted to the Earls of Ormond. Today, though the settlement has vanished, the impressive ruins preserve remarkable architectural features including carved stones, gable walls, a cloister, main aisle, and rood screen.",
+    "history": "Athassel Priory was founded by William de Burgo, the Norman Lord of Connacht, around 1192-1205 as part of the Norman expansion in Ireland. The monastery was established for the Canons Regular of St Augustine and dedicated to St Edmund. By 1221, Hubert de Burgo, grandson of the founder, served as prior at the monastery. The priory flourished as one of the wealthiest religious foundations in Ireland, with extensive lands and influence. Its success attracted violence - in 1319 Maurice FitzThomas FitzGerald, Earl of Desmond, burned both the monastery and the prosperous town that surrounded it. The site was attacked again in 1329 by Brian Bán Ó Briain of Thomond. Despite these setbacks, the priory continued to function until the dissolution of the monasteries under Henry VIII. The lands were subsequently granted to the powerful Earls of Ormond. The priory became the burial place for several members of the de Burgo family, including founder William de Burgo and the 1st and 2nd Earls of Ulster, Walter and Richard Óg de Burgo.",
+    "architecture": "Athassel Priory represents impressive medieval ecclesiastical architecture spanning several building phases. The complex includes a cruciform church with a long nave and chancel, transepts, a central tower, and extensive claustral buildings arranged around a cloister garth. Particularly notable are the surviving carved stone decorations, elaborate gable walls, and a finely crafted rood screen. The church features Gothic pointed arches and windows characteristic of 13th-century Irish architecture. The cloister, positioned south of the church, would have been surrounded by the chapter house, refectory, and dormitories for the canons. Fragments of domestic buildings and the fortified precinct walls demonstrate the scale of this monastic complex. A beautiful medieval bridge, still standing, provides access across the River Suir to the priory grounds. The stonework displays high-quality craftsmanship, including decorative carvings that show similarities to contemporary work at nearby Jerpoint Abbey in Kilkenny.",
+    "culturalSignificance": "Athassel Priory represents one of the most significant Norman monastic foundations in Ireland and demonstrates the wealth and power of the medieval church. As the largest priory in Ireland, it illustrates the scale and ambition of Norman religious patronage. The de Burgo family's establishment and support of Athassel reflects the practice of Norman lords founding religious houses to consolidate their power and ensure prayers for their souls. The priory's role as a burial place for the Earls of Ulster underscores its prestigious status. The site provides valuable archaeological and architectural evidence of medieval monastic life, including the layout of claustral buildings and the relationship between the religious community and the surrounding secular settlement. Today, Athassel stands as a peaceful monument to Ireland's medieval past, largely forgotten by mass tourism but cherished by those who discover its evocative ruins."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Golden",
+      "county": "Tipperary",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "E25 RW59"
+    },
+    "coordinates": {
+      "latitude": 52.4798538,
+      "longitude": -7.9863058
+    },
+    "directions": {
+      "general": "Located in the village of Golden, approximately 8km from Cashel. Parking is available at a narrow country road intersection near the site.",
+      "byCar": "From Cashel, take the R505 towards Golden. Park at the roadside near the entrance (narrow country intersection). Walk down the road to a stile and enter the field. The priory is accessed via a medieval stone bridge across the River Suir.",
+      "byBus": "Limited public transport. Nearest bus services to Cashel, then taxi or bicycle to Golden.",
+      "byTrain": "Nearest train station is Thurles, approximately 20km away.",
+      "parking": "Roadside parking at narrow country intersection near the entrance. Care should be taken not to obstruct traffic.",
+      "walking": "From parking area, walk to stile, cross field (may contain livestock), cross medieval bridge to reach priory ruins. Approximately 300-500 meters from road."
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://heritageireland.ie/unguided-sites/athassel-augustinian-priory/",
+    "bookingUrl": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "twitter": "https://twitter.com/heritageireopw",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round - Unguided Site",
+      "seasonal": [
+        {
+          "period": "Year round",
+          "days": "Daily",
+          "hours": "Daylight hours",
+          "notes": "Unguided site with free public access at all times"
+        }
+      ],
+      "closedDates": [],
+      "specialEvents": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "senior": 0,
+      "child": 0,
+      "student": 0,
+      "family": 0,
+      "group": 0,
+      "notes": "Free admission - unguided national monument in state care"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "45-90 minutes",
+        "included": ["Full access to ruins", "Medieval bridge", "Church and cloister remains", "Carved stonework"]
+      },
+      {
+        "type": "Audio Guide (Third Party)",
+        "duration": "30-45 minutes",
+        "notes": "Abarta Heritage audio guides available for download (fee applies) - highly recommended for historical context"
+      }
+    ],
+    "averageVisitDuration": "45 minutes - 1.5 hours",
+    "busyPeriods": ["Summer weekends", "Good weather days"],
+    "adviceForVisitors": "This is an unguided site. Be aware there are sometimes livestock in the field surrounding the monument. A level of care and caution should be maintained. Appropriate footwear recommended as ground may be uneven and muddy. Access involves crossing a field and medieval stone bridge. The site is largely forgotten and rarely crowded, offering a peaceful experience. Consider downloading the Abarta Heritage audio guide for comprehensive historical information. Can be combined with visit to Rock of Cashel (8km away)."
+  },
+
+  "features": {
+    "highlights": [
+      "Ireland's largest medieval priory ruins",
+      "Beautiful medieval stone bridge across River Suir",
+      "Extensive claustral remains including cloister garth",
+      "Gothic church with nave, chancel, and transepts",
+      "Intricate carved stonework and decorative elements",
+      "Rood screen (rare surviving feature)",
+      "Gable walls and tower remains",
+      "Burial place of de Burgo family and Earls of Ulster",
+      "Peaceful riverside setting away from tourist crowds",
+      "Connection to Jerpoint Abbey architectural style"
+    ],
+    "facilities": [],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "Not suitable for wheelchairs or limited mobility. Access requires crossing a field via stile, walking across uneven ground (potentially muddy), and crossing a medieval stone bridge. No paved paths or accessibility features.",
+      "restrictions": [
+        "Livestock may be present in field",
+        "Uneven walkways and rough terrain",
+        "Medieval bridge crossing required",
+        "Appropriate footwear essential",
+        "No barriers or safety rails at ruins",
+        "No facilities on site"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "Largest medieval priory in Ireland",
+      "Rarely visited - peaceful and atmospheric",
+      "Beautiful riverside setting",
+      "Remarkably complete architectural remains",
+      "Medieval bridge still in use after 800+ years",
+      "Burial site of Norman nobility",
+      "Rich carved stone decoration",
+      "Free access to explore at own pace",
+      "Authentic 'undiscovered' heritage experience",
+      "Once supported a town of 2,000 people"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2024/11/061014_Athassel_Abbey_053.jpg",
+      "alt": "Aerial view of Athassel Augustinian Priory ruins",
+      "caption": "Aerial view of Athassel - Ireland's largest medieval priory - Credit: Dept. of Culture, Heritage, & the Gaeltacht"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/11/110714_Athassel_Abbey_082-scaled.jpg",
+        "alt": "Internal grounds of Athassel Priory with graves and crosses",
+        "caption": "Athassel Augustinian Priory Abbey interior - Credit: Dept. of Culture, Heritage, & the Gaeltacht"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/11/200521_Athassel_Abbey_005.jpg",
+        "alt": "Remaining walls of the priory and surrounding cemetery",
+        "caption": "Athassel Priory Cemetery and walls - Credit: Dept. of Culture, Heritage, & the Gaeltacht"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/11/061014_Athassel_Abbey_053-320x213.jpg",
+        "alt": "Stone archways and Gothic architecture at Athassel",
+        "caption": "Gothic arches and medieval stonework at Athassel Priory"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "The Rock of Cashel",
+      "distance": "7.9 km",
+      "type": "ecclesiastical-complex"
+    },
+    {
+      "name": "Cahir Castle",
+      "distance": "12.4 km",
+      "type": "castle"
+    },
+    {
+      "name": "The Swiss Cottage",
+      "distance": "14.3 km",
+      "type": "cottage"
+    },
+    {
+      "name": "The Main Guard",
+      "distance": "23.9 km",
+      "type": "courthouse"
+    },
+    {
+      "name": "Famine Warhouse 1848",
+      "distance": "35.0 km",
+      "type": "military-site"
+    },
+    {
+      "name": "Lough Gur Visitor Centre",
+      "distance": "36.5 km",
+      "type": "prehistoric-site"
+    }
+  ],
+
+  "tags": [
+    "priory",
+    "augustinian",
+    "monastery",
+    "medieval",
+    "norman",
+    "12th-century",
+    "de-burgo",
+    "canons-regular",
+    "ecclesiastical",
+    "religious-site",
+    "ruins",
+    "tipperary",
+    "golden",
+    "river-suir",
+    "cloister",
+    "gothic-architecture",
+    "stone-carvings",
+    "burial-site",
+    "earls-of-ulster",
+    "ancient-east",
+    "free-access",
+    "unguided-site"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "archaeology-buffs",
+    "architecture-lovers",
+    "photographers",
+    "peaceful-explorers",
+    "medieval-history-fans",
+    "solitude-seekers",
+    "heritage-travelers",
+    "off-the-beaten-path-visitors"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "bookingRecommended": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.6,
+  "reviewCount": 450,
+  "featured": false,
+
+  "optionalFields": {
+    "nationalMonument": true,
+    "protectedStatus": "National Monuments Acts 1930 to 2014",
+    "unguided": true,
+    "freeAdmission": true,
+    "safetyWarnings": [
+      "Livestock may be present in surrounding fields",
+      "Uneven ground and potential for muddy conditions",
+      "No safety barriers at ruins - care required",
+      "Medieval bridge crossing required",
+      "No facilities or emergency services on site",
+      "Visitors assume responsibility for their own safety"
+    ],
+    "historicalConnections": [
+      "William de Burgo (founder)",
+      "Hubert de Burgo (prior, 1221)",
+      "Walter de Burgo (1st Earl of Ulster - buried here)",
+      "Richard Óg de Burgo (2nd Earl of Ulster - buried here)",
+      "Maurice FitzThomas FitzGerald, Earl of Desmond (burned priory 1319)",
+      "Brian Bán Ó Briain of Thomond (burned priory 1329)",
+      "Earls of Ormond (granted lands after dissolution)"
+    ],
+    "architecturalStyle": "Norman Gothic",
+    "riverAccess": "River Suir",
+    "medievalBridge": true,
+    "populationSupported": "Approximately 2,000 in medieval town"
+  }
+}

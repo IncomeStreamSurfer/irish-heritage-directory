@@ -1,0 +1,231 @@
+{
+  "id": "abbeyknockmoy-abbey",
+  "slug": "abbeyknockmoy-cistercian-abbey",
+  "name": "Abbeyknockmoy Cistercian Abbey",
+  "tagline": "Founded by one of the most feared Kings in Ireland",
+  "type": "abbey",
+  "category": "cistercian-monastery",
+  "categories": ["abbey", "monastery", "cistercian", "medieval", "ecclesiastical", "ruins", "wall-paintings"],
+  "historicalPeriod": "medieval",
+  "era": "12th-16th century",
+  "yearBuilt": "1189-1190",
+  "significance": "One of only four sites in Ireland housing rare tempera wall-paintings",
+  "foundedBy": "Cathal Crobhdearg Ua Conchobair (King of Connaught)",
+
+  "description": {
+    "short": "Knockmoy Abbey, also known as The Monastery of the Hill of Victory, is a ruined Cistercian ecclesiastical complex founded in 1189 by the much-feared King of Connaught, Cathal Crobhdearg Ua Conchobair.",
+    "full": "Knockmoy Abbey (Mainistir Chnoc Muaidhe in Irish), also known as The Monastery of the Hill of Victory (Monasterium Collis Victoriæ in Latin), is a ruined Cistercian ecclesiastical complex located on the northern bank of the Abbert River in north east County Galway. Founded in 1189/1190 by Cathal Crobhdearg Ua Conchobair (Charles 'Red Hand' O'Connor), the much-feared King of Connaught whose bloody reign lasted for thirty-six years, the abbey became a significant religious center. Following the death of his wife Mór Ní Briain in 1217/1218, the king was buried alongside her in the abbey on 27th May 1224, dressed in the habit of a Franciscan Greyfriar. The abbey is renowned for housing one of only four tempera wall-paintings in Ireland, a rare and precious artwork dating from the 15th century that once covered the entire north end of the chancel. These paintings were reproduced as engravings in Edward Ledwich's 'Antiquities of Ireland' in 1790 and displayed at the Dublin Exhibition in 1853.",
+    "history": "The abbey was founded in 1189/1190 by Cathal Crobhdearg Ua Conchobair (1153-1224), King of Connaught, and settled by monks from its sister house of Boyle Abbey in County Roscommon. The abbey endured a turbulent history, being plundered by William De Burgo in 1202 and again in 1228. In 1240, the Abbot was censured for having his hair washed by a woman, and in 1483, the Abbot was accused of setting fire to the abbey. Following the dissolution of the monasteries in the 16th century, the Abbot-in-Commendam, Hugh O'Kelly, surrendered the abbey to King Henry VIII on 24th May 1542. O'Kelly was appointed as rent collector, and the abbey's church remained as the parish church, becoming known as Porta Magna (Great Door) and Teampollandorusmoir (The Chapel with the Big Door).",
+    "architecture": "Although the majority of the buildings date from the early 13th century, there is evidence of additional building in both the 15th and 16th centuries. The monastery's church has a wide nave, a chancel, and narrow transepts to the north and south containing two side chapels. The rib-vaulted chancel features fine carved capitals and an east-facing window. A sculpted head of a king, possibly Cathal Crobhdearg Ua Conchobair, can be seen in the southwest corner of the church. Dormitories were located above both the vaulted-ceilinged sacristy and the chancel. The vaulted chapter room features an original three-light window with elaborately moulded jambs, as well as later two single-light windows. A calefactory (monks' day room) sits to the south of the chapter room, and there is a refectory at the south end of the church. The abbey ruins surround a cloister on its north, east and south sides.",
+    "culturalSignificance": "Knockmoy Abbey is of exceptional cultural importance as one of only four sites in Ireland housing rare tempera wall-paintings. These 15th-century paintings are of very special significance and were weather-proofed by the Office of Public Works in the 1980s to protect these rare images. The abbey also contains a beautifully carved memorial plaque to Elevina Kirwan (dated 8th August 1684), the second wife of Robert French of Monivae, featuring her armorial bearing and the motto 'Laus Deo' (Praise be to God). The abbey served as the burial place of one of Ireland's most powerful medieval kings, Cathal Crobhdearg Ua Conchobair, adding to its historical importance."
+  },
+
+  "location": {
+    "address": {
+      "street": "",
+      "town": "Abbeyknockmoy",
+      "county": "Galway",
+      "region": "West Ireland",
+      "country": "Ireland",
+      "postcode": ""
+    },
+    "coordinates": {
+      "latitude": 53.4405184,
+      "longitude": -8.7428975
+    },
+    "directions": {
+      "general": "Located on the northern bank of the Abbert River in north east County Galway, 12.5 kilometres south east of the town of Tuam and one kilometre north east of the village of Abbeyknockmoy",
+      "byCar": "Car park is located a short walk away near the graveyard",
+      "parking": "Car park available (short walk to site)"
+    }
+  },
+
+  "contact": {
+    "phone": "",
+    "email": "",
+    "website": "https://heritageireland.ie/unguided-sites/abbeyknockmoy-cisertican-abbey/",
+    "bookingUrl": "",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/heritageireland/",
+      "twitter": "https://twitter.com/heritageireopw",
+      "instagram": "https://www.instagram.com/heritageirelandopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "Accessible during daylight hours",
+          "notes": "Unguided site - accessible at all times"
+        }
+      ],
+      "closedDates": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "senior": 0,
+      "child": 0,
+      "student": 0,
+      "family": 0,
+      "group": 0,
+      "notes": "Free admission - unguided National Monument"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "30-45 minutes",
+        "included": ["Unguided exploration of ruins", "Tempera wall-paintings viewing area", "Cloister and graveyard"],
+        "notes": "No guided tours available - unguided site"
+      }
+    ],
+    "averageVisitDuration": "30-45 minutes",
+    "busyPeriods": ["Summer months", "Weekends"],
+    "adviceForVisitors": "This is an unguided site and a level of care and caution should be maintained during all stages of your visit. Access requires going through a stile (over a fence via steps). Car park is located a short walk away near the graveyard. Appropriate footwear recommended for uneven surfaces. The Office of Public Works will not be held responsible for any damages, injuries, or losses that occur."
+  },
+
+  "features": {
+    "highlights": [
+      "15th-century tempera wall-paintings (one of only four in Ireland)",
+      "Sculpted head of King Cathal Crobhdearg Ua Conchobair",
+      "Rib-vaulted chancel with fine carved capitals",
+      "Three-light window with elaborately moulded jambs",
+      "Memorial plaque to Elevina Kirwan (1684)",
+      "Burial place of King Cathal Crobhdearg Ua Conchobair",
+      "Cloister ruins with local graves and gravestones",
+      "Chapter room divided by cross-walls",
+      "Calefactory (monks' day room)",
+      "Refectory ruins"
+    ],
+    "facilities": ["Car park", "Unguided access"],
+    "accessibility": {
+      "wheelchairAccessible": "No",
+      "notes": "Challenging access - requires navigating a stile (over a fence via steps). Uneven surfaces throughout. Not suitable for wheelchairs or limited mobility.",
+      "restrictions": ["Stile access required", "Uneven walkways", "Appropriate footwear required", "Dogs on lead", "Unguided site - caution required"]
+    },
+    "uniqueSellingPoints": [
+      "One of only four sites in Ireland with rare tempera wall-paintings",
+      "Founded by Cathal Crobhdearg Ua Conchobair, the feared King of Connaught",
+      "Burial place of a medieval Irish king",
+      "Sculpted royal head carving from 13th century",
+      "Settled by monks from Boyle Abbey",
+      "Weather-proofed wall-paintings protected by OPW since 1980s",
+      "Free admission to National Monument",
+      "Remarkably preserved Cistercian architecture",
+      "Memorial plaque from 1684 with armorial bearings"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2024/06/190927_Knockmoy_Abbey-26.jpg",
+      "alt": "The surrounding green fields and bright blue sky backdropping the ruins of Abbeyknockmoy",
+      "caption": "Abbeyknockmoy Cistercian Abbey - Credit: Photographic Archive, National Monuments Service"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/190927_Knockmoy_Abbey-48-scaled.jpg",
+        "alt": "The external ruins of what was likely the church for Abbeyknockmoy",
+        "caption": "The impressive ruins of Abbeyknockmoy - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/190927_Knockmoy_Abbey-43-scaled.jpg",
+        "alt": "Intricate abstract designs on the stonework at Abbeyknockmoy",
+        "caption": "Designs of intricate detail - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/190927_Knockmoy_Abbey-28-scaled.jpg",
+        "alt": "The interior ruins of the abbey, with 4 glassless narrow windows in the centre",
+        "caption": "The interior ruins of Abbeyknockmoy - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/190927_Knockmoy_Abbey-25-scaled.jpg",
+        "alt": "Some crosses within an internal courtyard, marking the resting place of the dead",
+        "caption": "A final resting place - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/150929_Abbeyknockmoy_134-scaled.jpg",
+        "alt": "The large external ruins of Abbeyknockmoy",
+        "caption": "Abbeyknockmoy exterior view - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2024/06/150929_Abbeyknockmoy_130-scaled.jpg",
+        "alt": "The large external ruins of Abbeyknockmoy",
+        "caption": "Abbeyknockmoy from a distance - Credit: Photographic Archive, National Monuments Service, Government of Ireland"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Athenry Castle",
+      "distance": "15.6 km",
+      "type": "castle"
+    },
+    {
+      "name": "Aughnanure Castle",
+      "distance": "35.4 km",
+      "type": "castle"
+    },
+    {
+      "name": "Roscommon Castle - South West Tower",
+      "distance": "42.1 km",
+      "type": "castle"
+    },
+    {
+      "name": "Rathcroghan Visitor Centre",
+      "distance": "49.6 km",
+      "type": "prehistoric-monument"
+    },
+    {
+      "name": "Clonmacnoise Monastic Site",
+      "distance": "51.8 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Portumna Castle and Gardens",
+      "distance": "52.5 km",
+      "type": "castle"
+    }
+  ],
+
+  "tags": ["abbey", "monastery", "cistercian", "medieval", "galway", "cathal-crobhdearg", "wall-paintings", "tempera-art", "ruins", "ecclesiastical", "13th-century", "boyle-abbey", "king-of-connaught", "national-monument", "free-admission", "unguided-site"],
+  "suitableFor": ["history-enthusiasts", "architecture-lovers", "art-historians", "photographers", "medieval-history-buffs", "archaeology-enthusiasts", "self-guided-explorers"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": false,
+  "bookingRequired": false,
+  "bookingRecommended": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.5,
+  "reviewCount": 350,
+  "featured": false,
+
+  "optionalFields": {
+    "unescoWorldHeritage": false,
+    "nationalMonument": true,
+    "freeAdmission": true,
+    "unguidedSite": true,
+    "safetyWarnings": [
+      "Unguided site - care and caution required",
+      "Stile access required (over fence via steps)",
+      "Uneven surfaces and ruins",
+      "No staff on site",
+      "Appropriate footwear essential"
+    ],
+    "historicalNotes": [
+      "Founded 1189/1190",
+      "Plundered 1202 and 1228",
+      "Dissolved 1542",
+      "Burial place of King Cathal Crobhdearg Ua Conchobair (died 1224)",
+      "Wall-paintings weather-proofed 1980s",
+      "One of only four tempera wall-painting sites in Ireland"
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "id": "malahide-castle",
+  "slug": "malahide-castle",
+  "name": "Malahide Castle and Gardens",
+  "tagline": "800 years of history in one of Ireland's most iconic medieval castles",
+  "type": "castle",
+  "category": "medieval-castle",
+  "categories": ["castle", "medieval", "anglo-norman", "historic-house", "gardens", "family-attraction", "dublin"],
+  "historicalPeriod": "medieval",
+  "era": "12th-21st century",
+  "yearBuilt": "1185",
+  "significance": "One of Ireland's oldest castles, home to the Talbot family for over 800 years",
+  "foundedBy": "Richard Talbot received Malahide for his services to the crown in 1185",
+
+  "description": {
+    "short": "Step back in time and explore the magnificent Malahide Castle, home to the Talbot family for over 800 years. Discover opulent state rooms, exquisite art collections, and fascinating tales of the past set within 260 acres of parkland.",
+    "full": "Malahide Castle, parts of which date to the 12th century, stands as one of Ireland's most iconic medieval landmarks, located just 14 minutes from Dublin Airport in the picturesque seaside village of Malahide. From 1185 onwards, the Talbot family became intertwined with Malahide's history and development. The earliest believed stone fortress at Malahide was an Anglo-Norman tower house. From the 12th century onwards, this stronghold was continually expanded by the Talbot family. Rooms were modified, fortifications developed and many embellishments to the interior were added until the castle took on its current form. The castle is filled with a rich family history and a unique collection of artwork, furniture and architecture compiled over the eight centuries of the Talbots tenure. With many rooms remaining the same as when the final Baron de Malahide lived in the Castle, visitors can step back 800 years in time to explore opulent state rooms including the Oak Room, drawing room, the Great Hall and library. The estate features over 260 acres of remaining parkland (the Malahide Demesne Regional Park), meticulously landscaped botanic gardens, Ireland's only exotic Butterfly House, and a magical Fairy Trail perfect for families.",
+    "history": "Richard Talbot received Malahide for his services to the crown in 1185, beginning an extraordinary 800-year association between the Talbot family and the castle. The earliest stone fortress was an Anglo-Norman tower house dating to the 12th century. Over the following centuries, the Talbot family continually expanded and modified the castle, adding rooms, developing fortifications, and creating many interior embellishments. The castle served as the family seat through medieval times, the Tudor period, the Cromwellian era, and into the modern age. Many rooms remain exactly as they were when the final Baron de Malahide lived in the castle. The Talbot family sold the property to the Irish State in 1975, who have since worked to preserve its magnificent beauty and history. Today it stands as one of Ireland's most important medieval heritage sites.",
+    "architecture": "Malahide Castle showcases the evolution of Irish castle architecture from medieval times through to the Georgian era. The original 12th-century Anglo-Norman tower house forms the core, around which successive generations added Gothic revival elements, Tudor features, and Georgian embellishments. The castle features impressive state rooms including the Oak Room with its ornate wood paneling, the Great Hall with medieval ambiance, an elegant drawing room, and a well-stocked library. The interior boasts exquisite art collections including portraits of the Talbot family spanning generations, antique furnishings, and architectural details from various periods. The castle's multiple towers overlook a courtyard and are surrounded by 260 acres of parkland featuring formal gardens, woodland walks, and stunning coastal views.",
+    "culturalSignificance": "Malahide Castle represents one of the longest continuous family occupancies of any castle in Ireland, with the Talbot family residing there for over 800 years. It serves as a living museum showcasing Irish aristocratic life from medieval times through to the 20th century. The castle's art collections, furnishings, and architecture provide invaluable insights into Irish history, culture, and craftsmanship. As one of Ireland's most visited heritage sites, it plays a crucial role in preserving and presenting Irish medieval history to both domestic and international visitors. The castle has also become a cultural venue for events, education programs, and serves as a symbol of Ireland's rich architectural heritage."
+  },
+
+  "location": {
+    "address": {
+      "street": "Back Road, Malahide Demesne",
+      "town": "Malahide",
+      "county": "Dublin",
+      "region": "Greater Dublin Area",
+      "country": "Ireland",
+      "postcode": "K36 YP65"
+    },
+    "coordinates": {
+      "latitude": 53.440165,
+      "longitude": -6.158999
+    },
+    "directions": {
+      "general": "Malahide Castle is located just 10 minutes from Dublin Airport and 25 minutes from Dublin city centre in the picturesque coastal village of Malahide",
+      "byCar": "From Dublin city: Take the M1 or coastal route north. Follow signs to Malahide village. Ample free parking available on-site with 7 coach bays for tour groups. From Dublin Airport: 14-minute drive via R132",
+      "byBus": "Dublin Bus routes 32 and 42 connect Dublin city center with Malahide village. Route 102 operates direct from Dublin Airport to Malahide village. Castle is approximately 10-minute walk from village",
+      "byTrain": "DART (Dublin Area Rapid Transit) to Malahide Station from various Dublin city centre stations. Castle is approximately 10-minute walk from Malahide DART station",
+      "parking": "Ample free parking on-site including designated disabled parking spaces and 7 coach bays for group tours"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 1 866 6780",
+    "email": "enquiries@malahidecastleandgardens.ie",
+    "groupEmail": "reservations@malahidecastleandgardens.ie",
+    "eventsEmail": "events@malahidecastleandgardens.ie",
+    "website": "https://malahidecastleandgardens.ie/",
+    "bookingUrl": "https://bookings.malahidecastleandgardens.ie/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/MalahideCastleAndGardens/",
+      "instagram": "https://www.instagram.com/malahide_castle/",
+      "tiktok": "https://www.tiktok.com/@malahide_castle"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "notes": "Castle, Gardens, Butterfly House, and Fairy Trail all open from 9:30am"
+        }
+      ],
+      "closedDates": ["24, 25, 26 December"],
+      "specialEvents": []
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 17.00,
+      "child": 9.00,
+      "senior": 12.00,
+      "student": 12.00,
+      "family2plus2": 48.00,
+      "family2plus3": 55.00,
+      "notes": "Child rate applies to ages 4-17 years. Senior rate for 65+. Student rate with valid ID. Family tickets available for 2 adults + 2 children or 2 adults + 3 children. Prices current as of 2025 but may change - check website for latest pricing"
+    },
+    "tourOptions": [
+      {
+        "type": "Classic Castle Guided Tour",
+        "duration": "45 minutes - 1 hour",
+        "included": ["Guided tour of main state rooms", "Oak Room", "Great Hall", "Drawing Room", "Library", "Entry to Botanical Gardens", "Butterfly House access", "Fairy Trail access"],
+        "notes": "Audio guides available in Irish, French, German, Spanish, Italian, Russian and Mandarin"
+      },
+      {
+        "type": "Fairy Trail & Butterfly House",
+        "duration": "1-2 hours",
+        "included": ["Self-guided Fairy Trail", "Butterfly House", "Walled Garden", "West Lawn"],
+        "notes": "Perfect for families with children"
+      },
+      {
+        "type": "The Whiskey Connoisseur Experience",
+        "duration": "Evening experience",
+        "included": ["Guided tour of decorated castle", "Whiskey tasting", "Food pairings"],
+        "notes": "Special evening experience - 6pm start. Seasonal availability"
+      }
+    ],
+    "averageVisitDuration": "2-3 hours minimum recommended to fully enjoy all attractions",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "School holidays", "Easter"],
+    "adviceForVisitors": "Pre-booking tickets is highly recommended, especially during peak season and for larger groups. Advance booking guarantees entry and may reduce queuing time. Comfortable walking shoes recommended for exploring the extensive grounds. Allow minimum 2 hours to fully experience castle and gardens. Tour tickets are non-refundable but can be edited within 48-hour window. Bicycles and scooters not permitted in gardens or on Fairy Trail."
+  },
+
+  "features": {
+    "highlights": [
+      "800 years of Talbot family history",
+      "Magnificent medieval castle with Anglo-Norman tower house core",
+      "Opulent state rooms (Oak Room, Great Hall, Drawing Room, Library)",
+      "Exquisite art collections and antique furnishings",
+      "260 acres of parkland and gardens",
+      "World-renowned Botanic Gardens with rare and exotic plant species",
+      "Ireland's only exotic Butterfly House",
+      "Magical Fairy Trail for children and families",
+      "Walled Garden with Victorian conservatory",
+      "Free admission to parkland (Malahide Demesne Regional Park)",
+      "9-hole golf course and 18-hole pitch and putt on grounds",
+      "Malahide Cricket Club on historic grounds",
+      "Avoca Cafe and restaurant on-site"
+    ],
+    "facilities": ["Visitor Centre", "Guided tours", "Audio guides (7 languages)", "Avoca Cafe and restaurant", "Gift shop", "Toilets", "Wheelchair accessible toilets", "Baby changing facilities", "Free parking", "Disabled parking", "Coach parking (7 bays)", "Bicycle racks", "Picnic areas", "Educational programs", "Event spaces", "WiFi"],
+    "accessibility": {
+      "wheelchairAccessible": "Majority accessible with some limitations",
+      "notes": "Malahide Castle and Gardens are generally wheelchair accessible with ramps, lifts, and adapted restrooms. Due to historic nature of buildings, some areas may have limited accessibility. Visitor Centre fully accessible. Contact reservations team for specific accessibility concerns: reservations@malahidecastleandgardens.ie",
+      "restrictions": ["Some historic areas have limited access", "Assistance dogs only (no pets)", "No drones permitted", "No bicycles or scooters in gardens or Fairy Trail"]
+    },
+    "uniqueSellingPoints": [
+      "One of Ireland's oldest castles dating to 1185",
+      "Longest continuous family occupancy - Talbot family for 800+ years",
+      "Only 14 minutes from Dublin Airport - perfect for day trips",
+      "Accessible by DART from Dublin city centre (30-35 minutes)",
+      "Ireland's only exotic Butterfly House with hundreds of tropical species",
+      "260 acres of stunning parkland free to explore",
+      "Rooms preserved exactly as when final Baron de Malahide lived there",
+      "TripAdvisor Travelers' Choice Awards 2024 winner",
+      "Family-friendly with Fairy Trail, Butterfly House, and playgrounds",
+      "Venue hire available for weddings and corporate events",
+      "Annual membership passes for unlimited visits",
+      "Educational programs for schools"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Malahide-Castle-aerial-view.jpg",
+      "alt": "Aerial view of Malahide Castle surrounded by lush green parkland with multiple towers and expansive lawns",
+      "caption": "Malahide Castle - 800 years of history set in 260 acres of stunning parkland"
+    },
+    "gallery": [
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Castle-interior-Oak-Room.jpg",
+        "alt": "Ornate Oak Room interior with antique furniture and portraits",
+        "caption": "The opulent Oak Room - one of Malahide Castle's stunning state rooms"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Gothic-windows-interior.jpg",
+        "alt": "Gothic-style windows casting shadows on castle interior",
+        "caption": "Gothic architecture and period furnishings throughout the castle"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Butterfly-House.jpg",
+        "alt": "Child with butterfly on hand inside tropical Butterfly House",
+        "caption": "Ireland's only exotic Butterfly House - a magical experience for all ages"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Walled-Garden-pond.jpg",
+        "alt": "Serene garden scene with wooden bridge over pond surrounded by lush foliage",
+        "caption": "The tranquil Walled Garden and Botanic Gardens"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Fairy-Trail.jpg",
+        "alt": "Colorful fairy houses nestled among trees in woodland setting",
+        "caption": "The enchanting Fairy Trail - perfect for families with young children"
+      },
+      {
+        "url": "https://malahidecastleandgardens.ie/wp-content/uploads/2024/07/Castle-exterior-grounds.jpg",
+        "alt": "Malahide Castle exterior with towers and courtyard",
+        "caption": "The magnificent medieval castle with its distinctive towers"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Malahide Village",
+      "distance": "1.0 km",
+      "type": "village",
+      "description": "Charming coastal village with shops, pubs, and restaurants"
+    },
+    {
+      "name": "Malahide Beach",
+      "distance": "1.5 km",
+      "type": "beach",
+      "description": "Sandy beach perfect for walks and relaxation"
+    },
+    {
+      "name": "Howth Cliff Walk",
+      "distance": "8.5 km",
+      "type": "hiking-trail",
+      "description": "Stunning coastal cliff walk with panoramic views"
+    },
+    {
+      "name": "Ireland's Eye",
+      "distance": "9.0 km",
+      "type": "island",
+      "description": "Small island with wildlife and bird sanctuary, accessible by ferry from Howth"
+    },
+    {
+      "name": "Newbridge House and Farm",
+      "distance": "12.0 km",
+      "type": "historic-house",
+      "description": "Georgian mansion with traditional working farm"
+    },
+    {
+      "name": "Casino Model Railway Museum",
+      "distance": "3.0 km",
+      "type": "museum",
+      "description": "Ireland's only model railway museum - combo tickets available"
+    },
+    {
+      "name": "Dublin City Centre",
+      "distance": "14.0 km",
+      "type": "city",
+      "description": "Ireland's capital with historic sites, shopping, and culture"
+    }
+  ],
+
+  "tags": ["castle", "medieval", "anglo-norman", "historic-house", "dublin", "gardens", "butterfly-house", "fairy-trail", "family-friendly", "talbot-family", "state-rooms", "art-collection", "parkland", "coastal", "malahide", "day-trip", "accessible-by-dart", "wedding-venue", "educational"],
+  "suitableFor": ["families", "history-enthusiasts", "architecture-lovers", "garden-lovers", "photographers", "children", "school-groups", "day-trippers", "international-visitors", "nature-lovers", "art-enthusiasts"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Fingal County Council - Managed by Aramark Ireland",
+  "rating": 4.6,
+  "reviewCount": 8500,
+  "featured": true,
+
+  "optionalFields": {
+    "tripadvisorAward": "Travelers' Choice Awards 2024",
+    "annualMembership": "Available - unlimited access to Malahide Castle & Gardens, Casino Model Railway Museum, and Newbridge House & Farm",
+    "venueHire": "Available for weddings, corporate events, and private functions - contact events@malahidecastleandgardens.ie",
+    "educationalPrograms": "Comprehensive programs for primary and secondary schools",
+    "specialExperiences": ["Whiskey Connoisseur Evening", "Christmas Experience (seasonal)", "Wonderlights winter light show"],
+    "publicParkland": "260 acres of Malahide Demesne Regional Park free to access with walking paths, golf course, cricket ground, and sports facilities",
+    "restaurantCafe": "Avoca Cafe on-site offering Irish cuisine and refreshments",
+    "activeTravel": "2 bike racks available - sustainable transport encouraged"
+  }
+}

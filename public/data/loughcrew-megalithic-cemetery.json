@@ -1,0 +1,302 @@
+{
+  "id": "loughcrew-megalithic-cemetery",
+  "slug": "loughcrew-megalithic-cemetery",
+  "name": "Loughcrew Megalithic Cemetery",
+  "tagline": "A high point of Neolithic art and design",
+  "type": "megalithic-cemetery",
+  "category": "neolithic-passage-tomb",
+  "categories": ["neolithic", "passage-tomb", "megalithic", "prehistoric", "cairns", "archaeological", "burial-site"],
+  "historicalPeriod": "neolithic",
+  "era": "3000 BC",
+  "yearBuilt": "3000 BC",
+  "significance": "One of Ireland's most important Neolithic passage tomb complexes featuring exceptional megalithic art and equinox solar alignments",
+  "foundedBy": "Neolithic farming communities",
+
+  "description": {
+    "short": "The Loughcrew Megalithic Cemetery, also known as the Hills of the Witch, are a group of Neolithic passage tombs near Oldcastle in County Meath. Spread over four undulating peaks, the tombs are of great antiquity, dating to 3000 BC.",
+    "full": "The Loughcrew Megalithic Cemetery, also known as Sliabh na Caillaigh (the Hills of the Witch), comprises one of Ireland's most significant collections of Neolithic passage tombs. Dating to approximately 3000 BC, these ancient monuments predate both Stonehenge and the Egyptian pyramids by several centuries. Spread across four undulating hilltops in County Meath, the cemetery contains over 30 passage tombs, making it one of the largest megalithic complexes in Ireland. The site offers visitors a unique combination of archaeological significance, stunning megalithic art, astronomical alignments, and breathtaking panoramic views across the Irish midlands. Unlike more commercialized sites, Loughcrew provides an intimate, uncrowded experience where visitors can connect directly with Ireland's ancient past.",
+    "history": "Constructed around 3000 BC during the Neolithic period, Loughcrew represents the architectural and spiritual achievements of Ireland's early farming communities. These passage tombs served as both burial chambers and ceremonial centers, demonstrating sophisticated knowledge of astronomy, engineering, and stone carving. The tombs were built by transporting massive stones up steep hillsides and carefully positioning them to create corbelled chambers aligned with celestial events. Archaeological excavations have revealed cremated human remains, pottery, bone pins, and pendants, providing insights into Neolithic burial practices and beliefs. The site's Irish name, Sliabh na Caillaigh (Hills of the Witch), comes from the legend of a witch who created the cairns by dropping stones from her apron as she leaped from hilltop to hilltop. The tombs remained largely undisturbed for millennia until archaeological investigations began in the 19th and 20th centuries, revealing their extraordinary significance.",
+    "architecture": "The Loughcrew complex consists of over 30 passage tombs distributed across four hilltops: Carnbane East, Carnbane West, Patrickstown Hill, and Newtown Hill. Cairn T on Carnbane East is the largest and most impressive, measuring approximately 35 meters in diameter. It features a cruciform chamber with a beautifully corbelled roof and contains some of the finest examples of Neolithic megalithic art in Ireland. The passage and chamber are precisely aligned to capture the sunrise at the spring and autumn equinoxes, when sunlight illuminates intricate carvings on the backstone. The carvings include spirals, circles, radial patterns, zigzags, and solar symbols - abstract designs whose exact meanings remain mysterious. Many stones feature the distinctive Loughcrew style of megalithic art, with symbols that may represent astronomical observations, spiritual beliefs, or territorial markers. Outside Cairn T sits the 'Hag's Chair' or 'Witch's Seat,' a decorated stone throne offering spectacular views. Other significant tombs include Cairn L on Carnbane West, aligned to sunrise at Samhain and Imbolc, and Cairn S with its exceptional stone carvings.",
+    "culturalSignificance": "Loughcrew stands as a testament to the astronomical knowledge, engineering prowess, and artistic sophistication of Neolithic Ireland. The precise solar alignments at the equinoxes demonstrate detailed understanding of celestial movements and the changing seasons - knowledge crucial for agricultural communities. The site's megalithic art represents some of the most accomplished stone carving from prehistoric Europe, with designs that continue to fascinate archaeologists and visitors alike. As a less-commercialized alternative to Newgrange, Loughcrew offers an authentic, contemplative experience of ancient Ireland. The equinox gatherings, where people assemble at dawn to witness the solar illumination, continue a tradition spanning five millennia and create a profound connection between modern visitors and Ireland's Neolithic ancestors. The site is protected as a National Monument and represents an irreplaceable cultural heritage."
+  },
+
+  "location": {
+    "address": {
+      "street": "Corstown",
+      "town": "Oldcastle",
+      "county": "Meath",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "N/A"
+    },
+    "coordinates": {
+      "latitude": 53.744576,
+      "longitude": -7.112123
+    },
+    "directions": {
+      "general": "Located 3km east of Oldcastle, off R163, about 80km northwest of Dublin",
+      "byCar": "From Dublin, take M3 northwest to Kells, then R163 to Oldcastle. Follow signs for Loughcrew Cairns. Narrow approach road - drive with caution. Approximately 25 parking spaces available.",
+      "byBus": "Limited public transport. Bus Eireann services to Oldcastle from Dublin and other towns, then taxi or 3km walk to site.",
+      "parking": "Small car park at base of Carnbane East. Free parking. Note: narrow single-lane rural road to car park."
+    }
+  },
+
+  "contact": {
+    "phone": "087 0524975",
+    "email": "N/A",
+    "website": "https://heritageireland.ie/visit/places-to-visit/loughcrew-megalithic-cemetery/",
+    "bookingUrl": "N/A",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/loughcrewopw"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Seasonal Opening",
+      "seasonal": [
+        {
+          "period": "01 June - 03 September 2025",
+          "days": "Daily",
+          "hours": "09:30 - 17:30",
+          "notes": "Guides on site daily. Guided tours available 10:30 - 15:30 (weather dependent)"
+        },
+        {
+          "period": "October - May",
+          "days": "Daily",
+          "hours": "Daylight hours",
+          "notes": "Site accessible year-round but no guides present outside summer season. Access via steep climb from car park."
+        }
+      ],
+      "closedDates": [],
+      "specialEvents": [
+        "Spring Equinox (around 20 March) - sunrise illumination in Cairn T",
+        "Autumn Equinox (around 22 September) - sunrise illumination in Cairn T"
+      ]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 0,
+      "notes": "Free admission to site. No visitor center or ticketing facility. Site is open access."
+    },
+    "tourOptions": [
+      {
+        "type": "Guided Tours",
+        "duration": "30-45 minutes",
+        "included": ["Site history", "Megalithic art explanation", "Equinox alignments", "Archaeological insights"],
+        "availability": "Summer months only (June-September), 10:30-15:30",
+        "notes": "Weather dependent. Highly recommended for understanding the site's significance."
+      },
+      {
+        "type": "Self-Guided",
+        "duration": "60-90 minutes",
+        "included": ["Access to Carnbane East cairns", "Panoramic hilltop views", "Megalithic art viewing"],
+        "notes": "Interpretive panels on site. Download social guide from Heritage Ireland website."
+      },
+      {
+        "type": "Equinox Sunrise Gathering",
+        "duration": "2-3 hours",
+        "availability": "Spring and Autumn equinox only",
+        "notes": "Arrive before dawn. Popular event - expect crowds. Weather dependent for illumination."
+      }
+    ],
+    "averageVisitDuration": "1-2 hours",
+    "busyPeriods": ["Equinox sunrise events", "Summer weekends", "Good weather days"],
+    "adviceForVisitors": "IMPORTANT: The climb to Cairn T is steep (approximately 650m) with uneven terrain and steps. Wear sturdy walking shoes or hiking boots - essential. Not suitable for wheelchairs, strollers, or those with limited mobility. Approach road is very narrow single-lane - drive carefully. Weather can change quickly - bring layers. Due to ongoing conservation work, access to interior of Cairn T may be restricted. Respect the monuments - do not touch, mark, or climb on the stones. This is a 5,000-year-old burial site. No facilities on site - nearest toilets in Oldcastle village. Bring water. Dogs allowed on lead. No drones permitted."
+  },
+
+  "features": {
+    "highlights": [
+      "Over 30 Neolithic passage tombs across four hilltops",
+      "Cairn T - largest tomb with cruciform chamber and corbelled roof",
+      "Exceptional megalithic art - spirals, circles, solar symbols, radial patterns",
+      "Spring and autumn equinox sunrise illumination in Cairn T",
+      "The 'Hag's Chair' or 'Witch's Seat' stone throne",
+      "360-degree panoramic views across Irish midlands",
+      "Dating to 3000 BC - older than Stonehenge and pyramids",
+      "Uncrowded, authentic ancient site experience",
+      "30+ cairns visible across landscape",
+      "Steep but rewarding hillside climb"
+    ],
+    "facilities": [
+      "Car park (approximately 25 spaces)",
+      "Interpretive information panels",
+      "Guided tours (summer season)",
+      "Downloadable social guide (PDF)",
+      "Brochure available"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes": "NOT accessible for wheelchairs or limited mobility. Steep 650m climb with uneven terrain, grass slopes, and stone steps required to reach cairns. No paved paths. Site is on exposed hilltop.",
+      "restrictions": [
+        "No wheelchair access",
+        "Not suitable for strollers/pushchairs",
+        "Dogs must be on lead",
+        "No climbing on monuments",
+        "Do not touch or mark stones",
+        "Limited access (conservation work on Cairn T interior)",
+        "No drones",
+        "Narrow approach road"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "One of largest megalithic cemetery complexes in Ireland (30+ tombs)",
+      "Some of finest Neolithic megalithic art in Western Europe",
+      "Equinox sunrise illumination phenomenon in Cairn T",
+      "Dating to 3000 BC - predates Stonehenge and Egyptian pyramids",
+      "Less crowded than Newgrange - intimate experience",
+      "Known as 'Hills of the Witch' - rich in mythology",
+      "Spectacular 360-degree hilltop views",
+      "Free admission and open access",
+      "The 'Hag's Chair' decorated stone seat",
+      "Multiple aligned passage tombs across landscape",
+      "Ongoing astronomical and archaeological significance"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/Cairn-T-with-Cairn-U-in-foreground_.jpg",
+      "alt": "Cairn T with Cairn U in foreground at Loughcrew",
+      "caption": "Cairn T (background) and Cairn U (foreground) on Carnbane East hilltop"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/LoughCrew-1.jpg",
+        "alt": "Stone passage entrance to Loughcrew cairn",
+        "caption": "Entrance passage to one of the Loughcrew cairns"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Loughcrew-Megalithic-Art.jpg",
+        "alt": "Neolithic megalithic art carvings at Loughcrew",
+        "caption": "Exceptional Neolithic megalithic art - spirals, circles, and radial patterns carved 5,000 years ago"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Loughcrew-Cairn-Equinox.jpg",
+        "alt": "Sunrise equinox illumination at Loughcrew Cairn T",
+        "caption": "Spring or autumn equinox sunrise illuminating the chamber at Cairn T"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Loughcrew-The-Chamber-of-Cairn-T.jpg",
+        "alt": "Interior chamber of Cairn T showing corbelled roof",
+        "caption": "Interior cruciform chamber of Cairn T with corbelled roof construction"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/The-Hags-Chair-at-Cairn-T.jpg",
+        "alt": "The Hag's Chair decorated stone seat at Cairn T",
+        "caption": "The 'Hag's Chair' or 'Witch's Seat' - decorated stone throne outside Cairn T"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Art-in-Cairn-S.jpg",
+        "alt": "Megalithic art in Cairn S at Loughcrew",
+        "caption": "Intricate megalithic carvings in Cairn S"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2021/09/waiting-for-equinox-dawn-at-loughcrew-1-1-scaled.jpg",
+        "alt": "Visitors waiting for equinox sunrise at Loughcrew",
+        "caption": "People gathering at dawn to witness the equinox illumination - a tradition spanning 5,000 years"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Loughcrew-Cairns-credit-Tony-Pleavin-no-exp.jpg",
+        "alt": "Panoramic view of Loughcrew cairns on hilltop",
+        "caption": "Multiple cairns dotting the Carnbane hilltops with panoramic views - Credit: Tony Pleavin"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Fore Abbey",
+      "distance": "10.1 km",
+      "type": "monastery"
+    },
+    {
+      "name": "Trim Castle",
+      "distance": "30.0 km",
+      "type": "castle"
+    },
+    {
+      "name": "Hill of Tara",
+      "distance": "37.8 km",
+      "type": "prehistoric-monument"
+    },
+    {
+      "name": "Brú na Bóinne (Newgrange)",
+      "distance": "45 km",
+      "type": "passage-tomb"
+    }
+  ],
+
+  "tags": [
+    "neolithic",
+    "passage-tomb",
+    "megalithic",
+    "cairns",
+    "prehistoric",
+    "megalithic-art",
+    "equinox",
+    "astronomical-alignment",
+    "burial-site",
+    "ancient-monument",
+    "hills-of-the-witch",
+    "sliabh-na-caillaigh",
+    "cairn-t",
+    "3000-bc",
+    "meath",
+    "oldcastle",
+    "archaeology",
+    "hiking",
+    "panoramic-views",
+    "stone-age",
+    "corbelled-chamber",
+    "solar-alignment"
+  ],
+
+  "suitableFor": [
+    "archaeology-enthusiasts",
+    "history-buffs",
+    "hikers",
+    "photographers",
+    "spiritual-seekers",
+    "ancient-history-lovers",
+    "fit-adults",
+    "school-groups",
+    "adventure-seekers",
+    "nature-lovers",
+    "solo-travelers"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": false,
+  "heritageCardAccepted": false,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.8,
+  "reviewCount": 900,
+  "featured": true,
+
+  "safetyWarnings": [
+    "Steep 650m climb to cairns - sturdy footwear essential",
+    "Uneven terrain with stone steps - not suitable for limited mobility",
+    "Exposed hilltop - weather can change rapidly",
+    "Narrow single-lane approach road - drive carefully",
+    "No facilities on site - bring water and plan accordingly",
+    "Ancient monuments - do not touch, climb, or deface stones",
+    "No barriers at some cairn edges - supervise children"
+  ],
+
+  "mythologyAndLegends": {
+    "hillsOfTheWitch": "The Irish name Sliabh na Caillaigh (Hills of the Witch) comes from the legend of a powerful witch or hag who created the cairns. According to folklore, she leaped from hilltop to hilltop carrying an apron full of stones. Each time she landed, stones fell from her apron, creating the passage tombs. On her final leap, she stumbled and broke her neck, and was buried beneath the cairns she created.",
+    "hagsSeat": "The 'Hag's Chair' or 'Witch's Seat' outside Cairn T is said to be where the witch sat to rest. Local tradition holds that sitting in the chair brings good fortune or grants wishes.",
+    "equinoxMagic": "For 5,000 years, the cairns have captured the equinox sunrise, suggesting the builders possessed sophisticated astronomical knowledge and perhaps viewed the phenomenon as spiritually significant - a moment when day and night balance equally."
+  },
+
+  "conservation": {
+    "status": "National Monument - protected under National Monuments Acts 1930-2014",
+    "currentWork": "Interior of Cairn T temporarily closed for conservation works to preserve 5,000-year-old megalithic art",
+    "visitorResponsibility": "Visitors must not deface, mark, or touch stones. Scraping or writing on monuments damages irreplaceable 5,000-year-old art. Offenders will be prosecuted."
+  }
+}

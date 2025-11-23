@@ -1,0 +1,247 @@
+{
+  "id": "st-patricks-cathedral-dublin",
+  "slug": "st-patricks-cathedral-dublin",
+  "name": "Saint Patrick's Cathedral",
+  "tagline": "Ireland's National Cathedral - A House of Prayer for All Nations",
+  "type": "cathedral",
+  "category": "medieval-cathedral",
+  "categories": ["cathedral", "church-of-ireland", "gothic-architecture", "medieval", "ecclesiastical", "national-cathedral", "dublin-landmarks"],
+  "historicalPeriod": "medieval",
+  "era": "12th-21st century",
+  "yearBuilt": "1191",
+  "significance": "Ireland's largest cathedral and national cathedral of the Church of Ireland since 1870",
+  "foundedBy": "John Comyn, first Anglo-Norman Archbishop of Dublin",
+
+  "description": {
+    "short": "Ireland's National Cathedral and the largest cathedral in the country, Saint Patrick's has been at the heart of Dublin and Ireland's history and culture for over 800 years.",
+    "full": "Saint Patrick's Cathedral is the national cathedral of the Church of Ireland and Ireland's largest cathedral. Founded in 1191 by John Comyn, the first Anglo-Norman Archbishop of Dublin, the cathedral was elevated from a church dedicated to Saint Patrick, located beside a holy well where legend says Saint Patrick baptized Christian converts over 1,500 years ago. The present cathedral building, in terms of shape and size, dates from 1220-1259 and is a masterpiece of Gothic architecture. The cathedral has witnessed some of the most important developments in Christianity in Ireland and is closely associated with Jonathan Swift, author of Gulliver's Travels, who served as Dean from 1713 to 1745 and is buried here. Since 1870, the Church of Ireland has designated Saint Patrick's as the national cathedral for the whole of Ireland, drawing chapter members from each of the 12 dioceses of the Church of Ireland.",
+    "history": "Founded in 1191 or 1192 when Archbishop John Comyn elevated a Celtic parish church dedicated to Saint Patrick to the status of a collegiate church. The site is beside a holy well traditionally associated with Saint Patrick's ministry in the 5th century. The medieval building was constructed between 1220-1259 in Gothic style. Jonathan Swift served as Dean from 1713-1745, and his influence remains central to the cathedral's identity. The cathedral underwent major restoration in the 1860s funded by Sir Benjamin Guinness. It has been designated as the national cathedral of the Church of Ireland since 1870, making it unique among Irish cathedrals. The cathedral continues to be a working church with daily services and is one of Dublin's most visited heritage attractions.",
+    "architecture": "A magnificent example of Gothic architecture, Saint Patrick's Cathedral is the largest cathedral in Ireland, measuring 300 feet (91m) externally and 287 feet (87m) internally. The building features a 225-foot (69m) spire, soaring nave with Gothic arches, beautiful stained glass windows, medieval stone floors, and intricate carved details. The cathedral includes the Door of Reconciliation, which gave rise to the Irish phrase 'to chance your arm,' numerous memorials and monuments, the burial place of Jonathan Swift and Stella, and the famous Boyle Monument. The floor area covers 21,300 square feet with a nave width of 68 feet.",
+    "culturalSignificance": "As Ireland's National Cathedral since 1870, Saint Patrick's holds unique status representing all of Ireland. It is one of Dublin's most important heritage sites and tourist attractions, welcoming visitors from around the world. The cathedral's connection to Jonathan Swift, one of Ireland's greatest literary figures, adds significant cultural importance. The phrase 'to chance your arm' originated here from a 1492 event between feuding Irish families. The cathedral maintains a world-renowned choir school founded in 1432, whose pupils sing twelve services a week during term. It serves as a symbol of Ireland's Christian heritage and continues as an active place of worship."
+  },
+
+  "location": {
+    "address": {
+      "street": "St Patrick's Close",
+      "town": "Dublin",
+      "county": "Dublin",
+      "region": "Dublin City Centre",
+      "country": "Ireland",
+      "postcode": "D08 H6X3"
+    },
+    "coordinates": {
+      "latitude": 53.33944,
+      "longitude": -6.27139
+    },
+    "directions": {
+      "general": "The Cathedral is located at the junction of Patrick Street and Upper Kevin Street, easily accessible by foot from Dublin city centre",
+      "byCar": "Limited coach parking spaces available on Saint Patrick's Close",
+      "byBus": "Multiple Dublin Bus routes serve the area",
+      "byTrain": "Luas tram - nearest stop is St Stephen's Green",
+      "parking": "Limited on-site parking; public car parks nearby in the city centre"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 1 453 9472",
+    "email": "info@stpatrickscathedral.ie",
+    "website": "https://www.stpatrickscathedral.ie/",
+    "bookingUrl": "https://stpatrickscathedral.digitickets.ie/category/5860",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/stpatrickscathedral/",
+      "twitter": "https://twitter.com/stpatrickscath",
+      "instagram": "https://instagram.com/stpatrickscathedraldublin/",
+      "youtube": "https://www.youtube.com/user/StPatricksCathedral1"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Monday - Friday",
+          "hours": "09:30 - 17:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "period": "Saturday",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "period": "Sunday",
+          "hours": "09:00 - 13:00 and 13:00 - 14:30",
+          "lastAdmission": "10:30 and 14:30",
+          "notes": "Two separate visiting periods on Sundays"
+        }
+      ],
+      "closedDates": ["Major religious holidays - check website for specific dates"],
+      "specialEvents": ["Services and concerts may affect visiting hours - check website"]
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 11.00,
+      "senior": 10.00,
+      "child": 5.50,
+      "student": 10.00,
+      "family": 31.00,
+      "group": 10.00,
+      "infant": 0.00,
+      "notes": "Children under 5 free. Joint entry with Marsh's Library €17. Groups of 10+ must book in advance online. Free admission for those attending worship services."
+    },
+    "tourOptions": [
+      {
+        "type": "Free Guided Tours",
+        "duration": "45-60 minutes",
+        "included": ["General cathedral tour", "Historical overview", "Architectural highlights"],
+        "schedule": "Monday-Saturday at 10:30 and 14:30",
+        "notes": "No guided tours on Sundays. Subject to availability."
+      },
+      {
+        "type": "Private Guided Tours",
+        "duration": "60 minutes",
+        "price": "€18 per person",
+        "minimum": 10,
+        "notes": "Groups only, Monday-Saturday. Contact tours@stpatrickscathedral.ie"
+      },
+      {
+        "type": "Self-Guided Tour",
+        "duration": "60-90 minutes",
+        "included": ["Full cathedral access", "Audio guide available", "Gift shop access"]
+      }
+    ],
+    "averageVisitDuration": "1-1.5 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays", "Easter and Christmas periods"],
+    "adviceForVisitors": "Book tickets online in advance to avoid queues. Photography is permitted but flash photography is not allowed during services. Modest dress is appreciated as this is a working place of worship. Free guided tours are popular and fill up quickly. Audio guides are available for self-guided exploration. The cathedral park behind the building is free to enter and provides beautiful views."
+  },
+
+  "features": {
+    "highlights": [
+      "Ireland's largest cathedral (300 feet long)",
+      "225-foot Gothic spire",
+      "The Door of Reconciliation (origin of 'chance your arm')",
+      "Jonathan Swift's tomb and memorial",
+      "Boyle Monument",
+      "Medieval stone floors",
+      "Stunning stained glass windows",
+      "Historic choir stalls",
+      "Lady Chapel",
+      "Ancient baptismal font",
+      "Over 500 memorial plaques and monuments",
+      "Cathedral choir (founded 1432)"
+    ],
+    "facilities": ["Gift shop", "Toilets", "Audio guides", "Visitor information desk", "Limited seating areas", "Cathedral park", "Wheelchair accessible", "WiFi available"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes": "The cathedral is wheelchair accessible with ramps and accessible facilities",
+      "restrictions": ["Some areas may have limited access due to historic architecture", "Uneven stone floors in places", "Steps to certain chapels"]
+    },
+    "uniqueSellingPoints": [
+      "Ireland's National Cathedral and largest cathedral",
+      "Over 800 years of continuous history",
+      "Burial place of Jonathan Swift, author of Gulliver's Travels",
+      "Origin of the phrase 'to chance your arm'",
+      "World-renowned cathedral choir school (founded 1432)",
+      "Magnificent Gothic architecture",
+      "Historic connection to Saint Patrick",
+      "Beautiful cathedral park and gardens",
+      "Active place of worship with daily services",
+      "Extensive collection of historical monuments and memorials"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://www.stpatrickscathedral.ie/wp-content/themes/spc/library/images/logo_splash.svg",
+      "alt": "Saint Patrick's Cathedral Dublin exterior view with Gothic spire",
+      "caption": "Saint Patrick's Cathedral - Ireland's National Cathedral"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/St_Patrick%27s_Cathedral_Exterior%2C_Dublin%2C_Ireland_-_Diliff.jpg/1200px-St_Patrick%27s_Cathedral_Exterior%2C_Dublin%2C_Ireland_-_Diliff.jpg",
+        "alt": "Exterior view of Saint Patrick's Cathedral showing Gothic architecture",
+        "caption": "The magnificent Gothic exterior of Saint Patrick's Cathedral"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/St_Patrick%27s_Cathedral_Choir%2C_Dublin%2C_Ireland_-_Diliff.jpg/1200px-St_Patrick%27s_Cathedral_Choir%2C_Dublin%2C_Ireland_-_Diliff.jpg",
+        "alt": "Interior view of the cathedral choir and nave",
+        "caption": "The stunning interior of Saint Patrick's Cathedral showing the choir and nave"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/st-patricks-cathedral-dublin",
+        "alt": "Saint Patrick's Cathedral spire rising above Dublin",
+        "caption": "The 225-foot spire of Saint Patrick's Cathedral"
+      },
+      {
+        "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/stained-glass",
+        "alt": "Beautiful stained glass windows inside the cathedral",
+        "caption": "Magnificent stained glass windows illuminating the interior"
+      },
+      {
+        "url": "https://www.stpatrickscathedral.ie/wp-content/uploads/cathedral-park",
+        "alt": "Saint Patrick's Cathedral Park with gardens",
+        "caption": "The peaceful cathedral park and gardens"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Christ Church Cathedral",
+      "distance": "400 metres",
+      "type": "cathedral"
+    },
+    {
+      "name": "Marsh's Library",
+      "distance": "Adjacent",
+      "type": "historic-library"
+    },
+    {
+      "name": "Dublin Castle",
+      "distance": "800 metres",
+      "type": "castle"
+    },
+    {
+      "name": "Trinity College Dublin",
+      "distance": "1.2 km",
+      "type": "university"
+    },
+    {
+      "name": "Guinness Storehouse",
+      "distance": "1.5 km",
+      "type": "museum"
+    },
+    {
+      "name": "Temple Bar",
+      "distance": "1 km",
+      "type": "cultural-quarter"
+    }
+  ],
+
+  "tags": ["cathedral", "dublin", "church-of-ireland", "gothic-architecture", "jonathan-swift", "saint-patrick", "medieval", "national-cathedral", "religious-heritage", "ecclesiastical", "historic-building", "architectural-landmark", "cultural-site", "tourism", "worship", "choir-school", "monuments", "stained-glass"],
+  "suitableFor": ["history-enthusiasts", "architecture-lovers", "families", "photographers", "religious-pilgrims", "cultural-tourists", "school-groups", "international-visitors", "art-lovers", "music-lovers"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Saint Patrick's Cathedral Board",
+  "rating": 4.5,
+  "reviewCount": 22121,
+  "featured": true,
+
+  "optionalFields": {
+    "nationalCathedral": true,
+    "activeWorship": true,
+    "denomination": "Church of Ireland (Anglican)",
+    "choirSchool": true,
+    "literaryConnection": "Jonathan Swift, Dean 1713-1745, author of Gulliver's Travels",
+    "famousPhrase": "To chance your arm - originated at the Door of Reconciliation in 1492",
+    "parkAndGardens": "Free access to cathedral park and gardens",
+    "charityNumber": "CHY 23039",
+    "registeredCharity": "20206551"
+  }
+}

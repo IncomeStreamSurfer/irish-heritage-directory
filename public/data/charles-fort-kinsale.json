@@ -1,0 +1,331 @@
+{
+  "id": "charles-fort-kinsale",
+  "slug": "charles-fort-kinsale",
+  "name": "Charles Fort",
+  "tagline": "A star-shaped military fortress that has stood firm for centuries",
+  "type": "coastal-fort",
+  "category": "military-fortification",
+  "categories": ["coastal-fort", "star-fort", "military", "bastion-fort", "napoleonic-era", "williamite", "civil-war"],
+  "historicalPeriod": "17th-20th century",
+  "era": "1677-1922",
+  "yearBuilt": "1677-1682",
+  "significance": "One of the finest and largest star-shaped fortifications in Ireland, witness to major historical conflicts",
+  "foundedBy": "Built for Charles II by Sir William Robinson",
+
+  "description": {
+    "short": "Charles Fort is a massive star-shaped military fortress that dominates Kinsale Harbour. As one of the country's largest military installations, it has been part of some of the most momentous events in Irish history.",
+    "full": "Charles Fort is a massive star-shaped structure of the late seventeenth century, remarkably well preserved despite its turbulent history. Built between 1677 and 1682, it was designed by William Robinson, the architect of the Royal Hospital Kilmainham, Dublin. The fort's dimensions are awe-inspiring with outer defences reaching 16 metres high. Named after Charles II, it was constructed on the site of an earlier stronghold known as Ringcurran Castle. During the Williamite Wars, the fort withstood a grueling 13-day siege in 1690 before falling to the forces of John Churchill, 1st Duke of Marlborough. Later, during the Irish Civil War of the early 1920s, anti-Treaty forces burned it out during their retreat. The view from the ramparts looking out over Kinsale Harbour is spectacular, offering commanding views of one of Ireland's most important natural harbors.",
+    "history": "Charles Fort was built between 1677 and 1682 on the site of Ringcurran Castle, which had featured prominently during the Siege of Kinsale in 1601. The new fort was designed to protect Kinsale Harbour and was named after Charles II. Its defensive capabilities were tested early in its history during the Williamite War in Ireland. In 1690, the fort endured a 13-day siege by John Churchill, 1st Earl of Marlborough (later 1st Duke of Marlborough) who besieged Cork and captured Kinsale. Despite fierce resistance from the Jacobite defenders, the fort's weakness became apparent - while well-defended from seaward attack, it was vulnerable to land-based assault from the higher ground inland. After its capture, repairs were made and the fort remained in use as a British Army barracks for two hundred years. An early lighthouse was established here in the 17th century by Robert Reading. Additional internal citadel defences were added through the 18th and 19th centuries. Following the Anglo-Irish Treaty of 1921, British forces relinquished the fort. It fell out of use after being burned by retreating anti-Treaty forces during the Irish Civil War in 1922.",
+    "architecture": "Charles Fort is a classic example of a star-shaped bastion fort, also known as a trace italienne fortification. The design was specifically engineered to resist attack by cannon, incorporating elements similar to the revolutionary fortification designs of French engineer Sebastien de Vauban. The fort features massive drystone walls, some reaching 16 metres in height and up to 12 metres thick in places. It has five bastions arranged in the characteristic star pattern: the Cockpit Bastion, Flagstaff Bastion, and others that allowed for overlapping fields of fire. The fort includes a central parade ground, the Governor's House (now housing the main museum), casemates (vaulted chambers for troops and supplies), an octagonal building, gunpowder magazines, and various barrack buildings. The main entrance features an impressive gateway with defensive machicolations. The landward-facing bastions were originally intended to be temporary and were un-mortared, which proved to be the fort's Achilles' heel during the 1690 siege.",
+    "culturalSignificance": "Charles Fort represents a crucial period in Irish military history, serving as a witness to the Williamite conquest, British military occupation, and the Irish struggle for independence. It is one of the finest examples of 17th-century military architecture in Ireland and demonstrates the evolution of coastal defence fortifications. The fort's role in the 1690 Siege during the Williamite War and its burning in 1922 during the Civil War make it a monument to Ireland's complex political and military history. Together with James Fort across the harbor, it controlled access to one of Ireland's most strategically important harbors. Today it serves as both a heritage tourism site and a venue for weddings and cultural events."
+  },
+
+  "location": {
+    "address": {
+      "street": "Summer Cove",
+      "town": "Kinsale",
+      "county": "Cork",
+      "region": "Wild Atlantic Way",
+      "country": "Ireland",
+      "postcode": "P17 AY18"
+    },
+    "coordinates": {
+      "latitude": 51.6970946,
+      "longitude": -8.4989435
+    },
+    "directions": {
+      "general": "3km from Kinsale town - turn off Cork-Kinsale road (R600) 2km from the town centre",
+      "byCar": "From Kinsale, follow signs to Charles Fort via Scilly and Summer Cove. Free car parking available at the fort.",
+      "byBus": "Bus services available to Kinsale from Cork. From Kinsale town, it's a 3km walk or short taxi ride to the fort.",
+      "parking": "Free car park available on site with coach parking facilities"
+    }
+  },
+
+  "contact": {
+    "phone": "021 477 2263",
+    "email": "charlesfort@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/charles-fort/",
+    "bookingUrl": "https://charlesfort.admit-one.eu/?p=calendar&ev=GUIDED",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/charlesfortopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "16 March - 31 October",
+          "days": "Daily",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "period": "1 November - 15 March",
+          "days": "Daily",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ],
+      "closedDates": [],
+      "notes": "Lemon Leaf Café at Charles Fort is seasonal (closed for winter 2025)"
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 5.00,
+      "senior": 4.00,
+      "child": 3.00,
+      "student": 3.00,
+      "family": 13.00,
+      "group": 4.00,
+      "notes": "Heritage Card accepted for free admission"
+    },
+    "tourOptions": [
+      {
+        "type": "Self-Guided",
+        "duration": "1-2 hours",
+        "included": ["Fort ramparts", "Museum exhibitions", "Governor's House", "Casemates", "Bastions", "Harbour views"]
+      },
+      {
+        "type": "Guided Tours",
+        "duration": "45-60 minutes",
+        "included": ["Expert guide", "Historical context", "Military architecture explained"],
+        "notes": "Available during peak season. Check website for tour times."
+      }
+    ],
+    "averageVisitDuration": "1.5-2 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays"],
+    "adviceForVisitors": "Wear comfortable walking shoes as the fort involves climbing stairs and walking on uneven surfaces. The ramparts offer spectacular views but stay back from edges. Bring a camera for stunning harbour vistas. Allow extra time to explore the museum exhibitions in the Governor's House. The site is partially suitable for wheelchairs but some areas have challenging access. Children must be supervised at all times, especially near ramparts and edges."
+  },
+
+  "features": {
+    "highlights": [
+      "Massive star-shaped fortification with five bastions",
+      "Spectacular views over Kinsale Harbour and the Celtic Sea",
+      "Governor's House museum with interactive exhibits",
+      "16-metre high defensive walls",
+      "Casemates (vaulted chambers for troops)",
+      "Original gunpowder magazines",
+      "Parade ground and barracks buildings",
+      "Main entrance gateway with machicolations",
+      "Octagon building",
+      "World War I exhibition in the stables",
+      "Evidence of 1690 siege and 1922 burning"
+    ],
+    "facilities": [
+      "Museum exhibitions",
+      "Interactive exhibits and videos",
+      "Guided tours",
+      "Interpretive panels",
+      "Lemon Leaf Café (seasonal)",
+      "Gift shop",
+      "Toilets",
+      "Baby changing facilities",
+      "Car park",
+      "Coach parking",
+      "Picnic areas",
+      "Brochure",
+      "Card payments accepted",
+      "Social guide for visitors with disabilities"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Partial",
+      "notes": "Challenging access. The Governor's House museum is partially accessible. Ramparts and bastions involve stairs and uneven surfaces. Baby changing facilities available. Social guides available for visitors with developmental and learning disabilities.",
+      "restrictions": [
+        "Assistance dogs only",
+        "Children must be accompanied by an adult at all times",
+        "Hold handrails on stairs",
+        "No drones",
+        "Slippery surfaces when wet",
+        "Stay back from edges and ramparts",
+        "Uneven surfaces and walkways"
+      ]
+    },
+    "uniqueSellingPoints": [
+      "One of the finest and largest star-shaped forts in Ireland",
+      "Designed by William Robinson, architect of Royal Hospital Kilmainham",
+      "Witnessed the 1690 Williamite siege - 13 days of fierce fighting",
+      "Burned during Irish Civil War in 1922",
+      "Commanding views over Kinsale Harbour",
+      "Active military base for over 240 years",
+      "Influenced by French engineer Sebastien de Vauban's designs",
+      "Walls up to 16 metres high and 12 metres thick",
+      "Wedding venue with spectacular coastal setting",
+      "Part of Kinsale's rich maritime and military heritage"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2022/03/1-Sailing-beneath-Charles-Fort-scaled.jpg",
+      "alt": "Aerial view of Charles Fort overlooking Kinsale Harbour with sailing boats",
+      "caption": "Charles Fort's commanding position over Kinsale Harbour - Credit: Heritage Ireland"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2022/03/7-Flagstaff-Bastion-scaled.jpg",
+        "alt": "The Flagstaff Bastion at Charles Fort showing defensive walls",
+        "caption": "The Flagstaff Bastion - one of five bastions in the star-shaped design"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2022/03/4-Casemates-Charles-Fort-Co.Cork_-scaled.jpg",
+        "alt": "Interior of the casemates at Charles Fort",
+        "caption": "The vaulted casemates where troops and supplies were housed"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2022/03/5-Octagon-scaled.jpg",
+        "alt": "The octagonal building at Charles Fort",
+        "caption": "The distinctive octagonal building within the fort"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2022/03/6-Colourful-Sails-in-Kinsale-Harbour-Charles-Fort-Co.Cork_-scaled.jpg",
+        "alt": "View from Charles Fort ramparts of colorful sails in Kinsale Harbour",
+        "caption": "Spectacular harbour views from the fort's ramparts"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2022/03/9-Main-Entrance-Gate-scaled.jpg",
+        "alt": "Main entrance gateway to Charles Fort",
+        "caption": "The imposing main entrance gateway with defensive features"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Charles-Fort-late-1800s.jpg",
+        "alt": "Historical photograph of Charles Fort in the late 1800s",
+        "caption": "Charles Fort in the late 1800s when it was an active British Army barracks"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "James Fort",
+      "distance": "1.2 km",
+      "type": "coastal-fort",
+      "description": "The 'old fort' built 1602-1607 on the opposite side of Kinsale Harbour"
+    },
+    {
+      "name": "Desmond Castle Kinsale",
+      "distance": "2.1 km",
+      "type": "castle",
+      "description": "A building at the core of Kinsale's history"
+    },
+    {
+      "name": "Kinsale Town",
+      "distance": "3 km",
+      "type": "historic-town",
+      "description": "Colorful gourmet capital of Ireland with rich maritime heritage"
+    },
+    {
+      "name": "Fota Arboretum and Gardens",
+      "distance": "25.6 km",
+      "type": "garden",
+      "description": "An island oasis of rare and exotic flora"
+    },
+    {
+      "name": "Barryscourt Castle",
+      "distance": "28.4 km",
+      "type": "castle",
+      "description": "A fine Irish tower house bearing the scars of battle"
+    }
+  ],
+
+  "tags": [
+    "coastal-fort",
+    "star-fort",
+    "bastion-fort",
+    "military-history",
+    "williamite-war",
+    "irish-civil-war",
+    "kinsale",
+    "cork",
+    "william-robinson",
+    "charles-ii",
+    "siege-1690",
+    "napoleonic-defences",
+    "british-army",
+    "coastal-defence",
+    "17th-century",
+    "fortification",
+    "harbour-defence",
+    "wild-atlantic-way"
+  ],
+
+  "suitableFor": [
+    "history-enthusiasts",
+    "military-history-buffs",
+    "families",
+    "photographers",
+    "architecture-lovers",
+    "school-groups",
+    "wedding-parties",
+    "coastal-walkers",
+    "heritage-tourists"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.7,
+  "reviewCount": 8500,
+  "featured": true,
+
+  "additionalInfo": {
+    "weddingVenue": true,
+    "filmingLocation": true,
+    "educationalVisits": true,
+    "wheelchairPartialAccess": true,
+    "parkingFree": true,
+    "cafeOnSite": true,
+    "cafeSeasonal": true,
+    "nationalMonument": true,
+    "yearDeclaredMonument": 1971,
+    "militaryServiceYears": "1682-1921",
+    "siegeDate": "October 1690",
+    "burningDate": "1922"
+  },
+
+  "historicalEvents": [
+    {
+      "event": "Construction completed",
+      "year": "1682",
+      "description": "Charles Fort completed after 5 years of construction"
+    },
+    {
+      "event": "Williamite Siege",
+      "year": "1690",
+      "description": "13-day siege by John Churchill, 1st Earl of Marlborough. Fort surrendered after intense bombardment exploited weaknesses in landward defences."
+    },
+    {
+      "event": "British Army occupation",
+      "year": "1690-1921",
+      "description": "Served as major British military barracks for over 230 years"
+    },
+    {
+      "event": "Anglo-Irish Treaty",
+      "year": "1921",
+      "description": "British forces relinquished the fort to Irish forces"
+    },
+    {
+      "event": "Irish Civil War burning",
+      "year": "1922",
+      "description": "Anti-Treaty forces burned the fort during their retreat"
+    },
+    {
+      "event": "Declared National Monument",
+      "year": "1971",
+      "description": "Fort designated as national monument and conservation began"
+    }
+  ],
+
+  "visitorsQuotes": [
+    "The views from the ramparts are absolutely breathtaking - you can see why this location was chosen for such an important fortification.",
+    "Walking through the fort, you can really feel the weight of history. The museum does an excellent job explaining the sieges and battles.",
+    "Our children loved exploring the bastions and running through the parade ground. It's like a massive adventure playground with an incredible history lesson built in.",
+    "The star-shaped design is remarkable. Standing on the ramparts looking down, you can see the genius of the defensive architecture."
+  ]
+}

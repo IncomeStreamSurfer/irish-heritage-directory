@@ -1,0 +1,398 @@
+{
+  "id": "dublin-castle",
+  "slug": "dublin-castle",
+  "name": "Dublin Castle",
+  "tagline": "The nerve centre of historical power in Ireland",
+  "type": "castle-museum",
+  "category": "historic-castle",
+  "categories": ["castle", "museum", "government-building", "state-apartments", "medieval", "norman", "heritage-center", "tourist-attraction"],
+  "historicalPeriod": "medieval-modern",
+  "era": "13th-21st century",
+  "yearBuilt": "1204",
+  "significance": "Seat of English and British rule in Ireland for 700 years until independence. Now a major government complex and state ceremonial venue",
+  "foundedBy": "King John of England",
+
+  "description": {
+    "short": "Built in the thirteenth century, Dublin Castle served as the seat of English and British rule in Ireland for 700 years. Now a government complex and state ceremony venue, it offers tours of magnificent State Apartments, medieval undercroft, and Chapel Royal.",
+    "full": "Just a short walk from Trinity College in Dublin's city centre, Dublin Castle's history stretches back to the Viking Age, with the castle itself built in the thirteenth century on the orders of King John. For over 700 years, from 1204 until Irish independence, this formidable structure served as the nerve centre of English and later British rule in Ireland. The building functioned as a military fortress, a prison, a treasury, and courts of law. Rebuilt and expanded through the seventeenth, eighteenth, nineteenth and twentieth centuries, Dublin Castle evolved from a medieval fortress into an elegant complex of state apartments and ceremonial spaces. Today, it continues to serve as a major government complex and the principal venue for Irish state ceremonies, while also welcoming visitors to explore its rich history through its State Apartments, medieval undercroft, Chapel Royal, heritage centre, and beautiful gardens.",
+    "history": "Dublin Castle was founded in 1204 on the site of a Viking settlement, built on the orders of King John of England as the seat of English administration in Ireland. For seven centuries, it symbolized British rule, serving multiple roles as military fortress, royal residence, treasury, prison, and courts of law. The original medieval castle was largely destroyed in a fire in 1684, leading to extensive rebuilding in the Georgian style. The castle witnessed many pivotal moments in Irish history, from medieval battles to the fight for independence. In 1922, Dublin Castle was formally handed over to the new Irish Free State. The famous handover ceremony is commemorated in the State Apartments. Today it serves as a major government complex, hosting state functions, presidential inaugurations, and EU summits.",
+    "architecture": "Dublin Castle represents a remarkable architectural evolution spanning eight centuries. While founded as a medieval Norman fortress in 1204, the current buildings largely reflect Georgian elegance following the 1684 fire. The magnificent State Apartments showcase opulent 18th and 19th-century interiors, including the throne room, State Drawing Room, and St. Patrick's Hall with its stunning ceiling paintings. The medieval undercroft reveals the Viking and Norman foundations. The Chapel Royal, designed by Francis Johnston, is a masterpiece of Gothic Revival architecture with elaborate plasterwork and stained glass. The Upper Courtyard provides a grand ceremonial space, while the Dubh Linn Gardens offer a tranquil retreat. The Record Tower is the sole surviving medieval tower, dating from the 13th century.",
+    "culturalSignificance": "Dublin Castle stands as the most potent symbol of British rule in Ireland for 700 years and the subsequent birth of Irish independence. It witnessed the full sweep of Irish history from Norman conquest through British administration to modern Irish statehood. As the center of power, it was the scene of countless significant historical events. Today, it represents Ireland's journey to independence while continuing to serve the Irish state. The castle regularly hosts presidential inaugurations, state receptions, EU Council meetings, and cultural events. Its transformation from symbol of colonial power to proud Irish state venue exemplifies Ireland's historical journey. The State Apartments preserve extraordinary examples of Georgian craftsmanship and art."
+  },
+
+  "location": {
+    "address": {
+      "street": "Dame Street",
+      "town": "Dublin 2",
+      "county": "Dublin",
+      "region": "Dublin City Centre",
+      "country": "Ireland",
+      "postcode": "D02 XN27"
+    },
+    "coordinates": {
+      "latitude": 53.3428861,
+      "longitude": -6.2674284
+    },
+    "directions": {
+      "general": "Situated in Dublin City Centre off Dame Street, behind City Hall, 5 minutes walk from Trinity College en-route to Christchurch Cathedral",
+      "byCar": "Limited street parking. Public car parks available nearby at Christchurch and Fleet Street",
+      "byBus": "Multiple Dublin Bus routes serve Dame Street. Bus stops directly outside the castle",
+      "byTrain": "Tara Street DART station is 10 minutes walk. Connolly Station and Heuston Station connect via bus",
+      "walking": "5 minutes from Trinity College, 3 minutes from Temple Bar, 5 minutes from Christchurch Cathedral",
+      "parking": "No parking available at castle. Use nearby public car parks on Christchurch Place or Fleet Street"
+    }
+  },
+
+  "contact": {
+    "phone": "01 645 8813",
+    "email": "dublincastle@opw.ie",
+    "website": "https://heritageireland.ie/visit/places-to-visit/dublin-castle/",
+    "websiteAlternate": "https://dublincastle.ie/",
+    "bookingUrl": "https://dublincastle.admit-one.eu/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/opwdublincastle/",
+      "twitter": "https://twitter.com/dublincastleOPW",
+      "instagram": "https://www.instagram.com/dublincastleopw/"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "Year Round",
+          "days": "Monday - Sunday and Public Holidays",
+          "hours": "09:45 - 17:45",
+          "lastAdmission": "17:15"
+        }
+      ],
+      "closedDates": ["Occasional closures for state functions"],
+      "specialEvents": [],
+      "notes": "As Dublin Castle is a working Government building, security, access to rooms and opening arrangements may be subject to change at short notice"
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "guidedTour": {
+        "adult": 12.00,
+        "senior": 10.00,
+        "student": 10.00,
+        "child": 6.00,
+        "family": 30.00,
+        "duration": "1 hour",
+        "includes": "State Apartments, Medieval Undercroft, Chapel Royal and Exhibitions"
+      },
+      "selfGuided": {
+        "adult": 8.00,
+        "senior": 6.00,
+        "student": 6.00,
+        "child": 4.00,
+        "family": 20.00,
+        "duration": "30 minutes approx",
+        "includes": "State Apartments and Exhibitions"
+      },
+      "notes": "Advanced booking required for groups. Heritage Card accepted for free admission"
+    },
+    "tourOptions": [
+      {
+        "type": "Guided Tour",
+        "duration": "1 hour",
+        "included": ["State Apartments", "Medieval Undercroft", "Chapel Royal", "Exhibitions"],
+        "notes": "Recommended for comprehensive historical understanding"
+      },
+      {
+        "type": "Self-Guided Tour",
+        "duration": "30 minutes",
+        "included": ["State Apartments", "Exhibitions"],
+        "notes": "Audio guides available for self-paced exploration"
+      }
+    ],
+    "averageVisitDuration": "1-1.5 hours",
+    "busyPeriods": ["Summer months (June-August)", "Weekends", "Public holidays", "School tour season (March-May)"],
+    "adviceForVisitors": "Book tickets online in advance to guarantee entry. The castle is a working government building so some areas may be closed for state functions at short notice. The Viking Excavation is currently not part of guided tours due to upgrade works. Wear comfortable shoes as there is considerable walking and some stairs. Photography is permitted in most areas. Allow extra time to explore the beautiful Dubh Linn Gardens and Coach House Gallery."
+  },
+
+  "features": {
+    "highlights": [
+      "State Apartments with throne room and St. Patrick's Hall",
+      "St. Patrick's Hall with magnificent ceiling paintings",
+      "Throne Room with royal regalia",
+      "State Drawing Room with 18th-century opulence",
+      "The Battleaxe Staircase",
+      "State Corridor with ornate ceilings",
+      "Chapel Royal - Gothic Revival masterpiece",
+      "Medieval Undercroft revealing Viking and Norman foundations",
+      "Viking Excavation (when accessible)",
+      "Record Tower - sole surviving medieval tower",
+      "Upper Courtyard - ceremonial space",
+      "Dubh Linn Gardens",
+      "Coach House Gallery with exhibitions",
+      "Heritage Centre with historical displays"
+    ],
+    "facilities": [
+      "Guided tours",
+      "Audio guides",
+      "Self-guided option",
+      "Heritage Centre",
+      "Coach House Gallery",
+      "Restaurant and café",
+      "Gift shop",
+      "Toilets",
+      "Wheelchair accessible toilets",
+      "Educational resources",
+      "Brochures in multiple languages",
+      "Card payments accepted",
+      "WiFi available",
+      "Coat check"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": "Mostly accessible",
+      "visitorCentreAccessible": true,
+      "notes": "All areas in the State Apartments and Chapel Royal are universally accessible. The Coach House Gallery and Dubh Linn Gardens are fully accessible. The Viking Excavation is only accessible via stairs (when included in tour). Caution advised on uneven surfaces in the Upper Courtyard.",
+      "restrictions": ["Uneven surfaces in courtyard", "Viking Excavation via stairs only", "Some medieval areas not wheelchair accessible"]
+    },
+    "uniqueSellingPoints": [
+      "700 years as seat of British rule in Ireland",
+      "Working government complex hosting state functions",
+      "Venue for presidential inaugurations and EU summits",
+      "Magnificent Georgian State Apartments",
+      "Gothic Revival Chapel Royal masterpiece",
+      "Viking and medieval archaeological remains",
+      "Location where Irish independence was formalized in 1922",
+      "St. Patrick's Hall hosts Irish presidential inaugurations",
+      "City centre location - walking distance to major attractions",
+      "Stunning Dubh Linn Gardens",
+      "Regular cultural exhibitions and events",
+      "Combination of medieval, Georgian and modern architecture"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://heritageireland.ie/assets/uploads/2020/03/The-Upper-Courtyard-Dublin-Castle-e1752764686904.jpg",
+      "alt": "The Upper Courtyard at Dublin Castle",
+      "caption": "The Upper Courtyard - ceremonial heart of Dublin Castle"
+    },
+    "gallery": [
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dublin-Castle-throne-room.jpg",
+        "alt": "The Throne Room with throne positioned in the centre of a grand room lit in golden hue",
+        "caption": "The magnificent Throne Room in the State Apartments"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2023/05/Dublin-Castle-The-State-Drawing-Room.jpg",
+        "alt": "State Drawing Room with extravagant furniture, chandeliers, and large paintings",
+        "caption": "The opulent State Drawing Room with Georgian elegance"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2023/05/Dublin-Castle-The-Battleaxe-Staircase.jpg",
+        "alt": "Grand staircase draped in red carpet leading to the State Apartments",
+        "caption": "The Battleaxe Staircase - grand entrance to the State Apartments"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/The-State-Corridor-scaled.jpg",
+        "alt": "Long brightly lit corridor with ornate gold ceiling design",
+        "caption": "The State Corridor with elaborate ceiling decoration"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2020/03/Dublin-Castle-Chapel.jpg",
+        "alt": "Interior of Chapel Royal showing balcony, organ and decorated ceiling",
+        "caption": "The Chapel Royal - Gothic Revival architectural masterpiece"
+      },
+      {
+        "url": "https://heritageireland.ie/assets/uploads/2023/05/Dublin-Castle-St-Patricks-Hall.jpg",
+        "alt": "St. Patrick's Hall with crest flags, chandeliers and classical ceiling paintings",
+        "caption": "St. Patrick's Hall - venue for presidential inaugurations and state banquets"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Trinity College and Book of Kells",
+      "distance": "0.4 km",
+      "type": "university-museum"
+    },
+    {
+      "name": "Christchurch Cathedral",
+      "distance": "0.3 km",
+      "type": "cathedral"
+    },
+    {
+      "name": "Temple Bar",
+      "distance": "0.3 km",
+      "type": "cultural-quarter"
+    },
+    {
+      "name": "St Audoen's Church and Visitor Centre",
+      "distance": "0.4 km",
+      "type": "medieval-church"
+    },
+    {
+      "name": "St. Mary's Abbey Chapter House",
+      "distance": "0.5 km",
+      "type": "monastery"
+    },
+    {
+      "name": "St Stephen's Green",
+      "distance": "0.6 km",
+      "type": "park"
+    },
+    {
+      "name": "Guinness Storehouse",
+      "distance": "1.5 km",
+      "type": "brewery-museum"
+    },
+    {
+      "name": "Kilmainham Gaol Museum",
+      "distance": "3.2 km",
+      "type": "prison-museum"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "museum",
+    "dublin",
+    "state-apartments",
+    "medieval",
+    "norman",
+    "georgian",
+    "chapel-royal",
+    "viking-excavation",
+    "government-building",
+    "british-rule",
+    "irish-independence",
+    "heritage-center",
+    "city-centre",
+    "tourist-attraction",
+    "historic-site",
+    "architecture",
+    "guided-tours",
+    "presidential-venue",
+    "state-ceremonies"
+  ],
+  "suitableFor": [
+    "history-enthusiasts",
+    "architecture-lovers",
+    "families",
+    "school-groups",
+    "tourists",
+    "photographers",
+    "cultural-visitors",
+    "government-history-buffs",
+    "art-lovers",
+    "international-visitors"
+  ],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "audioGuidesAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": true,
+  "managedBy": "Office of Public Works - Heritage Ireland",
+  "rating": 4.5,
+  "reviewCount": 18000,
+  "featured": true,
+
+  "specialFeatures": {
+    "governmentUse": true,
+    "stateVenue": true,
+    "presidentialInaugurations": true,
+    "euCouncilMeetings": true,
+    "venueHireAvailable": true,
+    "restaurantOnSite": true,
+    "giftShopOnSite": true,
+    "educationalProgrammes": true,
+    "wheelchairAccessible": true
+  },
+
+  "historicalEvents": [
+    "Seat of British administration in Ireland 1204-1922",
+    "Great Fire of 1684 - led to Georgian rebuilding",
+    "1798 Rebellion - prisoners held in castle",
+    "1907 Irish Crown Jewels stolen from castle",
+    "1916 Easter Rising - briefly occupied by rebels",
+    "1922 Handover to Irish Free State",
+    "Regular presidential inaugurations since 1938",
+    "EU Council meetings and summits",
+    "State visits and diplomatic receptions"
+  ],
+
+  "photographyPolicy": "Photography permitted in most areas. Flash photography and tripods may be restricted in some State Apartments. Check with staff for current guidelines.",
+
+  "restaurantInfo": {
+    "name": "Terrace Café & Restaurant",
+    "location": "Dublin Castle grounds",
+    "cuisine": "Irish and international",
+    "notes": "Open during castle hours. Accessible without admission ticket to castle"
+  },
+
+  "eventVenue": {
+    "available": true,
+    "types": ["Corporate events", "Weddings", "State functions", "Cultural events", "Conferences"],
+    "capacity": "Varies by room - up to 350 in St. Patrick's Hall",
+    "bookingContact": "dublincastle@opw.ie"
+  },
+
+  "freeWednesday": true,
+  "freeWednesdayNotes": "Free admission on the first Wednesday of each month (excluding July and August). Subject to availability and may not apply during state functions.",
+
+  "languagesAvailable": [
+    "English",
+    "Irish (Gaeilge)",
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Japanese",
+    "Chinese"
+  ],
+
+  "safetyNotes": [
+    "Working government building - security protocols in place",
+    "Bag checks may be required",
+    "Uneven surfaces in courtyard areas",
+    "Stairs in some medieval sections",
+    "Access may be restricted during state functions"
+  ],
+
+  "bestTimeToVisit": "Weekday mornings (Tuesday-Thursday) tend to be less crowded. Avoid summer weekends and Irish bank holidays for shortest queues. Book online in advance during peak season (June-August).",
+
+  "combineWith": [
+    "Trinity College and Book of Kells",
+    "Christchurch Cathedral",
+    "Temple Bar walking tour",
+    "Chester Beatty Library (free)",
+    "St. Patrick's Cathedral",
+    "National Museum of Ireland - Archaeology"
+  ],
+
+  "parkingInfo": {
+    "onSite": false,
+    "nearby": [
+      {
+        "name": "Christchurch Car Park",
+        "distance": "0.2 km",
+        "type": "Multi-storey public car park"
+      },
+      {
+        "name": "Fleet Street Car Park",
+        "distance": "0.5 km",
+        "type": "Multi-storey public car park"
+      }
+    ]
+  },
+
+  "groupVisits": {
+    "available": true,
+    "advanceBookingRequired": true,
+    "minimumSize": 10,
+    "discountAvailable": true,
+    "educationalProgrammes": true,
+    "schoolVisitsWelcome": true,
+    "contact": "dublincastle@opw.ie"
+  }
+}

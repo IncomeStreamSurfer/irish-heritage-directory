@@ -1,0 +1,274 @@
+{
+  "id": "hook-lighthouse",
+  "slug": "hook-lighthouse",
+  "name": "Hook Lighthouse",
+  "tagline": "The oldest intact operational lighthouse in the world",
+  "type": "lighthouse",
+  "category": "medieval-lighthouse",
+  "categories": ["lighthouse", "medieval", "maritime", "norman", "coastal", "heritage", "maritime-history"],
+  "historicalPeriod": "medieval",
+  "era": "13th century",
+  "yearBuilt": "1210-1240",
+  "significance": "One of the oldest operational lighthouses in the world, with over 800 years of continuous service",
+  "foundedBy": "William Marshal, Earl of Pembroke - commissioned construction with Augustinian monks as first keepers",
+
+  "description": {
+    "short": "Standing proudly at the tip of the Hook Peninsula for over 800 years, Hook Lighthouse is the world's oldest intact operational lighthouse, purpose-built by William Marshal to guide ships into Waterford Harbour.",
+    "full": "Hook Lighthouse, also known as Hook Head Lighthouse, stands as a remarkable testament to medieval engineering and maritime heritage. Built between 1210-1240 by William Marshal, Earl of Pembroke, this iconic black and white striped tower has been guiding ships into Waterford Harbour for over eight centuries. The lighthouse was constructed to protect shipping bound for Marshal's port at New Ross, after he survived a shipwreck off the coast of Wexford. The site has an even longer history, with monks of St. Dubhán's Church keeping a beacon fire on the headland since the 5th century. Today, visitors can climb the 115 well-worn spiral steps to explore the three groin-vaulted medieval chambers, meet life-size hologram figures of St. Dubhán and William Marshal, and enjoy spectacular 360-degree views from the balcony spanning Wexford, Waterford, and the Celtic Sea. The lighthouse remains operational, maintained by the Commissioners of Irish Lights, and stands as one of Ireland's most beloved heritage sites.",
+    "history": "The present tower was built by William Marshal, Earl of Pembroke, between 1210-1240 to guide ships to his port at New Ross. Before this, monks led by St. Dubhán kept beacon fires burning from the 5th century onwards at this strategic headland location. The lighthouse has operated almost continuously for 800 years, with only a brief interruption from 1641-1671. In 1671, Robert Readinge upgraded the light to coal in a glass-enclosed brazier. Ownership passed to Henry Loftus of Loftus Hall in 1688. In 1791, the lamp was upgraded to 12 whale oil lamps. The Commissioners of Irish Lights took control in 1867, converting to gas and later paraffin. The lighthouse was electrified in 1972 and became fully automated in 1996. The famous black and white striped paint scheme was added in the 19th century to make it more visible as a daymark.",
+    "architecture": "The lighthouse is modelled after a Norman castle keep, standing 35 metres (115 feet) tall with walls an astounding 3.7 metres thick at the base, narrowing to 2.7 metres at the top. It is 12.3 metres in diameter and features three magnificent groin-vaulted chambers stacked vertically in the lower tier. The tower is constructed of local limestone with a base batter (sloping base) and mural stairs of 115 steps spiraling within the thick walls. Each of the three original medieval chambers has its own stone fireplace. Evidence of several garderobes (medieval toilets) remains, though some have been blocked up. The lower floor is still blackened from centuries of coal storage. The upper section originally supported a beacon fire, later replaced by the lantern room which now houses a third-order Fresnel lens producing a white flash every 3 seconds.",
+    "culturalSignificance": "Hook Lighthouse holds immense cultural and historical significance as one of the oldest operational lighthouses in the world. It represents nearly 1,500 years of continuous maritime guidance, from the 5th-century monks' fires to today's automated light. The lighthouse appears on the coat of arms of County Wexford and is part of the Great Lighthouses of Ireland tourist trail. It has protected countless lives at sea and witnessed centuries of Irish maritime history. The site is believed to have inspired the phrase 'by hook or by crook,' referring to Oliver Cromwell's vow to take Waterford 'by Hook or by Crooke' (two strategic points). The lighthouse has become an iconic symbol of Ireland's maritime heritage and medieval engineering prowess."
+  },
+
+  "location": {
+    "address": {
+      "street": "Hook Head",
+      "town": "Fethard-on-Sea",
+      "county": "Wexford",
+      "region": "Ireland's Ancient East",
+      "country": "Ireland",
+      "postcode": "Y34 HK36"
+    },
+    "coordinates": {
+      "latitude": 52.123806,
+      "longitude": -6.929306
+    },
+    "directions": {
+      "general": "Hook Lighthouse is situated at the end of the R734 road at the very tip of the Hook Peninsula",
+      "byCar": "50km from Wexford town, 29km from Waterford via the Passage East Car Ferry, 38km from New Ross. Ample car parking available on site",
+      "byBus": "Limited public transport - taxi or private car recommended",
+      "parking": "Free car park available at the visitor centre"
+    }
+  },
+
+  "contact": {
+    "phone": "+353 051 397055",
+    "email": "info@hookheritage.ie",
+    "website": "https://hookheritage.ie/",
+    "bookingUrl": "https://fareharbor.com/embeds/book/hookheritage/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/HookLighthouse",
+      "twitter": "https://twitter.com/hooklighthouse",
+      "instagram": "https://www.instagram.com/hooklighthouse/",
+      "youtube": "https://www.youtube.com/user/RinnDubhan"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "currentStatus": "Open Year Round",
+      "seasonal": [
+        {
+          "period": "September to June",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "tourTimes": "Every hour from 10:00 - 16:00"
+        },
+        {
+          "period": "July & August",
+          "days": "Daily",
+          "hours": "09:30 - 17:00",
+          "tourTimes": "Every half hour from 10:00 - 17:00",
+          "lastTour": "17:00"
+        }
+      ],
+      "closedDates": ["20-25 December"],
+      "specialEvents": ["Opens 26th December at 12:00 noon", "Sunrise and Sunset tour experiences available year-round"],
+      "notes": "Please arrive at least 15 minutes before your tour to confirm booking"
+    },
+    "admissionPrices": {
+      "currency": "EUR",
+      "adult": 14.00,
+      "senior": 12.00,
+      "child": 8.00,
+      "childUnder5": 0.00,
+      "student": 12.00,
+      "family1Adult1Child": 20.00,
+      "family1Adult2Child": 26.00,
+      "family2Adult1Child": 32.00,
+      "family2Adult2Child": 40.00,
+      "family2Adult3Child": 46.00,
+      "assistedVisitor": 12.00,
+      "sunriseSunsetExperience": 60.00,
+      "notes": "Pre-booking recommended. All children must be accompanied by an adult. Assisted visitor price for 2 tickets with carer's card."
+    },
+    "tourOptions": [
+      {
+        "type": "Guided Tour",
+        "duration": "45 minutes",
+        "included": ["115-step tower climb", "Three vaulted medieval chambers", "Life-size hologram figures", "Balcony with 360-degree views", "Historical commentary"]
+      },
+      {
+        "type": "Sunrise Tour Experience",
+        "duration": "90 minutes",
+        "price": 60.00,
+        "included": ["Exclusive early access", "Guided tour", "Sunrise viewing from balcony", "Special breakfast option available"]
+      },
+      {
+        "type": "Sunset Tour Experience",
+        "duration": "90 minutes",
+        "price": 60.00,
+        "included": ["Exclusive evening access", "Guided tour", "Sunset viewing from balcony", "Food experience options available"]
+      },
+      {
+        "type": "Group Tours",
+        "availability": "By prior arrangement",
+        "notes": "Contact for group rates and special experiences including Seafood Banquet and Fish & Chip Supper tours"
+      }
+    ],
+    "averageVisitDuration": "2 hours (including tour, visitor centre, and café)",
+    "busyPeriods": ["Summer months (July-August)", "Weekends", "Bank holidays", "Good weather days"],
+    "adviceForVisitors": "Book online in advance to secure your preferred time slot. The tour involves climbing 115 stone steps - a moderate level of fitness is required. Not suitable for those with severe mobility issues or claustrophobia. Wear comfortable footwear. Can be very windy at the top - bring a jacket. Allow 2 hours to fully enjoy the lighthouse, visitor centre, café and grounds. Tours run with maximum 30 visitors. All children must be booked (free for under 5s)."
+  },
+
+  "features": {
+    "highlights": [
+      "World's oldest intact operational lighthouse (800+ years)",
+      "Climb 115 medieval spiral steps within 3.7m thick walls",
+      "Three magnificent groin-vaulted medieval chambers",
+      "Life-size hologram figures of St. Dubhán and William Marshal",
+      "Spectacular 360-degree views from the balcony",
+      "Black and white striped tower (distinctive daymark)",
+      "Still functioning with Fresnel lens and automated light",
+      "Original medieval fireplaces and garderobes",
+      "Stunning coastal location at the tip of Hook Peninsula",
+      "Part of Great Lighthouses of Ireland trail",
+      "Views extending across three counties",
+      "Whale and dolphin watching opportunities (seasonal)"
+    ],
+    "facilities": ["Visitor Centre", "Award-winning café serving local seafood", "Gift shop with Irish crafts", "Exhibits on lighthouse history", "Free WiFi", "Free car parking", "Toilets", "Wheelchair accessible toilets", "Outdoor viewing area", "Live webcams", "Picnic area"],
+    "accessibility": {
+      "wheelchairAccessible": "Visitor centre and café only - tower not wheelchair accessible",
+      "notes": "The lighthouse tower requires climbing 115 stone steps and is not suitable for wheelchairs or those with severe mobility issues. The visitor centre, café, gift shop, and grounds are fully accessible. Service animals only permitted in tower and café.",
+      "restrictions": ["115 stone steps required", "Not suitable for severe mobility issues", "Not suitable for claustrophobia", "Service animals only in tower", "Appropriate footwear required", "Children must be supervised at all times"]
+    },
+    "uniqueSellingPoints": [
+      "World's oldest intact operational lighthouse",
+      "Over 800 years of continuous operation",
+      "Built by William Marshal, 'the greatest knight that ever lived'",
+      "Monks kept beacon fires here since the 5th century",
+      "Iconic black and white striped tower",
+      "Original medieval architecture completely intact",
+      "Part of Ireland's Ancient East heritage trail",
+      "Stunning coastal location with dramatic sea views",
+      "Life-size hologram historical characters",
+      "Award-winning café with local Wexford food",
+      "Perfect 5.0 rating on TripAdvisor",
+      "Voted one of Ireland's favourite attractions",
+      "Part of Great Lighthouses of Ireland",
+      "Still operational with Commissioners of Irish Lights",
+      "Possible origin of phrase 'by hook or by crook'"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://hookheritage.ie/wp-content/uploads/2023/01/light_hosue_intro_pic-430x622.jpg",
+      "alt": "Hook Lighthouse black and white striped tower against blue sky",
+      "caption": "Hook Lighthouse - the world's oldest intact operational lighthouse"
+    },
+    "gallery": [
+      {
+        "url": "https://hookheritage.ie/wp-content/uploads/2023/01/lighthouse_intro_img-430x319.jpg",
+        "alt": "Hook Lighthouse tower from base showing thick medieval walls",
+        "caption": "The 35-metre tall medieval tower with walls up to 3.7m thick"
+      },
+      {
+        "url": "https://hookheritage.ie/wp-content/uploads/2023/01/explr_img-430x622.jpg",
+        "alt": "Interior view of groin-vaulted chamber in Hook Lighthouse",
+        "caption": "One of three medieval groin-vaulted chambers inside the tower"
+      },
+      {
+        "url": "https://media.gettyimages.com/id/1472561710/photo/hook-head-lighthouse-blue-sky-and-sea-spray-wexford-ireland.jpg",
+        "alt": "Hook Head Lighthouse with blue sky and sea spray",
+        "caption": "Hook Lighthouse on the dramatic Hook Peninsula coastline"
+      },
+      {
+        "url": "https://media.gettyimages.com/id/1352400930/photo/lighthouse-in-the-night.jpg",
+        "alt": "Hook Lighthouse illuminated at night with light beam",
+        "caption": "Hook Lighthouse operating at night - still guiding ships after 800 years"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lighthouse_HookHead_CtyWexford_IRE.jpg",
+        "alt": "Aerial view of Hook Head Lighthouse and surrounding coastline",
+        "caption": "Hook Lighthouse at the tip of the Hook Peninsula in County Wexford"
+      }
+    ]
+  },
+
+  "nearbyAttractions": [
+    {
+      "name": "Loftus Hall",
+      "distance": "8 km",
+      "type": "haunted-mansion",
+      "description": "Ireland's most haunted house with guided tours"
+    },
+    {
+      "name": "Dunbrody Famine Ship",
+      "distance": "28 km",
+      "type": "museum-ship",
+      "description": "Authentic famine ship experience in New Ross"
+    },
+    {
+      "name": "Tintern Abbey",
+      "distance": "15 km",
+      "type": "cistercian-abbey",
+      "description": "13th-century Cistercian abbey ruins"
+    },
+    {
+      "name": "John F Kennedy Arboretum",
+      "distance": "20 km",
+      "type": "botanical-garden",
+      "description": "4,500 types of trees and shrubs with panoramic views"
+    },
+    {
+      "name": "Dunmore East",
+      "distance": "18 km via ferry",
+      "type": "fishing-village",
+      "description": "Picturesque fishing village and harbour"
+    },
+    {
+      "name": "Waterford City",
+      "distance": "29 km",
+      "type": "historic-city",
+      "description": "Ireland's oldest city with Viking and medieval heritage"
+    }
+  ],
+
+  "tags": ["lighthouse", "medieval", "maritime", "norman", "william-marshal", "coastal", "heritage", "wexford", "hook-peninsula", "operational-lighthouse", "maritime-history", "ancient-east", "tower", "sea-views", "great-lighthouses-ireland", "monks", "beacon", "navigation", "irish-lights"],
+  "suitableFor": ["families", "history-enthusiasts", "photographers", "maritime-heritage-lovers", "couples", "school-groups", "international-visitors", "coastal-walkers", "lighthouse-collectors"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "guidedToursAvailable": true,
+  "bookingRequired": false,
+  "bookingRecommended": true,
+  "heritageCardAccepted": false,
+  "managedBy": "Hook Heritage Ltd. in partnership with Commissioners of Irish Lights",
+  "rating": 5.0,
+  "reviewCount": 1770,
+  "featured": true,
+
+  "optionalFields": {
+    "greatLighthousesOfIreland": true,
+    "stillOperational": true,
+    "lightCharacteristic": "Fl W 3s (White flash every 3 seconds)",
+    "focalHeight": "47 metres (154 feet)",
+    "range": "23 nautical miles (43 km)",
+    "constructionMaterial": "Local limestone",
+    "originalPurpose": "To guide ships to William Marshal's port at New Ross",
+    "numberOfSteps": 115,
+    "wallThickness": "3.7m at base, 2.7m at top",
+    "towerHeight": "35 metres (115 feet)",
+    "towerDiameter": "12.3 metres",
+    "automationDate": 1996,
+    "electrificationDate": 1972,
+    "irishLightsNumber": "CIL-0380",
+    "whaleWatchingSeason": "November to February",
+    "liveWebcams": true,
+    "awardWinningCafe": true,
+    "partOfIrelandsAncientEast": true,
+    "associatedLegends": ["Origin of phrase 'by hook or by crook'", "St. Dubhán's 5th-century beacon", "Oliver Cromwell's siege of Waterford"],
+    "historicalShipwrecks": ["Great Lewis (Cromwell flagship)", "Over 1,000 ships lost in surrounding waters"]
+  }
+}
