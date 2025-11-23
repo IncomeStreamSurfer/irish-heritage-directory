@@ -7,7 +7,7 @@ interface SiteCardProps {
 
 export default function SiteCard({ site }: SiteCardProps) {
   return (
-    <div className="flex flex-col gap-3 pb-3">
+    <Link href={`/sites/${site.slug}`} className="flex flex-col gap-3 pb-3">
       <div
         className="w-full bg-center bg-no-repeat aspect-video bg-cover rounded-lg"
         style={{ backgroundImage: `url(${site.images.heroImage.url})` }}
@@ -20,6 +20,6 @@ export default function SiteCard({ site }: SiteCardProps) {
           {site.description.short}
         </p>
       </div>
-    </div>
+    </Link>
   );
 }
