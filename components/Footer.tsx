@@ -22,15 +22,16 @@ export default function Footer() {
             <h4 className="font-bold mb-3 text-[#131811] dark:text-white">Directory</h4>
             <ul className="space-y-2">
               <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="/">Home</Link></li>
-              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="/sites">All Sites</Link></li>
               <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="/categories">Categories</Link></li>
+              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="#">Submit a Site</Link></li>
             </ul>
           </div>
           <div>
             <h4 className="font-bold mb-3 text-[#131811] dark:text-white">About</h4>
             <ul className="space-y-2">
-              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="/">About</Link></li>
-              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="/">Contact</Link></li>
+              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="#">About Us</Link></li>
+              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="#">Contact</Link></li>
+              <li><Link className="text-sm text-[#6f8961] dark:text-white/70 hover:text-primary" href="#">Privacy Policy</Link></li>
             </ul>
           </div>
           <div>

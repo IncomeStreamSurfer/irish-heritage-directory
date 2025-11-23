@@ -31,37 +31,23 @@ export default function HomePage() {
                 Explore the Rich Tapestry of Irish Heritage
               </h2>
             </div>
-            <div className="flex flex-col sm:flex-row gap-4 items-center">
-              <Link
-                href="/sites"
-                className="flex min-w-[200px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-5 bg-primary text-[#131811] text-base font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors"
-              >
-                <span className="truncate">Explore All Sites</span>
-              </Link>
-              <Link
-                href="/search"
-                className="flex min-w-[200px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-5 bg-white/90 text-[#131811] text-base font-bold leading-normal tracking-[0.015em] hover:bg-white transition-colors"
-              >
-                <span className="truncate">Search Directory</span>
-              </Link>
-            </div>
+            <label className="flex flex-col min-w-40 h-14 w-full max-w-[480px] @[480px]:h-16">
+              <div className="flex w-full flex-1 items-stretch rounded-lg h-full">
+                <div className="text-[#6f8961] flex border border-[#dfe6db] bg-white items-center justify-center pl-[15px] rounded-l-lg border-r-0">
+                  <span className="material-symbols-outlined">search</span>
+                </div>
+                <input
+                  className="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-lg text-[#131811] focus:outline-0 focus:ring-0 border border-[#dfe6db] bg-white focus:border-primary h-full placeholder:text-[#6f8961] px-[15px] rounded-r-none border-r-0 pr-2 rounded-l-none border-l-0 pl-2 text-sm font-normal leading-normal @[480px]:text-base @[480px]:font-normal @[480px]:leading-normal"
+                  placeholder="Search for Irish heritage sites..."
+                />
+                <div className="flex items-center justify-center rounded-r-lg border-l-0 border border-[#dfe6db] bg-white pr-[7px]">
+                  <Link href="/search" className="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 @[480px]:h-12 @[480px]:px-5 bg-primary text-[#131811] text-sm font-bold leading-normal tracking-[0.015em] @[480px]:text-base @[480px]:font-bold @[480px]:leading-normal @[480px]:tracking-[0.015em]">
+                    <span className="truncate">Search</span>
+                  </Link>
+                </div>
+              </div>
+            </label>
           </div>
-        </div>
-      </div>
-
-      {/* Stats Section */}
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 my-8">
-        <div className="bg-white dark:bg-white/5 p-6 rounded-lg text-center">
-          <div className="text-4xl font-bold text-primary">{allSites.length}</div>
-          <div className="text-sm text-[#6f8961] dark:text-white/70 mt-2">Heritage Sites</div>
-        </div>
-        <div className="bg-white dark:bg-white/5 p-6 rounded-lg text-center">
-          <div className="text-4xl font-bold text-primary">{categories.length}+</div>
-          <div className="text-sm text-[#6f8961] dark:text-white/70 mt-2">Categories</div>
-        </div>
-        <div className="bg-white dark:bg-white/5 p-6 rounded-lg text-center">
-          <div className="text-4xl font-bold text-primary">2</div>
-          <div className="text-sm text-[#6f8961] dark:text-white/70 mt-2">UNESCO Sites</div>
         </div>
       </div>
 
@@ -104,17 +90,14 @@ export default function HomePage() {
       {/* CTA Banner */}
       <div className="mx-4 mt-12 mb-8 rounded-lg bg-primary/20 dark:bg-primary/30 p-8 text-center">
         <h3 className="text-xl font-bold text-[#131811] dark:text-white">
-          Discover Ireland&apos;s Heritage
+          Know a Great Irish Heritage Site?
         </h3>
         <p className="mt-2 text-base text-[#131811]/80 dark:text-white/80">
-          From ancient megalithic tombs to medieval castles, explore {allSites.length}+ heritage sites across Ireland.
+          Help us grow the directory by sharing valuable resources with the community.
         </p>
-        <Link
-          href="/sites"
-          className="mt-6 inline-flex min-w-[200px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-5 bg-primary text-[#131811] text-base font-bold leading-normal tracking-[0.015em] hover:bg-primary/90 transition-colors"
-        >
-          <span className="truncate">View All Sites</span>
-        </Link>
+        <button className="mt-6 flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 px-5 bg-primary text-[#131811] text-base font-bold leading-normal tracking-[0.015em] mx-auto">
+          <span className="truncate">Submit a Site</span>
+        </button>
       </div>
     </div>
   );
